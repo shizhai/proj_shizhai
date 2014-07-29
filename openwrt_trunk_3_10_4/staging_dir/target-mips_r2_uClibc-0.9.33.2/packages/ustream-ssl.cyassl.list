@@ -1,0 +1,11 @@
+./
+./usr
+./usr/include
+./usr/include/libubox
+./usr/include/libubox/ustream-internal.h
+./usr/include/libubox/ustream-polarssl.h
+./usr/include/libubox/ustream-openssl.h
+./usr/include/libubox/ustream-ssl.h
+./usr/lib
+./usr/lib/libustream-ssl.so
+./host

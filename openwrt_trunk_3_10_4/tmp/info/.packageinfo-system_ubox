@@ -1,0 +1,32 @@
+Source-Makefile: package/system/ubox/Makefile
+Package: ubox
+Version: 2013-07-31-21737b1ff2e0be28b68293c7ac198a8fe505cbc2
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +libubox +ubusd +ubus +libuci
+Menu-Depends: 
+Provides: 
+Section: base
+Category: Base system
+Title: OpenWrt system helper toolbox
+Maintainer: John Crispin <blogic@openwrt.org>
+Source: ubox-2013-07-31-21737b1ff2e0be28b68293c7ac198a8fe505cbc2.tar.gz
+Type: ipkg
+Description: OpenWrt system helper toolbox
+John Crispin <blogic@openwrt.org>
+@@
+
+Package: block-mount
+Version: 2013-07-31-21737b1ff2e0be28b68293c7ac198a8fe505cbc2
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +ubox +libubox +libuci
+Menu-Depends: 
+Provides: 
+Section: base
+Category: Base system
+Title: Block device mounting and checking
+Maintainer: John Crispin <blogic@openwrt.org>
+Source: ubox-2013-07-31-21737b1ff2e0be28b68293c7ac198a8fe505cbc2.tar.gz
+Type: ipkg
+Description: Block device mounting and checking
+John Crispin <blogic@openwrt.org>
+@@
+
+

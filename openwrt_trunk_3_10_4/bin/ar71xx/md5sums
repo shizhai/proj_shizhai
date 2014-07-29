@@ -1,0 +1,12 @@
+49585b7b7dd3f81cbfab618847810e4b *openwrt-ar71xx-generic-root.squashfs
+ab92475f0fb51588108514abed5d2529 *openwrt-ar71xx-generic-root.squashfs-64k
+5b1a142d993e59c60ca473f9784724b7 *openwrt-ar71xx-generic-rootfs.tar.gz
+8a004a572d0c3929abefc7376001e290 *openwrt-ar71xx-generic-uImage-gzip.bin
+4054af98913347bc8743feeae5ef348c *openwrt-ar71xx-generic-uImage-lzma.bin
+21122a0a5a915ab522668167ad846518 *openwrt-ar71xx-generic-vmlinux-lzma.elf
+21059140d92817e37e62ed33404877ac *openwrt-ar71xx-generic-vmlinux.bin
+27f4fea5ae9d3d2aa7685f355133d20a *openwrt-ar71xx-generic-vmlinux.elf
+ea2e00ea0a272823df9cf30f60b205c1 *openwrt-ar71xx-generic-vmlinux.gz
+1db1494d90f528148ad358a5ff27413d *openwrt-ar71xx-generic-vmlinux.lzma
+381f2862d11f6274e641325c8809dd9d *openwrt-ar71xx-generic-zhongwang-v1-squashfs-factory.bin
+43802d4f268054f3ebfc2a6e0c3e522a *openwrt-ar71xx-generic-zhongwang-v1-squashfs-sysupgrade.bin

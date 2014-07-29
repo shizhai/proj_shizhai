@@ -1,0 +1,3 @@
+/etc/modules-boot.d/60-usb-storage
+/lib/modules/3.10.4/usb-storage.ko
+/etc/modules.d/60-usb-storage

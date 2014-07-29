@@ -1,0 +1,120 @@
+HORST - Horsts OLSR Radio Scanning Tool (or)
+HORST - Highly Optimized Radio Scanning Tool
+--------------------------------------------
+Copyright (C) 2005-2011 Bruno Randolf (br1@einfach.org)
+
+Licensed under the GNU Public License (GPL) V2
+
+
+= Overview =
+
+"horst" is a scanning and analysis tool for IEEE802.11 wireless ad-hoc (IBSS)
+networks and the OLSR mesh routing protocol. it can be used discover the best
+OLSR nodes in the neighbourhood, to optimize antenna positions and to discover
+problems in the mesh network.
+
+
+= Description =
+
+with the usual wireless tools like iwconfig and iwspy (and even kismet) it is
+hard to measure the received signal strength (SNR or RSSI) for each of the
+*different* nodes which form an ad-hoc network, since they all treat the whole
+IBSS as one. this information however is very important for setting up,
+debugging and optimizing wireless mesh networks.
+
+"horst" aims to fill this gap and lists each single node of an ad-hoc network
+seperately, showing the signal strength (SNR) of the last received packet. this
+way you can see which nodes are part of a specific ad-hoc cell (BSSID), discover
+problems with ad-hoc cell merging ("cell splitting" - a problem of many wlan
+drivers), which of the nodes send OLSR packets, wether they use the OLSR link
+quality exension, how many neighbors they see, etc.
+
+to do this, it uses the monitor mode including prism2 or radiotap headers (for
+the signal strength information) of the wlan cards and listens to all packets
+which come in the wireless interface. these packets are scanned for OLSR
+traffic, summarized by the MAC address of the sending node, and displayed in a
+simple text (ncurses) interface.
+
+"horst" should work with any wlan card which can do monitor mode, with either
+"prism2" or "radiotap" headers.
+
+
+= Usage =
+
+you have to put your card in monitor mode and set the channel manually before
+you start the tool (it does not rotate channels like kismet):
+
+1.) put card in monitor mode:
+	hostap:
+	# iwconfig wlan0 mode monitor
+
+	madwifi:
+	# wlanconfig wlan0 create wlandev wifi0 wlanmode monitor
+
+2.) for hostap: enable prism headers in monitor mode
+	# iwpriv wlan0 monitor_type 1
+
+3.) tune to a channel
+	# iwconfig wlan0 channel 10
+	# ifconfig wlan0 up
+
+4.) start tool
+	# ./horst
+
+5.) see options
+	# ./horst --help
+
+
+= Interpreting the Output =
+
+we try to fit a lot of mostly binary or numeric information to a tiny screen, so
+at first it will look confusing ;)
+
+the upper box shows a summary of the information we gathered for each MAC
+address (node) we saw, each one in a row:
+
+IP	IP address (if available)
+SNR	Signal/Noise ratio of the LAST packet
+SOURCE	MAC address of the source
+BSSID	The BSSID this MAC is on
+LQ	Marked when OLSR Link Quality (LQ) Extension is used
+GW	Marked when this OLSR Node probably knows a default gateway
+NEIGH	Number of Neighbours
+OLSR	Number of OLSR Pakets received
+COUNT	Number of all packets received
+TSF	The high part of the TSF
+
+the lower box dumps all received packets and shows some information for it:
+
+Sig	Signal in dBm
+Noi	Noise in dBm
+SOURCE	MAC Address of the Sender
+BSSID	The BSSID the Sender belongs to
+TYPE	Packet Type
+INFO	Additional packet information, depending on type
+
+the lower right box shows the status and displays the SNR of the last packet
+graphically with a bar.
+
+
+= Building =
+
+"horst" is just a simple tool, so "libncurses" is the only requirement (be sure
+to install it's header files too). therefore building is as simple as typing:
+
+	$ make
+
+for debugging you can use
+
+	$ make DEBUG=1
+
+
+= Contributors =
+
+Thanks to the following persons for contributions:
+
+Horst Krause
+Sven-Ola Tuecke
+Robert Schuster
+Jonathan Guerin
+David Rowe

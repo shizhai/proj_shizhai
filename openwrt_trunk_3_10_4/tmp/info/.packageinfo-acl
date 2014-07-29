@@ -1,0 +1,36 @@
+Source-Makefile: package/acl/Makefile
+Package: acl
+Version: 2.2.51-1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +libacl
+Menu-Depends: 
+Provides: 
+Build-Depends: attr
+Section: utilities
+Category: Utilities
+Title: Commands for Manipulating POSIX Access Control Lists
+Maintainer: 
+Source: acl-2.2.51.src.tar.gz
+Type: ipkg
+Description: 	Commands for Manipulating Filesystem Extended aclibutes
+http://download.savannah.gnu.org
+
+@@
+
+Package: libacl
+Version: 2.2.51-1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +libattr
+Menu-Depends: 
+Provides: 
+Build-Depends: attr
+Section: libs
+Category: Libraries
+Title: Library for Manipulating POSIX Access Control Lists
+Maintainer: 
+Source: acl-2.2.51.src.tar.gz
+Type: ipkg
+Description: 	Library for Manipulating Filesystem Extended aclibutes
+http://download.savannah.gnu.org
+
+@@
+
+

@@ -1,0 +1,17 @@
+input-core.ko
+nls_base.ko
+snd-compress.ko
+snd-hwdep.ko
+snd-mixer-oss.ko
+snd-page-alloc.ko
+snd-pcm-oss.ko
+snd-pcm.ko
+snd-rawmidi.ko
+snd-seq-device.ko
+snd-timer.ko
+snd-usb-audio.ko
+snd-usbmidi-lib.ko
+snd.ko
+soundcore.ko
+usb-common.ko
+usbcore.ko

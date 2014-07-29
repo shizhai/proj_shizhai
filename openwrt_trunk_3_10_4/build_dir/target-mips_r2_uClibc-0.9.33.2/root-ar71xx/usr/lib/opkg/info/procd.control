@@ -1,0 +1,12 @@
+Package: procd
+Version: 2013-07-23-ba0cb9c1ecc72e6b726deaf91193d24b2a85814a-1
+Depends: libc, ubusd, ubus, libjson-script, ubox
+Source: package/system/procd
+SourceFile: procd-2013-07-23-ba0cb9c1ecc72e6b726deaf91193d24b2a85814a.tar.gz
+SourceURL: git://nbd.name/luci2/procd.git
+License: GPLv2
+Section: base
+Maintainer: John Crispin <blogic@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 32970
+Description:  OpenWrt system process manager

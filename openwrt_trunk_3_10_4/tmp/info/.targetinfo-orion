@@ -1,0 +1,52 @@
+Source-Makefile: target/linux/orion/Makefile
+Target: orion
+Target-Board: orion
+Target-Name: Marvell Orion
+Target-Path: /home/shizhai/zhongwang/trunk
+Target-Arch: arm
+Target-Arch-Packages: orion
+Target-Features: arm_v5 gpio pci usb
+Target-Depends: 
+Target-Optimization: -Os -pipe -march=armv5te -mtune=xscale
+Linux-Version: 3.3.8
+Linux-Release: 1
+Linux-Kernel-Arch: arm
+Target-Description:
+
+@@
+Default-Packages: base-files libc libgcc busybox dropbear mtd uci opkg netifd dnsmasq iptables ip6tables ppp ppp-mod-pppoe kmod-ipt-nathelper firewall 6relayd odhcp6c kmod-ath9k kmod-crypto-mv-cesa wpad-mini kmod-i2c-core kmod-i2c-mv64xxx kmod-rtc-isl1208
+Target: orion/generic
+Target-Board: orion
+Target-Name: Generic
+Target-Path: target/linux/orion
+Target-Arch: arm
+Target-Arch-Packages: orion
+Target-Features: arm_v5 gpio pci squashfs usb
+Target-Depends: 
+Target-Optimization: -Os -pipe -march=armv5te -mtune=xscale
+Linux-Version: 3.3.8
+Linux-Release: 1
+Linux-Kernel-Arch: arm
+Target-Description:
+	Build firmware images for Marvell Orion based boards that boot from internal flash.
+	(e.g.: Linksys WRT350N v2, Netgear WNR854T, ...)
+@@
+Default-Packages: base-files libc libgcc busybox dropbear mtd uci opkg netifd dnsmasq iptables ip6tables ppp ppp-mod-pppoe kmod-ipt-nathelper firewall 6relayd odhcp6c kmod-ath9k kmod-crypto-mv-cesa wpad-mini kmod-i2c-core kmod-i2c-mv64xxx kmod-rtc-isl1208
+Target: orion/harddisk
+Target-Board: orion
+Target-Name: Internal Hard-Disk
+Target-Path: target/linux/orion
+Target-Arch: arm
+Target-Arch-Packages: orion
+Target-Features: arm_v5 gpio pci rtc targz usb
+Target-Depends: 
+Target-Optimization: -Os -pipe -march=armv5te -mtune=xscale
+Linux-Version: 3.3.8
+Linux-Release: 1
+Linux-Kernel-Arch: arm
+Target-Description:
+	Build firmware images for Marvell Orion based boards that boot directly from internal disk storage.
+	(e.g.: Freecom DataTank 2, ...)
+@@
+Default-Packages: base-files libc libgcc busybox dropbear mtd uci opkg netifd dnsmasq iptables ip6tables ppp ppp-mod-pppoe kmod-ipt-nathelper firewall 6relayd odhcp6c kmod-ath9k kmod-crypto-mv-cesa wpad-mini kmod-i2c-core kmod-i2c-mv64xxx kmod-rtc-isl1208
+

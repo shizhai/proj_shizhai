@@ -1,0 +1,9 @@
+Package: luci-ssl
+Version: svn-r9957-1
+Depends: libc, luci, libustream-cyassl, px5g
+Source: feeds/luci/contrib/package/luci
+Section: luci
+Maintainer: LuCI Development Team <luci@lists.subsignal.org>
+Architecture: ar71xx
+Installed-Size: 105
+Description:  Standard OpenWrt set with HTTPS support

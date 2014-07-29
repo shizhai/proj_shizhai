@@ -1,0 +1,12 @@
+Package: dropbear
+Version: 2012.55-2
+Depends: libc
+Source: package/network/services/dropbear
+SourceFile: dropbear-2012.55.tar.bz2
+SourceURL: http://matt.ucc.asn.au/dropbear/releases/ http://www.mirrors.wiretapped.net/security/cryptography/apps/ssh/dropbear/
+License: MIT
+LicenseFiles: LICENSE libtomcrypt/LICENSE libtommath/LICENSE
+Section: net
+Architecture: ar71xx
+Installed-Size: 78552
+Description:  A small SSH2 server/client designed for small memory environments.

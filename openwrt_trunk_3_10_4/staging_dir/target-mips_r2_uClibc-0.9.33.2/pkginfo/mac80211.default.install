@@ -1,0 +1,5 @@
+kmod-cfg80211
+kmod-mac80211
+kmod-ath9k-common
+kmod-ath9k
+kmod-ath

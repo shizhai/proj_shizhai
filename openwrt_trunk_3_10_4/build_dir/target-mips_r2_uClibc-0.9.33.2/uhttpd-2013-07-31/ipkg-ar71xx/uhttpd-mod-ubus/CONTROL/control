@@ -1,0 +1,12 @@
+Package: uhttpd-mod-ubus
+Version: 2013-07-31-fae8886f8aa5d996c8de607abea8b677216549b5
+Depends: libc, uhttpd, libubus, libblobmsg-json
+Source: package/network/services/uhttpd
+SourceFile: uhttpd-2013-07-31-fae8886f8aa5d996c8de607abea8b677216549b5.tar.gz
+SourceURL: git://nbd.name/uhttpd2.git
+Section: net
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 5535
+Description:  The ubus plugin adds a HTTP/JSON RPC proxy for ubus and publishes the
+ session.* namespace and procedures.

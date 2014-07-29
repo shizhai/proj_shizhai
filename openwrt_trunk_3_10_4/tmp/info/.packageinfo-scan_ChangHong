@@ -1,0 +1,17 @@
+Source-Makefile: package/scan_ChangHong/Makefile
+Package: scan_ChangHong
+Version: 1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +libpthread
+Menu-Depends: 
+Provides: 
+Section: utils
+Category: Utilities
+Title: scan_ChangHong Program
+Maintainer: 
+Source: 
+Type: ipkg
+Description: 	the software of OpenWrt Router to manage light
+
+@@
+
+

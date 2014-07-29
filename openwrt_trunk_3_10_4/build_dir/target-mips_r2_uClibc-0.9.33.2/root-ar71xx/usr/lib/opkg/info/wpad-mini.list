@@ -1,0 +1,5 @@
+/lib/wifi/wpa_supplicant.sh
+/usr/sbin/wpad
+/usr/sbin/hostapd
+/lib/wifi/hostapd.sh
+/usr/sbin/wpa_supplicant

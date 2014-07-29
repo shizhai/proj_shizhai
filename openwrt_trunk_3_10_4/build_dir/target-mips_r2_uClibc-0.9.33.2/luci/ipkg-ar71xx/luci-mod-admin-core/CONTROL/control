@@ -1,0 +1,9 @@
+Package: luci-mod-admin-core
+Version: svn-r9957-1
+Depends: libc, luci-lib-web, luci-proto-core, luci-i18n-english
+Source: feeds/luci/contrib/package/luci
+Section: luci
+Maintainer: LuCI Development Team <luci@lists.subsignal.org>
+Architecture: ar71xx
+Installed-Size: 5357
+Description:  Web UI Core module

@@ -1,0 +1,11 @@
+Package: ppp
+Version: 2.4.5-10
+Depends: libc, kmod-ppp
+Source: package/network/services/ppp
+SourceFile: ppp-2.4.5.tar.gz
+SourceURL: ftp://ftp.samba.org/pub/ppp/
+Section: net
+Maintainer: Jo-Philipp Wich <xm@subsignal.org>
+Architecture: ar71xx
+Installed-Size: 103729
+Description:  This package contains the PPP (Point-to-Point Protocol) daemon.

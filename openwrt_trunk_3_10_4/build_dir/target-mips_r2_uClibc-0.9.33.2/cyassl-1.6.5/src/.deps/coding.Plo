@@ -1,0 +1,8 @@
+coding.lo: ../ctaocrypt/src/coding.c ../ctaocrypt/include/coding.h \
+ ../ctaocrypt/include/types.h ../ctaocrypt/include/config.h
+
+../ctaocrypt/include/coding.h:
+
+../ctaocrypt/include/types.h:
+
+../ctaocrypt/include/config.h:

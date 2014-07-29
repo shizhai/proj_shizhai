@@ -1,0 +1,27 @@
+--2013-10-23 20:48:09--  ftp://ftp.denx.de/pub/u-boot/u-boot-2010.03.tar.bz2
+           => `-'
+Resolving ftp.denx.de (ftp.denx.de)... 81.169.202.5
+Connecting to ftp.denx.de (ftp.denx.de)|81.169.202.5|:21... connected.
+Logging in as anonymous ... Logged in!
+==> SYST ... done.    ==> PWD ... done.
+==> TYPE I ... done.  ==> CWD (1) /pub/u-boot ... done.
+==> SIZE u-boot-2010.03.tar.bz2 ... 8844729
+==> PASV ... done.    ==> RETR u-boot-2010.03.tar.bz2 ... done.
+Length: 8844729 (8.4M) (unauthoritative)
+
+
+
+2013-10-23 20:51:22 (4.24 KB/s) - Data connection: Connection timed out; Data transfer aborted.
+Retrying.
+
+--2013-10-23 20:51:38--  ftp://ftp.denx.de/pub/u-boot/u-boot-2010.03.tar.bz2
+  (try: 2) => `-'
+==> CWD not required.
+==> SIZE u-boot-2010.03.tar.bz2 ... 8844729
+==> PASV ... done.    ==> REST 802192 ... done.    
+==> RETR u-boot-2010.03.tar.bz2 ... done.
+Length: 8844729 (8.4M), 8042537 (7.7M) remaining (unauthoritative)
+
+71% [++++++++++=========================================================================>                                  ] 6,346,584   9.86K/s  eta 4m 20s  71% [++++++++++=========================================================================>                                  ] 6,346,584   9.81K/s   in 9m 36s  
+
+u-boot-2010.03.tar.bz2: Broken pipe, closing control connection.

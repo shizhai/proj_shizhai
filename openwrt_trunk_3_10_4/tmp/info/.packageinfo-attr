@@ -1,0 +1,34 @@
+Source-Makefile: package/attr/Makefile
+Package: attr
+Version: 2.4.46-1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +libattr
+Menu-Depends: 
+Provides: 
+Section: utilities
+Category: Utilities
+Title: Commands for Manipulating Filesystem Extended Attributes
+Maintainer: 
+Source: attr-2.4.46.src.tar.gz
+Type: ipkg
+Description:  Commands for Manipulating Filesystem Extended Attributes
+http://download.savannah.gnu.org
+
+@@
+
+Package: libattr
+Version: 2.4.46-1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread 
+Menu-Depends: 
+Provides: 
+Section: libs
+Category: Libraries
+Title: Library for Manipulating Filesystem Extended Attributes
+Maintainer: 
+Source: attr-2.4.46.src.tar.gz
+Type: ipkg
+Description: 	Library for Manipulating Filesystem Extended Attributes
+http://download.savannah.gnu.org
+
+@@
+
+

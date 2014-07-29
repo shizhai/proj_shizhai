@@ -1,0 +1,10 @@
+Package: motion
+Version: 20110826-051001-2
+Depends: libc, libjpeg, libpthread
+Source: feeds/packages/multimedia/motion
+SourceFile: motion-20110826-051001.tar.gz
+SourceURL: http://www.lavrsen.dk/sources/motion-daily @SF/motion
+Section: multimedia
+Architecture: ar71xx
+Installed-Size: 90501
+Description:  webcam motion sensing and logging

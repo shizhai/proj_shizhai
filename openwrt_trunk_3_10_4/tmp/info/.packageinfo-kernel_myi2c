@@ -1,0 +1,18 @@
+Source-Makefile: package/kernel/myi2c/Makefile
+Package: kmod-myi2c
+Submenu: Other modules
+Version: <LINUX_VERSION>-1
+Depends: 
+Menu-Depends: 
+Provides: 
+Section: kernel
+Category: Kernel modules
+Title: Driver for myi2c
+Maintainer: 
+Source: 
+Type: ipkg
+Description: Driver for myi2c
+
+@@
+
+

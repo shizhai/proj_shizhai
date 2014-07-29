@@ -1,0 +1,11 @@
+Package: firewall
+Version: 2013-07-16
+Depends: libc, libubox, libubus, libuci, libip4tc, libip6tc, libxtables, kmod-ipt-core, kmod-ipt-nat
+Source: package/network/config/firewall
+SourceFile: firewall-2013-07-16-9d900a9f86ef74a33a531e31c7373ab7b9906d88.tar.gz
+SourceURL: git://nbd.name/firewall3.git
+Section: net
+Maintainer: Jo-Philipp Wich <jow@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 54426
+Description:  This package provides a config-compatible C implementation of the UCI firewall.

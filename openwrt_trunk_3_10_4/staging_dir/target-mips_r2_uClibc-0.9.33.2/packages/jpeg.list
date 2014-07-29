@@ -1,0 +1,14 @@
+./
+./usr
+./usr/include
+./usr/include/jconfig.h
+./usr/include/jpeglib.h
+./usr/include/jmorecfg.h
+./usr/include/jerror.h
+./usr/include/jpegint.h
+./usr/lib
+./usr/lib/libjpeg.so.62.0.0
+./usr/lib/libjpeg.so
+./usr/lib/libjpeg.a
+./usr/lib/libjpeg.so.62
+./host

@@ -1,0 +1,18 @@
+Source-Makefile: target/linux/imx6/Makefile
+Target: imx6
+Target-Board: imx6
+Target-Name: Freescale i.MX 6 Series
+Target-Path: /home/shizhai/zhongwang/trunk
+Target-Arch: arm
+Target-Arch-Packages: imx6
+Target-Features: arm_v7 audio display gpio pci pcie squashfs targz usb usbgadget
+Target-Depends: 
+Target-Optimization: -Os -pipe -mtune=cortex-a9 -march=armv7-a -mfpu=vfpv3-d16 -mfloat-abi=softfp
+Linux-Version: 3.10.4
+Linux-Release: 1
+Linux-Kernel-Arch: arm
+Target-Description:
+
+@@
+Default-Packages: base-files libc libgcc busybox dropbear mtd uci opkg netifd dnsmasq iptables ip6tables ppp ppp-mod-pppoe kmod-ipt-nathelper firewall 6relayd odhcp6c kmod-usb-chipidea kmod-usb-mxs-phy
+

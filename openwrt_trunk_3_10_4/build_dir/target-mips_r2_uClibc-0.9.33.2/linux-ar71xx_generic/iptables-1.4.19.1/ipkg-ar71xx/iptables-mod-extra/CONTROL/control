@@ -1,0 +1,19 @@
+Package: iptables-mod-extra
+Version: 1.4.19.1-2
+Depends: libc, iptables, kmod-ipt-extra
+Source: package/network/utils/iptables
+SourceFile: iptables-1.4.19.1.tar.bz2
+SourceURL: http://www.netfilter.org/projects/iptables/files ftp://ftp.be.netfilter.org/pub/netfilter/iptables/ ftp://ftp.de.netfilter.org/pub/netfilter/iptables/ ftp://ftp.no.netfilter.org/pub/netfilter/iptables/
+Section: net
+Architecture: ar71xx
+Installed-Size: 6702
+Description:  Other extra iptables extensions.
+ 
+ Matches:
+ - addrtype
+ - condition
+ - owner
+ - physdev (if ebtables is enabled)
+ - pkttype
+ - quota
+ 

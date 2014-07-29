@@ -1,0 +1,7 @@
+/sbin/mount_root
+/sbin/jffs2reset
+/usr/sbin/lsmod
+/sbin/switch2jffs
+/sbin/jffs2mark
+/usr/sbin/modinfo
+/sbin/kmodloader

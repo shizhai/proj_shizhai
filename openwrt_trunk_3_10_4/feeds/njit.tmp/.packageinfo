@@ -1,0 +1,80 @@
+Source-Makefile: feeds/njit/agan8021xclient/Makefile
+Package: agan8021xclient
+Version: 1.2-testing
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +libpcap +libnet1
+Menu-Depends: 
+Provides: 
+Build-Depends: +libopenssl
+Section: net
+Category: Network
+Title: AGanNo2's 802.1X client program for H3C V2.20-0247
+Maintainer: 
+Source: agan8021xclient-1.2.tar.gz
+Type: ipkg
+Description:  AGanNo2's 802.1X client program for H3C V2.20-0247
+http://sourceforge.net/projects/agan8021xclient
+
+@@
+
+
+Source-Makefile: feeds/njit/oh3c/Makefile
+Package: oh3c
+Version: 1.0-1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +python
+Menu-Depends: 
+Provides: 
+Section: net
+Category: Network
+Title: OH3C 802.1X client
+Maintainer: 
+Source: oh3c-1.0.tar.gz
+Type: ipkg
+Description: OH3C 802.1X client
+http://github.com/nanpuyue/oh3c
+
+@@
+
+
+Source-Makefile: feeds/njit/njit8021xclient/Makefile
+Package: njit8021xclient
+Version: 1.3-testing
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +libpcap
+Menu-Depends: 
+Provides: 
+Build-Depends: +libopenssl
+Section: net
+Category: Network
+Title: NJIT 802.1X client program
+Maintainer: 
+Source: njit8021xclient-1.3.tar.gz
+Type: ipkg
+Description:    802.1X client from Nanjing Institude of Technology,
+ compatable with H3C iNode 802.1X client.
+ Support H3C/iNode's private authentication protocol V2.40-V3.60
+  This package contains only the main program njit-client.
+http://liuqun.github.com/njit8021xclient
+
+@@
+
+Package: njit8021xclient-web
+Version: 1.3-testing
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread njit8021xclient
+Menu-Depends: 
+Provides: 
+Build-Depends: +libopenssl
+Section: net
+Category: Network
+Title: LuCI pages for NJIT 802.1X client
+Maintainer: 
+Source: njit8021xclient-1.3.tar.gz
+Type: ipkg
+Description:    802.1X client from Nanjing Institude of Technology,
+ compatable with H3C iNode 802.1X client.
+ Support H3C/iNode's private authentication protocol V2.40-V3.60
+  This package contains LuCI web pages of njit8021xclient.
+  It will help you to set your 802.1X login password.
+http://sourceforge.net/projects/njit8021xclient/
+
+@@
+
+

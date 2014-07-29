@@ -1,0 +1,5 @@
+/usr/sbin/6relayd
+/etc/hotplug.d/iface/30-6relay
+/etc/config/6relayd
+/usr/sbin/6relayd-update
+/etc/init.d/6relayd

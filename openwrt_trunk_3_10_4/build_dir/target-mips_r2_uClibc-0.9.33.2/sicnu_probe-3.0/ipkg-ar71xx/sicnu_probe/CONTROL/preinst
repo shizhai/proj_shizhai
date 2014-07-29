@@ -1,0 +1,2 @@
+#!/bin/sh
+sed -i '26i\	/usr/sbin/mcs.sh' /etc/init.d/network

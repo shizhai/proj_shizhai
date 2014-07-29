@@ -1,0 +1,580 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+APL1_APLA	regd_common.h	/^	APL1_APLA = 0x54,$/;"	e	enum:EnumRd
+APL1_ETSIC	regd_common.h	/^	APL1_ETSIC = 0x55,$/;"	e	enum:EnumRd
+APL1_FCCA	regd_common.h	/^	APL1_FCCA = 0x53,$/;"	e	enum:EnumRd
+APL1_WORLD	regd_common.h	/^	APL1_WORLD = 0x52,$/;"	e	enum:EnumRd
+APL2_APLC	regd_common.h	/^	APL2_APLC = 0x46,$/;"	e	enum:EnumRd
+APL2_APLD	regd_common.h	/^	APL2_APLD = 0x49,$/;"	e	enum:EnumRd
+APL2_ETSIC	regd_common.h	/^	APL2_ETSIC = 0x56,$/;"	e	enum:EnumRd
+APL2_WORLD	regd_common.h	/^	APL2_WORLD = 0x45,$/;"	e	enum:EnumRd
+APL3_FCCA	regd_common.h	/^	APL3_FCCA = 0x50,$/;"	e	enum:EnumRd
+APL3_WORLD	regd_common.h	/^	APL3_WORLD = 0x47,$/;"	e	enum:EnumRd
+APL4_WORLD	regd_common.h	/^	APL4_WORLD = 0x42,$/;"	e	enum:EnumRd
+APL5_WORLD	regd_common.h	/^	APL5_WORLD = 0x58,$/;"	e	enum:EnumRd
+APL6_WORLD	regd_common.h	/^	APL6_WORLD = 0x5B,$/;"	e	enum:EnumRd
+APL7_FCCA	regd_common.h	/^	APL7_FCCA = 0x5C,$/;"	e	enum:EnumRd
+APL8_WORLD	regd_common.h	/^	APL8_WORLD = 0x5D,$/;"	e	enum:EnumRd
+APL9_WORLD	regd_common.h	/^	APL9_WORLD = 0x5E,$/;"	e	enum:EnumRd
+APL_RESERVED	regd_common.h	/^	APL_RESERVED = 0x44,$/;"	e	enum:EnumRd
+AR_BSSMSKL	reg.h	34;"	d
+AR_BSSMSKU	reg.h	35;"	d
+AR_CCCNT	reg.h	40;"	d
+AR_KEYTABLE	reg.h	43;"	d
+AR_KEYTABLE_0	reg.h	42;"	d
+AR_KEYTABLE_ANT	reg.h	54;"	d
+AR_KEYTABLE_KEY0	reg.h	56;"	d
+AR_KEYTABLE_KEY1	reg.h	57;"	d
+AR_KEYTABLE_KEY2	reg.h	58;"	d
+AR_KEYTABLE_KEY3	reg.h	59;"	d
+AR_KEYTABLE_KEY4	reg.h	60;"	d
+AR_KEYTABLE_MAC0	reg.h	62;"	d
+AR_KEYTABLE_MAC1	reg.h	63;"	d
+AR_KEYTABLE_TYPE	reg.h	61;"	d
+AR_KEYTABLE_TYPE_104	reg.h	48;"	d
+AR_KEYTABLE_TYPE_128	reg.h	49;"	d
+AR_KEYTABLE_TYPE_40	reg.h	47;"	d
+AR_KEYTABLE_TYPE_AES	reg.h	51;"	d
+AR_KEYTABLE_TYPE_CCM	reg.h	52;"	d
+AR_KEYTABLE_TYPE_CLR	reg.h	53;"	d
+AR_KEYTABLE_TYPE_TKIP	reg.h	50;"	d
+AR_KEYTABLE_VALID	reg.h	55;"	d
+AR_KEY_CACHE_SIZE	reg.h	44;"	d
+AR_KEY_TYPE	reg.h	46;"	d
+AR_MIBC	reg.h	20;"	d
+AR_MIBC_CMC	reg.h	23;"	d
+AR_MIBC_COW	reg.h	21;"	d
+AR_MIBC_FMC	reg.h	22;"	d
+AR_MIBC_MCS	reg.h	24;"	d
+AR_RCCNT	reg.h	39;"	d
+AR_RFCNT	reg.h	38;"	d
+AR_RSVD_KEYTABLE_ENTRIES	reg.h	45;"	d
+AR_STA_ID0	reg.h	26;"	d
+AR_STA_ID1	reg.h	27;"	d
+AR_STA_ID1_SADH_MASK	reg.h	28;"	d
+AR_TFCNT	reg.h	37;"	d
+ATH9K_2GHZ_ALL	regd.c	56;"	d	file:
+ATH9K_2GHZ_CH01_11	regd.c	39;"	d	file:
+ATH9K_2GHZ_CH12_13	regd.c	42;"	d	file:
+ATH9K_2GHZ_CH14	regd.c	44;"	d	file:
+ATH9K_5GHZ_5150_5350	regd.c	48;"	d	file:
+ATH9K_5GHZ_5470_5850	regd.c	51;"	d	file:
+ATH9K_5GHZ_5725_5850	regd.c	53;"	d	file:
+ATH9K_5GHZ_ALL	regd.c	60;"	d	file:
+ATH9K_5GHZ_NO_MIDBAND	regd.c	64;"	d	file:
+ATH_AHB	ath.h	/^	ATH_AHB,$/;"	e	enum:ath_bus_type
+ATH_CIPHER_AES_CCM	ath.h	/^	ATH_CIPHER_AES_CCM = 2,$/;"	e	enum:ath_cipher
+ATH_CIPHER_AES_OCB	ath.h	/^	ATH_CIPHER_AES_OCB = 1,$/;"	e	enum:ath_cipher
+ATH_CIPHER_CKIP	ath.h	/^	ATH_CIPHER_CKIP = 3,$/;"	e	enum:ath_cipher
+ATH_CIPHER_CLR	ath.h	/^	ATH_CIPHER_CLR = 5,$/;"	e	enum:ath_cipher
+ATH_CIPHER_MIC	ath.h	/^	ATH_CIPHER_MIC = 127$/;"	e	enum:ath_cipher
+ATH_CIPHER_TKIP	ath.h	/^	ATH_CIPHER_TKIP = 4,$/;"	e	enum:ath_cipher
+ATH_CIPHER_WEP	ath.h	/^	ATH_CIPHER_WEP = 0,$/;"	e	enum:ath_cipher
+ATH_CRYPT_CAP_CIPHER_AESCCM	ath.h	/^	ATH_CRYPT_CAP_CIPHER_AESCCM		= BIT(0),$/;"	e	enum:ath_crypt_caps
+ATH_CRYPT_CAP_MIC_COMBINED	ath.h	/^	ATH_CRYPT_CAP_MIC_COMBINED		= BIT(1),$/;"	e	enum:ath_crypt_caps
+ATH_DBG_ANI	ath.h	/^	ATH_DBG_ANI		= 0x00000040,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_ANY	ath.h	/^	ATH_DBG_ANY		= 0xffffffff$/;"	e	enum:ATH_DEBUG
+ATH_DBG_BEACON	ath.h	/^	ATH_DBG_BEACON		= 0x00000100,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_BSTUCK	ath.h	/^	ATH_DBG_BSTUCK		= 0x00004000,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_BTCOEX	ath.h	/^	ATH_DBG_BTCOEX		= 0x00001000,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_CALIBRATE	ath.h	/^	ATH_DBG_CALIBRATE	= 0x00000008,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_CONFIG	ath.h	/^	ATH_DBG_CONFIG		= 0x00000200,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_DEFAULT	ath.h	252;"	d
+ATH_DBG_DFS	ath.h	/^	ATH_DBG_DFS		= 0x00010000,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_EEPROM	ath.h	/^	ATH_DBG_EEPROM		= 0x00000004,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_FATAL	ath.h	/^	ATH_DBG_FATAL		= 0x00000400,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_INTERRUPT	ath.h	/^	ATH_DBG_INTERRUPT	= 0x00000010,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_MCI	ath.h	/^	ATH_DBG_MCI		= 0x00008000,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_PS	ath.h	/^	ATH_DBG_PS		= 0x00000800,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_QUEUE	ath.h	/^	ATH_DBG_QUEUE		= 0x00000002,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_REGULATORY	ath.h	/^	ATH_DBG_REGULATORY	= 0x00000020,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_RESET	ath.h	/^	ATH_DBG_RESET		= 0x00000001,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_WARN	ath.h	262;"	d
+ATH_DBG_WARN	ath.h	275;"	d
+ATH_DBG_WARN_ON_ONCE	ath.h	263;"	d
+ATH_DBG_WARN_ON_ONCE	ath.h	276;"	d
+ATH_DBG_WMI	ath.h	/^	ATH_DBG_WMI		= 0x00002000,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_WOW	ath.h	/^	ATH_DBG_WOW		= 0x00020000,$/;"	e	enum:ATH_DEBUG
+ATH_DBG_XMIT	ath.h	/^	ATH_DBG_XMIT		= 0x00000080,$/;"	e	enum:ATH_DEBUG
+ATH_DEBUG	ath.h	/^enum ATH_DEBUG {$/;"	g
+ATH_H	ath.h	18;"	d
+ATH_HW_INITIALIZED	ath.h	/^	ATH_HW_INITIALIZED,$/;"	e	enum:ath_device_state
+ATH_HW_UNAVAILABLE	ath.h	/^	ATH_HW_UNAVAILABLE,$/;"	e	enum:ath_device_state
+ATH_KEYMAX	ath.h	33;"	d
+ATH_PCI	ath.h	/^	ATH_PCI,$/;"	e	enum:ath_bus_type
+ATH_REGISTERS_H	reg.h	18;"	d
+ATH_USB	ath.h	/^	ATH_USB,$/;"	e	enum:ath_bus_type
+CHANNEL_HALF_BW	regd.h	53;"	d
+CHANNEL_QUARTER_BW	regd.h	54;"	d
+COUNTRY_ERD_FLAG	regd.h	45;"	d
+CTL_11A	regd.h	34;"	d
+CTL_11B	regd.h	35;"	d
+CTL_11G	regd.h	36;"	d
+CTL_2GHT20	regd.h	37;"	d
+CTL_2GHT40	regd.h	39;"	d
+CTL_5GHT20	regd.h	38;"	d
+CTL_5GHT40	regd.h	40;"	d
+CTL_ETSI	regd.h	/^	CTL_ETSI = 0x30,$/;"	e	enum:ctl_group
+CTL_FCC	regd.h	/^	CTL_FCC = 0x10,$/;"	e	enum:ctl_group
+CTL_MKK	regd.h	/^	CTL_MKK = 0x40,$/;"	e	enum:ctl_group
+CTRY_ALBANIA	regd.h	/^	CTRY_ALBANIA = 8,$/;"	e	enum:CountryCode
+CTRY_ALGERIA	regd.h	/^	CTRY_ALGERIA = 12,$/;"	e	enum:CountryCode
+CTRY_ARGENTINA	regd.h	/^	CTRY_ARGENTINA = 32,$/;"	e	enum:CountryCode
+CTRY_ARMENIA	regd.h	/^	CTRY_ARMENIA = 51,$/;"	e	enum:CountryCode
+CTRY_ARUBA	regd.h	/^	CTRY_ARUBA = 533,$/;"	e	enum:CountryCode
+CTRY_AUSTRALIA	regd.h	/^	CTRY_AUSTRALIA = 36,$/;"	e	enum:CountryCode
+CTRY_AUSTRALIA2	regd.h	/^	CTRY_AUSTRALIA2 = 5000,$/;"	e	enum:CountryCode
+CTRY_AUSTRIA	regd.h	/^	CTRY_AUSTRIA = 40,$/;"	e	enum:CountryCode
+CTRY_AZERBAIJAN	regd.h	/^	CTRY_AZERBAIJAN = 31,$/;"	e	enum:CountryCode
+CTRY_BAHRAIN	regd.h	/^	CTRY_BAHRAIN = 48,$/;"	e	enum:CountryCode
+CTRY_BANGLADESH	regd.h	/^	CTRY_BANGLADESH = 50,$/;"	e	enum:CountryCode
+CTRY_BARBADOS	regd.h	/^	CTRY_BARBADOS = 52,$/;"	e	enum:CountryCode
+CTRY_BELARUS	regd.h	/^	CTRY_BELARUS = 112,$/;"	e	enum:CountryCode
+CTRY_BELGIUM	regd.h	/^	CTRY_BELGIUM = 56,$/;"	e	enum:CountryCode
+CTRY_BELGIUM2	regd.h	/^	CTRY_BELGIUM2 = 5002$/;"	e	enum:CountryCode
+CTRY_BELIZE	regd.h	/^	CTRY_BELIZE = 84,$/;"	e	enum:CountryCode
+CTRY_BOLIVIA	regd.h	/^	CTRY_BOLIVIA = 68,$/;"	e	enum:CountryCode
+CTRY_BOSNIA_HERZ	regd.h	/^	CTRY_BOSNIA_HERZ = 70,$/;"	e	enum:CountryCode
+CTRY_BRAZIL	regd.h	/^	CTRY_BRAZIL = 76,$/;"	e	enum:CountryCode
+CTRY_BRUNEI_DARUSSALAM	regd.h	/^	CTRY_BRUNEI_DARUSSALAM = 96,$/;"	e	enum:CountryCode
+CTRY_BULGARIA	regd.h	/^	CTRY_BULGARIA = 100,$/;"	e	enum:CountryCode
+CTRY_CAMBODIA	regd.h	/^	CTRY_CAMBODIA = 116,$/;"	e	enum:CountryCode
+CTRY_CANADA	regd.h	/^	CTRY_CANADA = 124,$/;"	e	enum:CountryCode
+CTRY_CANADA2	regd.h	/^	CTRY_CANADA2 = 5001,$/;"	e	enum:CountryCode
+CTRY_CHILE	regd.h	/^	CTRY_CHILE = 152,$/;"	e	enum:CountryCode
+CTRY_CHINA	regd.h	/^	CTRY_CHINA = 156,$/;"	e	enum:CountryCode
+CTRY_COLOMBIA	regd.h	/^	CTRY_COLOMBIA = 170,$/;"	e	enum:CountryCode
+CTRY_COSTA_RICA	regd.h	/^	CTRY_COSTA_RICA = 188,$/;"	e	enum:CountryCode
+CTRY_CROATIA	regd.h	/^	CTRY_CROATIA = 191,$/;"	e	enum:CountryCode
+CTRY_CYPRUS	regd.h	/^	CTRY_CYPRUS = 196,$/;"	e	enum:CountryCode
+CTRY_CZECH	regd.h	/^	CTRY_CZECH = 203,$/;"	e	enum:CountryCode
+CTRY_DEBUG	regd.h	42;"	d
+CTRY_DEFAULT	regd.h	43;"	d
+CTRY_DENMARK	regd.h	/^	CTRY_DENMARK = 208,$/;"	e	enum:CountryCode
+CTRY_DOMINICAN_REPUBLIC	regd.h	/^	CTRY_DOMINICAN_REPUBLIC = 214,$/;"	e	enum:CountryCode
+CTRY_ECUADOR	regd.h	/^	CTRY_ECUADOR = 218,$/;"	e	enum:CountryCode
+CTRY_EGYPT	regd.h	/^	CTRY_EGYPT = 818,$/;"	e	enum:CountryCode
+CTRY_EL_SALVADOR	regd.h	/^	CTRY_EL_SALVADOR = 222,$/;"	e	enum:CountryCode
+CTRY_ESTONIA	regd.h	/^	CTRY_ESTONIA = 233,$/;"	e	enum:CountryCode
+CTRY_FAEROE_ISLANDS	regd.h	/^	CTRY_FAEROE_ISLANDS = 234,$/;"	e	enum:CountryCode
+CTRY_FINLAND	regd.h	/^	CTRY_FINLAND = 246,$/;"	e	enum:CountryCode
+CTRY_FRANCE	regd.h	/^	CTRY_FRANCE = 250,$/;"	e	enum:CountryCode
+CTRY_GEORGIA	regd.h	/^	CTRY_GEORGIA = 268,$/;"	e	enum:CountryCode
+CTRY_GERMANY	regd.h	/^	CTRY_GERMANY = 276,$/;"	e	enum:CountryCode
+CTRY_GREECE	regd.h	/^	CTRY_GREECE = 300,$/;"	e	enum:CountryCode
+CTRY_GREENLAND	regd.h	/^	CTRY_GREENLAND = 304,$/;"	e	enum:CountryCode
+CTRY_GRENADA	regd.h	/^	CTRY_GRENADA = 308,$/;"	e	enum:CountryCode
+CTRY_GUAM	regd.h	/^	CTRY_GUAM = 316,$/;"	e	enum:CountryCode
+CTRY_GUATEMALA	regd.h	/^	CTRY_GUATEMALA = 320,$/;"	e	enum:CountryCode
+CTRY_HAITI	regd.h	/^	CTRY_HAITI = 332,$/;"	e	enum:CountryCode
+CTRY_HONDURAS	regd.h	/^	CTRY_HONDURAS = 340,$/;"	e	enum:CountryCode
+CTRY_HONG_KONG	regd.h	/^	CTRY_HONG_KONG = 344,$/;"	e	enum:CountryCode
+CTRY_HUNGARY	regd.h	/^	CTRY_HUNGARY = 348,$/;"	e	enum:CountryCode
+CTRY_ICELAND	regd.h	/^	CTRY_ICELAND = 352,$/;"	e	enum:CountryCode
+CTRY_INDIA	regd.h	/^	CTRY_INDIA = 356,$/;"	e	enum:CountryCode
+CTRY_INDONESIA	regd.h	/^	CTRY_INDONESIA = 360,$/;"	e	enum:CountryCode
+CTRY_IRAN	regd.h	/^	CTRY_IRAN = 364,$/;"	e	enum:CountryCode
+CTRY_IRAQ	regd.h	/^	CTRY_IRAQ = 368,$/;"	e	enum:CountryCode
+CTRY_IRELAND	regd.h	/^	CTRY_IRELAND = 372,$/;"	e	enum:CountryCode
+CTRY_ISRAEL	regd.h	/^	CTRY_ISRAEL = 376,$/;"	e	enum:CountryCode
+CTRY_ITALY	regd.h	/^	CTRY_ITALY = 380,$/;"	e	enum:CountryCode
+CTRY_JAMAICA	regd.h	/^	CTRY_JAMAICA = 388,$/;"	e	enum:CountryCode
+CTRY_JAPAN	regd.h	/^	CTRY_JAPAN = 392,$/;"	e	enum:CountryCode
+CTRY_JAPAN1	regd.h	/^	CTRY_JAPAN1 = 393,$/;"	e	enum:CountryCode
+CTRY_JAPAN10	regd.h	/^	CTRY_JAPAN10 = 4010,$/;"	e	enum:CountryCode
+CTRY_JAPAN11	regd.h	/^	CTRY_JAPAN11 = 4011,$/;"	e	enum:CountryCode
+CTRY_JAPAN12	regd.h	/^	CTRY_JAPAN12 = 4012,$/;"	e	enum:CountryCode
+CTRY_JAPAN13	regd.h	/^	CTRY_JAPAN13 = 4013,$/;"	e	enum:CountryCode
+CTRY_JAPAN14	regd.h	/^	CTRY_JAPAN14 = 4014,$/;"	e	enum:CountryCode
+CTRY_JAPAN15	regd.h	/^	CTRY_JAPAN15 = 4015,$/;"	e	enum:CountryCode
+CTRY_JAPAN16	regd.h	/^	CTRY_JAPAN16 = 4016,$/;"	e	enum:CountryCode
+CTRY_JAPAN17	regd.h	/^	CTRY_JAPAN17 = 4017,$/;"	e	enum:CountryCode
+CTRY_JAPAN18	regd.h	/^	CTRY_JAPAN18 = 4018,$/;"	e	enum:CountryCode
+CTRY_JAPAN19	regd.h	/^	CTRY_JAPAN19 = 4019,$/;"	e	enum:CountryCode
+CTRY_JAPAN2	regd.h	/^	CTRY_JAPAN2 = 394,$/;"	e	enum:CountryCode
+CTRY_JAPAN20	regd.h	/^	CTRY_JAPAN20 = 4020,$/;"	e	enum:CountryCode
+CTRY_JAPAN21	regd.h	/^	CTRY_JAPAN21 = 4021,$/;"	e	enum:CountryCode
+CTRY_JAPAN22	regd.h	/^	CTRY_JAPAN22 = 4022,$/;"	e	enum:CountryCode
+CTRY_JAPAN23	regd.h	/^	CTRY_JAPAN23 = 4023,$/;"	e	enum:CountryCode
+CTRY_JAPAN24	regd.h	/^	CTRY_JAPAN24 = 4024,$/;"	e	enum:CountryCode
+CTRY_JAPAN25	regd.h	/^	CTRY_JAPAN25 = 4025,$/;"	e	enum:CountryCode
+CTRY_JAPAN26	regd.h	/^	CTRY_JAPAN26 = 4026,$/;"	e	enum:CountryCode
+CTRY_JAPAN27	regd.h	/^	CTRY_JAPAN27 = 4027,$/;"	e	enum:CountryCode
+CTRY_JAPAN28	regd.h	/^	CTRY_JAPAN28 = 4028,$/;"	e	enum:CountryCode
+CTRY_JAPAN29	regd.h	/^	CTRY_JAPAN29 = 4029,$/;"	e	enum:CountryCode
+CTRY_JAPAN3	regd.h	/^	CTRY_JAPAN3 = 395,$/;"	e	enum:CountryCode
+CTRY_JAPAN30	regd.h	/^	CTRY_JAPAN30 = 4030,$/;"	e	enum:CountryCode
+CTRY_JAPAN31	regd.h	/^	CTRY_JAPAN31 = 4031,$/;"	e	enum:CountryCode
+CTRY_JAPAN32	regd.h	/^	CTRY_JAPAN32 = 4032,$/;"	e	enum:CountryCode
+CTRY_JAPAN33	regd.h	/^	CTRY_JAPAN33 = 4033,$/;"	e	enum:CountryCode
+CTRY_JAPAN34	regd.h	/^	CTRY_JAPAN34 = 4034,$/;"	e	enum:CountryCode
+CTRY_JAPAN35	regd.h	/^	CTRY_JAPAN35 = 4035,$/;"	e	enum:CountryCode
+CTRY_JAPAN36	regd.h	/^	CTRY_JAPAN36 = 4036,$/;"	e	enum:CountryCode
+CTRY_JAPAN37	regd.h	/^	CTRY_JAPAN37 = 4037,$/;"	e	enum:CountryCode
+CTRY_JAPAN38	regd.h	/^	CTRY_JAPAN38 = 4038,$/;"	e	enum:CountryCode
+CTRY_JAPAN39	regd.h	/^	CTRY_JAPAN39 = 4039,$/;"	e	enum:CountryCode
+CTRY_JAPAN4	regd.h	/^	CTRY_JAPAN4 = 396,$/;"	e	enum:CountryCode
+CTRY_JAPAN40	regd.h	/^	CTRY_JAPAN40 = 4040,$/;"	e	enum:CountryCode
+CTRY_JAPAN41	regd.h	/^	CTRY_JAPAN41 = 4041,$/;"	e	enum:CountryCode
+CTRY_JAPAN42	regd.h	/^	CTRY_JAPAN42 = 4042,$/;"	e	enum:CountryCode
+CTRY_JAPAN43	regd.h	/^	CTRY_JAPAN43 = 4043,$/;"	e	enum:CountryCode
+CTRY_JAPAN44	regd.h	/^	CTRY_JAPAN44 = 4044,$/;"	e	enum:CountryCode
+CTRY_JAPAN45	regd.h	/^	CTRY_JAPAN45 = 4045,$/;"	e	enum:CountryCode
+CTRY_JAPAN46	regd.h	/^	CTRY_JAPAN46 = 4046,$/;"	e	enum:CountryCode
+CTRY_JAPAN47	regd.h	/^	CTRY_JAPAN47 = 4047,$/;"	e	enum:CountryCode
+CTRY_JAPAN48	regd.h	/^	CTRY_JAPAN48 = 4048,$/;"	e	enum:CountryCode
+CTRY_JAPAN49	regd.h	/^	CTRY_JAPAN49 = 4049,$/;"	e	enum:CountryCode
+CTRY_JAPAN5	regd.h	/^	CTRY_JAPAN5 = 397,$/;"	e	enum:CountryCode
+CTRY_JAPAN50	regd.h	/^	CTRY_JAPAN50 = 4050,$/;"	e	enum:CountryCode
+CTRY_JAPAN51	regd.h	/^	CTRY_JAPAN51 = 4051,$/;"	e	enum:CountryCode
+CTRY_JAPAN52	regd.h	/^	CTRY_JAPAN52 = 4052,$/;"	e	enum:CountryCode
+CTRY_JAPAN53	regd.h	/^	CTRY_JAPAN53 = 4053,$/;"	e	enum:CountryCode
+CTRY_JAPAN54	regd.h	/^	CTRY_JAPAN54 = 4054,$/;"	e	enum:CountryCode
+CTRY_JAPAN55	regd.h	/^	CTRY_JAPAN55 = 4055,$/;"	e	enum:CountryCode
+CTRY_JAPAN56	regd.h	/^	CTRY_JAPAN56 = 4056,$/;"	e	enum:CountryCode
+CTRY_JAPAN57	regd.h	/^	CTRY_JAPAN57 = 4057,$/;"	e	enum:CountryCode
+CTRY_JAPAN58	regd.h	/^	CTRY_JAPAN58 = 4058,$/;"	e	enum:CountryCode
+CTRY_JAPAN59	regd.h	/^	CTRY_JAPAN59 = 4059,$/;"	e	enum:CountryCode
+CTRY_JAPAN6	regd.h	/^	CTRY_JAPAN6 = 4006,$/;"	e	enum:CountryCode
+CTRY_JAPAN7	regd.h	/^	CTRY_JAPAN7 = 4007,$/;"	e	enum:CountryCode
+CTRY_JAPAN8	regd.h	/^	CTRY_JAPAN8 = 4008,$/;"	e	enum:CountryCode
+CTRY_JAPAN9	regd.h	/^	CTRY_JAPAN9 = 4009,$/;"	e	enum:CountryCode
+CTRY_JORDAN	regd.h	/^	CTRY_JORDAN = 400,$/;"	e	enum:CountryCode
+CTRY_KAZAKHSTAN	regd.h	/^	CTRY_KAZAKHSTAN = 398,$/;"	e	enum:CountryCode
+CTRY_KENYA	regd.h	/^	CTRY_KENYA = 404,$/;"	e	enum:CountryCode
+CTRY_KOREA_NORTH	regd.h	/^	CTRY_KOREA_NORTH = 408,$/;"	e	enum:CountryCode
+CTRY_KOREA_ROC	regd.h	/^	CTRY_KOREA_ROC = 410,$/;"	e	enum:CountryCode
+CTRY_KOREA_ROC2	regd.h	/^	CTRY_KOREA_ROC2 = 411,$/;"	e	enum:CountryCode
+CTRY_KOREA_ROC3	regd.h	/^	CTRY_KOREA_ROC3 = 412,$/;"	e	enum:CountryCode
+CTRY_KUWAIT	regd.h	/^	CTRY_KUWAIT = 414,$/;"	e	enum:CountryCode
+CTRY_LATVIA	regd.h	/^	CTRY_LATVIA = 428,$/;"	e	enum:CountryCode
+CTRY_LEBANON	regd.h	/^	CTRY_LEBANON = 422,$/;"	e	enum:CountryCode
+CTRY_LIBYA	regd.h	/^	CTRY_LIBYA = 434,$/;"	e	enum:CountryCode
+CTRY_LIECHTENSTEIN	regd.h	/^	CTRY_LIECHTENSTEIN = 438,$/;"	e	enum:CountryCode
+CTRY_LITHUANIA	regd.h	/^	CTRY_LITHUANIA = 440,$/;"	e	enum:CountryCode
+CTRY_LUXEMBOURG	regd.h	/^	CTRY_LUXEMBOURG = 442,$/;"	e	enum:CountryCode
+CTRY_MACAU	regd.h	/^	CTRY_MACAU = 446,$/;"	e	enum:CountryCode
+CTRY_MACEDONIA	regd.h	/^	CTRY_MACEDONIA = 807,$/;"	e	enum:CountryCode
+CTRY_MALAYSIA	regd.h	/^	CTRY_MALAYSIA = 458,$/;"	e	enum:CountryCode
+CTRY_MALTA	regd.h	/^	CTRY_MALTA = 470,$/;"	e	enum:CountryCode
+CTRY_MEXICO	regd.h	/^	CTRY_MEXICO = 484,$/;"	e	enum:CountryCode
+CTRY_MONACO	regd.h	/^	CTRY_MONACO = 492,$/;"	e	enum:CountryCode
+CTRY_MOROCCO	regd.h	/^	CTRY_MOROCCO = 504,$/;"	e	enum:CountryCode
+CTRY_NEPAL	regd.h	/^	CTRY_NEPAL = 524,$/;"	e	enum:CountryCode
+CTRY_NETHERLANDS	regd.h	/^	CTRY_NETHERLANDS = 528,$/;"	e	enum:CountryCode
+CTRY_NETHERLANDS_ANTILLES	regd.h	/^	CTRY_NETHERLANDS_ANTILLES = 530,$/;"	e	enum:CountryCode
+CTRY_NEW_ZEALAND	regd.h	/^	CTRY_NEW_ZEALAND = 554,$/;"	e	enum:CountryCode
+CTRY_NICARAGUA	regd.h	/^	CTRY_NICARAGUA = 558,$/;"	e	enum:CountryCode
+CTRY_NORWAY	regd.h	/^	CTRY_NORWAY = 578,$/;"	e	enum:CountryCode
+CTRY_OMAN	regd.h	/^	CTRY_OMAN = 512,$/;"	e	enum:CountryCode
+CTRY_PAKISTAN	regd.h	/^	CTRY_PAKISTAN = 586,$/;"	e	enum:CountryCode
+CTRY_PANAMA	regd.h	/^	CTRY_PANAMA = 591,$/;"	e	enum:CountryCode
+CTRY_PAPUA_NEW_GUINEA	regd.h	/^	CTRY_PAPUA_NEW_GUINEA = 598,$/;"	e	enum:CountryCode
+CTRY_PARAGUAY	regd.h	/^	CTRY_PARAGUAY = 600,$/;"	e	enum:CountryCode
+CTRY_PERU	regd.h	/^	CTRY_PERU = 604,$/;"	e	enum:CountryCode
+CTRY_PHILIPPINES	regd.h	/^	CTRY_PHILIPPINES = 608,$/;"	e	enum:CountryCode
+CTRY_POLAND	regd.h	/^	CTRY_POLAND = 616,$/;"	e	enum:CountryCode
+CTRY_PORTUGAL	regd.h	/^	CTRY_PORTUGAL = 620,$/;"	e	enum:CountryCode
+CTRY_PUERTO_RICO	regd.h	/^	CTRY_PUERTO_RICO = 630,$/;"	e	enum:CountryCode
+CTRY_QATAR	regd.h	/^	CTRY_QATAR = 634,$/;"	e	enum:CountryCode
+CTRY_ROMANIA	regd.h	/^	CTRY_ROMANIA = 642,$/;"	e	enum:CountryCode
+CTRY_RUSSIA	regd.h	/^	CTRY_RUSSIA = 643,$/;"	e	enum:CountryCode
+CTRY_SAUDI_ARABIA	regd.h	/^	CTRY_SAUDI_ARABIA = 682,$/;"	e	enum:CountryCode
+CTRY_SERBIA_MONTENEGRO	regd.h	/^	CTRY_SERBIA_MONTENEGRO = 891,$/;"	e	enum:CountryCode
+CTRY_SINGAPORE	regd.h	/^	CTRY_SINGAPORE = 702,$/;"	e	enum:CountryCode
+CTRY_SLOVAKIA	regd.h	/^	CTRY_SLOVAKIA = 703,$/;"	e	enum:CountryCode
+CTRY_SLOVENIA	regd.h	/^	CTRY_SLOVENIA = 705,$/;"	e	enum:CountryCode
+CTRY_SOUTH_AFRICA	regd.h	/^	CTRY_SOUTH_AFRICA = 710,$/;"	e	enum:CountryCode
+CTRY_SPAIN	regd.h	/^	CTRY_SPAIN = 724,$/;"	e	enum:CountryCode
+CTRY_SRI_LANKA	regd.h	/^	CTRY_SRI_LANKA = 144,$/;"	e	enum:CountryCode
+CTRY_SWEDEN	regd.h	/^	CTRY_SWEDEN = 752,$/;"	e	enum:CountryCode
+CTRY_SWITZERLAND	regd.h	/^	CTRY_SWITZERLAND = 756,$/;"	e	enum:CountryCode
+CTRY_SYRIA	regd.h	/^	CTRY_SYRIA = 760,$/;"	e	enum:CountryCode
+CTRY_TAIWAN	regd.h	/^	CTRY_TAIWAN = 158,$/;"	e	enum:CountryCode
+CTRY_THAILAND	regd.h	/^	CTRY_THAILAND = 764,$/;"	e	enum:CountryCode
+CTRY_TRINIDAD_Y_TOBAGO	regd.h	/^	CTRY_TRINIDAD_Y_TOBAGO = 780,$/;"	e	enum:CountryCode
+CTRY_TUNISIA	regd.h	/^	CTRY_TUNISIA = 788,$/;"	e	enum:CountryCode
+CTRY_TURKEY	regd.h	/^	CTRY_TURKEY = 792,$/;"	e	enum:CountryCode
+CTRY_UAE	regd.h	/^	CTRY_UAE = 784,$/;"	e	enum:CountryCode
+CTRY_UKRAINE	regd.h	/^	CTRY_UKRAINE = 804,$/;"	e	enum:CountryCode
+CTRY_UNITED_KINGDOM	regd.h	/^	CTRY_UNITED_KINGDOM = 826,$/;"	e	enum:CountryCode
+CTRY_UNITED_STATES	regd.h	/^	CTRY_UNITED_STATES = 840,$/;"	e	enum:CountryCode
+CTRY_UNITED_STATES_FCC49	regd.h	/^	CTRY_UNITED_STATES_FCC49 = 842,$/;"	e	enum:CountryCode
+CTRY_URUGUAY	regd.h	/^	CTRY_URUGUAY = 858,$/;"	e	enum:CountryCode
+CTRY_UZBEKISTAN	regd.h	/^	CTRY_UZBEKISTAN = 860,$/;"	e	enum:CountryCode
+CTRY_VENEZUELA	regd.h	/^	CTRY_VENEZUELA = 862,$/;"	e	enum:CountryCode
+CTRY_VIET_NAM	regd.h	/^	CTRY_VIET_NAM = 704,$/;"	e	enum:CountryCode
+CTRY_YEMEN	regd.h	/^	CTRY_YEMEN = 887,$/;"	e	enum:CountryCode
+CTRY_ZIMBABWE	regd.h	/^	CTRY_ZIMBABWE = 716,$/;"	e	enum:CountryCode
+CountryCode	regd.h	/^enum CountryCode {$/;"	g
+DEBUG_REG_DMN	regd_common.h	/^	DEBUG_REG_DMN = 0x01ff,$/;"	e	enum:EnumRd
+ENABLE_REGWRITE_BUFFER	key.c	27;"	d	file:
+ETSI1_WORLD	regd_common.h	/^	ETSI1_WORLD = 0x37,$/;"	e	enum:EnumRd
+ETSI2_WORLD	regd_common.h	/^	ETSI2_WORLD = 0x35,$/;"	e	enum:EnumRd
+ETSI3_ETSIA	regd_common.h	/^	ETSI3_ETSIA = 0x32,$/;"	e	enum:EnumRd
+ETSI3_WORLD	regd_common.h	/^	ETSI3_WORLD = 0x36,$/;"	e	enum:EnumRd
+ETSI4_ETSIC	regd_common.h	/^	ETSI4_ETSIC = 0x38,$/;"	e	enum:EnumRd
+ETSI4_WORLD	regd_common.h	/^	ETSI4_WORLD = 0x30,$/;"	e	enum:EnumRd
+ETSI5_WORLD	regd_common.h	/^	ETSI5_WORLD = 0x39,$/;"	e	enum:EnumRd
+ETSI6_WORLD	regd_common.h	/^	ETSI6_WORLD = 0x34,$/;"	e	enum:EnumRd
+ETSI_RESERVED	regd_common.h	/^	ETSI_RESERVED = 0x33,$/;"	e	enum:EnumRd
+EU1_WORLD	regd_common.h	/^	EU1_WORLD = 0x68,$/;"	e	enum:EnumRd
+EnumRd	regd_common.h	/^enum EnumRd {$/;"	g
+FCC1_FCCA	regd_common.h	/^	FCC1_FCCA = 0x10,$/;"	e	enum:EnumRd
+FCC1_WORLD	regd_common.h	/^	FCC1_WORLD = 0x11,$/;"	e	enum:EnumRd
+FCC2_ETSIC	regd_common.h	/^	FCC2_ETSIC = 0x22,$/;"	e	enum:EnumRd
+FCC2_FCCA	regd_common.h	/^	FCC2_FCCA = 0x20,$/;"	e	enum:EnumRd
+FCC2_WORLD	regd_common.h	/^	FCC2_WORLD = 0x21,$/;"	e	enum:EnumRd
+FCC3_FCCA	regd_common.h	/^	FCC3_FCCA = 0x3A,$/;"	e	enum:EnumRd
+FCC3_FCCA_2	regd_common.h	/^	FCC3_FCCA_2 = 0x2A,$/;"	e	enum:EnumRd
+FCC3_WORLD	regd_common.h	/^	FCC3_WORLD = 0x3B,$/;"	e	enum:EnumRd
+FCC4_FCCA	regd_common.h	/^	FCC4_FCCA = 0x12,$/;"	e	enum:EnumRd
+FCC5_FCCA	regd_common.h	/^	FCC5_FCCA = 0x13,$/;"	e	enum:EnumRd
+FCC6_FCCA	regd_common.h	/^	FCC6_FCCA = 0x14,$/;"	e	enum:EnumRd
+FCC6_WORLD	regd_common.h	/^	FCC6_WORLD = 0x23,$/;"	e	enum:EnumRd
+FRANCE_RES	regd_common.h	/^	FRANCE_RES = 0x31,$/;"	e	enum:EnumRd
+GPIO_PORT	mygpio.h	5;"	d
+IEEE80211_WEP_NKID	key.c	36;"	d	file:
+MKK10_FCCA	regd_common.h	/^	MKK10_FCCA = 0xD0,$/;"	e	enum:EnumRd
+MKK10_MKKA	regd_common.h	/^	MKK10_MKKA = 0xF7,$/;"	e	enum:EnumRd
+MKK10_MKKA1	regd_common.h	/^	MKK10_MKKA1 = 0xD1,$/;"	e	enum:EnumRd
+MKK10_MKKA2	regd_common.h	/^	MKK10_MKKA2 = 0xD3,$/;"	e	enum:EnumRd
+MKK10_MKKC	regd_common.h	/^	MKK10_MKKC = 0xD2,$/;"	e	enum:EnumRd
+MKK11_FCCA	regd_common.h	/^	MKK11_FCCA = 0xD5,$/;"	e	enum:EnumRd
+MKK11_MKKA	regd_common.h	/^	MKK11_MKKA = 0xD4,$/;"	e	enum:EnumRd
+MKK11_MKKA1	regd_common.h	/^	MKK11_MKKA1 = 0xD6,$/;"	e	enum:EnumRd
+MKK11_MKKA2	regd_common.h	/^	MKK11_MKKA2 = 0xD8,$/;"	e	enum:EnumRd
+MKK11_MKKC	regd_common.h	/^	MKK11_MKKC = 0xD7,$/;"	e	enum:EnumRd
+MKK12_FCCA	regd_common.h	/^	MKK12_FCCA = 0xDA,$/;"	e	enum:EnumRd
+MKK12_MKKA	regd_common.h	/^	MKK12_MKKA = 0xD9,$/;"	e	enum:EnumRd
+MKK12_MKKA1	regd_common.h	/^	MKK12_MKKA1 = 0xDB,$/;"	e	enum:EnumRd
+MKK12_MKKA2	regd_common.h	/^	MKK12_MKKA2 = 0xDD,$/;"	e	enum:EnumRd
+MKK12_MKKC	regd_common.h	/^	MKK12_MKKC = 0xDC,$/;"	e	enum:EnumRd
+MKK13_MKKB	regd_common.h	/^	MKK13_MKKB = 0xDE,$/;"	e	enum:EnumRd
+MKK14_MKKA1	regd_common.h	/^	MKK14_MKKA1 = 0x92,$/;"	e	enum:EnumRd
+MKK15_MKKA1	regd_common.h	/^	MKK15_MKKA1 = 0x93,$/;"	e	enum:EnumRd
+MKK1_FCCA	regd_common.h	/^	MKK1_FCCA = 0x48,$/;"	e	enum:EnumRd
+MKK1_MKKA	regd_common.h	/^	MKK1_MKKA = 0x40,$/;"	e	enum:EnumRd
+MKK1_MKKA1	regd_common.h	/^	MKK1_MKKA1 = 0x4A,$/;"	e	enum:EnumRd
+MKK1_MKKA2	regd_common.h	/^	MKK1_MKKA2 = 0x4B,$/;"	e	enum:EnumRd
+MKK1_MKKB	regd_common.h	/^	MKK1_MKKB = 0x41,$/;"	e	enum:EnumRd
+MKK1_MKKC	regd_common.h	/^	MKK1_MKKC = 0x4C,$/;"	e	enum:EnumRd
+MKK2_MKKA	regd_common.h	/^	MKK2_MKKA = 0x43,$/;"	e	enum:EnumRd
+MKK3_FCCA	regd_common.h	/^	MKK3_FCCA = 0xF2,$/;"	e	enum:EnumRd
+MKK3_MKKA	regd_common.h	/^	MKK3_MKKA = 0xF0,$/;"	e	enum:EnumRd
+MKK3_MKKA1	regd_common.h	/^	MKK3_MKKA1 = 0xF1,$/;"	e	enum:EnumRd
+MKK3_MKKA2	regd_common.h	/^	MKK3_MKKA2 = 0x81,$/;"	e	enum:EnumRd
+MKK3_MKKB	regd_common.h	/^	MKK3_MKKB = 0x80,$/;"	e	enum:EnumRd
+MKK3_MKKC	regd_common.h	/^	MKK3_MKKC = 0x82,$/;"	e	enum:EnumRd
+MKK4_FCCA	regd_common.h	/^	MKK4_FCCA = 0xF5,$/;"	e	enum:EnumRd
+MKK4_MKKA	regd_common.h	/^	MKK4_MKKA = 0xF3,$/;"	e	enum:EnumRd
+MKK4_MKKA1	regd_common.h	/^	MKK4_MKKA1 = 0xF4,$/;"	e	enum:EnumRd
+MKK4_MKKA2	regd_common.h	/^	MKK4_MKKA2 = 0x84,$/;"	e	enum:EnumRd
+MKK4_MKKB	regd_common.h	/^	MKK4_MKKB = 0x83,$/;"	e	enum:EnumRd
+MKK4_MKKC	regd_common.h	/^	MKK4_MKKC = 0x85,$/;"	e	enum:EnumRd
+MKK5_MKKA2	regd_common.h	/^	MKK5_MKKA2 = 0x87,$/;"	e	enum:EnumRd
+MKK5_MKKB	regd_common.h	/^	MKK5_MKKB = 0x86,$/;"	e	enum:EnumRd
+MKK5_MKKC	regd_common.h	/^	MKK5_MKKC = 0x88,$/;"	e	enum:EnumRd
+MKK6_FCCA	regd_common.h	/^	MKK6_FCCA = 0xF9,$/;"	e	enum:EnumRd
+MKK6_MKKA1	regd_common.h	/^	MKK6_MKKA1 = 0xF8,$/;"	e	enum:EnumRd
+MKK6_MKKA2	regd_common.h	/^	MKK6_MKKA2 = 0x8A,$/;"	e	enum:EnumRd
+MKK6_MKKB	regd_common.h	/^	MKK6_MKKB = 0x89,$/;"	e	enum:EnumRd
+MKK6_MKKC	regd_common.h	/^	MKK6_MKKC = 0x8B,$/;"	e	enum:EnumRd
+MKK7_FCCA	regd_common.h	/^	MKK7_FCCA = 0xFB,$/;"	e	enum:EnumRd
+MKK7_MKKA1	regd_common.h	/^	MKK7_MKKA1 = 0xFA,$/;"	e	enum:EnumRd
+MKK7_MKKA2	regd_common.h	/^	MKK7_MKKA2 = 0x8D,$/;"	e	enum:EnumRd
+MKK7_MKKB	regd_common.h	/^	MKK7_MKKB = 0x8C,$/;"	e	enum:EnumRd
+MKK7_MKKC	regd_common.h	/^	MKK7_MKKC = 0x8E,$/;"	e	enum:EnumRd
+MKK8_MKKA2	regd_common.h	/^	MKK8_MKKA2 = 0x90,$/;"	e	enum:EnumRd
+MKK8_MKKB	regd_common.h	/^	MKK8_MKKB = 0x8F,$/;"	e	enum:EnumRd
+MKK8_MKKC	regd_common.h	/^	MKK8_MKKC = 0x91,$/;"	e	enum:EnumRd
+MKK9_FCCA	regd_common.h	/^	MKK9_FCCA = 0xFC,$/;"	e	enum:EnumRd
+MKK9_MKKA	regd_common.h	/^	MKK9_MKKA = 0xF6,$/;"	e	enum:EnumRd
+MKK9_MKKA1	regd_common.h	/^	MKK9_MKKA1 = 0xFD,$/;"	e	enum:EnumRd
+MKK9_MKKA2	regd_common.h	/^	MKK9_MKKA2 = 0xFF,$/;"	e	enum:EnumRd
+MKK9_MKKC	regd_common.h	/^	MKK9_MKKC = 0xFE,$/;"	e	enum:EnumRd
+MULTI_DOMAIN_MASK	regd.h	48;"	d
+NO_CTL	regd.h	31;"	d
+NO_CTL	regd.h	33;"	d
+NO_ENUMRD	regd_common.h	/^	NO_ENUMRD = 0x00,$/;"	e	enum:EnumRd
+NULL1_ETSIB	regd_common.h	/^	NULL1_ETSIB = 0x07,$/;"	e	enum:EnumRd
+NULL1_ETSIC	regd_common.h	/^	NULL1_ETSIC = 0x08,$/;"	e	enum:EnumRd
+NULL1_WORLD	regd_common.h	/^	NULL1_WORLD = 0x03,$/;"	e	enum:EnumRd
+REGD_COMMON_H	regd_common.h	18;"	d
+REGD_H	regd.h	18;"	d
+REGD_RULES	regd.c	67;"	d	file:
+REGWRITE_BUFFER_FLUSH	key.c	31;"	d	file:
+REG_READ	hw.c	23;"	d	file:
+REG_READ	key.c	25;"	d	file:
+REG_WRITE	hw.c	24;"	d	file:
+REG_WRITE	key.c	26;"	d	file:
+SD_NO_CTL	regd.h	32;"	d
+WOR01_WORLD	regd_common.h	/^	WOR01_WORLD = 0x66,$/;"	e	enum:EnumRd
+WOR02_WORLD	regd_common.h	/^	WOR02_WORLD = 0x67,$/;"	e	enum:EnumRd
+WOR0_WORLD	regd_common.h	/^	WOR0_WORLD = 0x60,$/;"	e	enum:EnumRd
+WOR1_WORLD	regd_common.h	/^	WOR1_WORLD = 0x61,$/;"	e	enum:EnumRd
+WOR2_WORLD	regd_common.h	/^	WOR2_WORLD = 0x62,$/;"	e	enum:EnumRd
+WOR3_WORLD	regd_common.h	/^	WOR3_WORLD = 0x63,$/;"	e	enum:EnumRd
+WOR4_WORLD	regd_common.h	/^	WOR4_WORLD = 0x64,$/;"	e	enum:EnumRd
+WOR5_ETSIC	regd_common.h	/^	WOR5_ETSIC = 0x65,$/;"	e	enum:EnumRd
+WOR9_WORLD	regd_common.h	/^	WOR9_WORLD = 0x69,$/;"	e	enum:EnumRd
+WORA_WORLD	regd_common.h	/^	WORA_WORLD = 0x6A,$/;"	e	enum:EnumRd
+WORB_WORLD	regd_common.h	/^	WORB_WORLD = 0x6B,$/;"	e	enum:EnumRd
+WORC_WORLD	regd_common.h	/^	WORC_WORLD = 0x6C,$/;"	e	enum:EnumRd
+WORLD	regd_common.h	/^	WORLD = 0x0199,$/;"	e	enum:EnumRd
+WORLDWIDE_ROAMING_FLAG	regd.h	46;"	d
+WORLD_SKU_MASK	regd.h	50;"	d
+WORLD_SKU_PREFIX	regd.h	51;"	d
+__MYGPIO_H	mygpio.h	2;"	d
+__ath_regd_init	regd.c	/^static int __ath_regd_init(struct ath_regulatory *reg)$/;"	f	file:
+__this_module	ath.mod.c	/^struct module __this_module$/;"	v	typeref:struct:module
+__used	ath.mod.c	/^__used$/;"	v	file:
+_ath_dbg	ath.h	/^void _ath_dbg(struct ath_common *common, enum ATH_DEBUG dbg_mask,$/;"	f
+ah	ath.h	/^	void *ah;$/;"	m	struct:ath_common
+allCountries	regd_common.h	/^static struct country_code_to_enum_rd allCountries[] = {$/;"	v	typeref:struct:country_code_to_enum_rd
+alpha2	ath.h	/^	char alpha2[2];$/;"	m	struct:ath_regulatory
+ani	ath.h	/^	struct ath_ani ani;$/;"	m	struct:ath_common	typeref:struct:ath_common::ath_ani
+antenna_diversity	ath.h	/^	bool antenna_diversity;$/;"	m	struct:ath_common
+ath-objs	Makefile	/^ath-objs :=	main.o \\$/;"	m
+ath_alert	ath.h	186;"	d
+ath_ani	ath.h	/^struct ath_ani {$/;"	s
+ath_bcast_mac	ath.h	/^static const u8 ath_bcast_mac[ETH_ALEN] = {0xff, 0xff, 0xff, 0xff, 0xff, 0xff};$/;"	v
+ath_bus_type	ath.h	/^enum ath_bus_type {$/;"	g
+ath_cipher	ath.h	/^enum ath_cipher {$/;"	g
+ath_common	ath.h	/^struct ath_common {$/;"	s
+ath_crit	ath.h	188;"	d
+ath_crypt_caps	ath.h	/^enum ath_crypt_caps {$/;"	g
+ath_cycle_counters	ath.h	/^struct ath_cycle_counters {$/;"	s
+ath_dbg	ath.h	256;"	d
+ath_dbg	ath.h	272;"	d
+ath_default_world_regdomain	regd.c	/^static const struct ieee80211_regdomain *ath_default_world_regdomain(void)$/;"	f	file:
+ath_device_state	ath.h	/^enum ath_device_state {$/;"	g
+ath_emerg	ath.h	184;"	d
+ath_err	ath.h	190;"	d
+ath_get_regpair	regd.c	/^ath_get_regpair(int regdmn)$/;"	f	file:
+ath_hw_cycle_counters_update	hw.c	/^EXPORT_SYMBOL(ath_hw_cycle_counters_update);$/;"	v
+ath_hw_cycle_counters_update	hw.c	/^void ath_hw_cycle_counters_update(struct ath_common *common)$/;"	f
+ath_hw_get_listen_time	hw.c	/^EXPORT_SYMBOL(ath_hw_get_listen_time);$/;"	v
+ath_hw_get_listen_time	hw.c	/^int32_t ath_hw_get_listen_time(struct ath_common *common)$/;"	f
+ath_hw_keyreset	key.c	/^EXPORT_SYMBOL(ath_hw_keyreset);$/;"	v
+ath_hw_keyreset	key.c	/^bool ath_hw_keyreset(struct ath_common *common, u16 entry)$/;"	f
+ath_hw_keysetmac	key.c	/^static bool ath_hw_keysetmac(struct ath_common *common,$/;"	f	file:
+ath_hw_set_keycache_entry	key.c	/^static bool ath_hw_set_keycache_entry(struct ath_common *common, u16 entry,$/;"	f	file:
+ath_hw_setbssidmask	hw.c	/^EXPORT_SYMBOL(ath_hw_setbssidmask);$/;"	v
+ath_hw_setbssidmask	hw.c	/^void ath_hw_setbssidmask(struct ath_common *common)$/;"	f
+ath_info	ath.h	196;"	d
+ath_is_49ghz_allowed	regd.c	/^EXPORT_SYMBOL(ath_is_49ghz_allowed);$/;"	v
+ath_is_49ghz_allowed	regd.c	/^bool ath_is_49ghz_allowed(u16 regdomain)$/;"	f
+ath_is_radar_freq	regd.c	/^static bool ath_is_radar_freq(u16 center_freq)$/;"	f	file:
+ath_is_world_regd	regd.c	/^EXPORT_SYMBOL(ath_is_world_regd);$/;"	v
+ath_is_world_regd	regd.c	/^bool ath_is_world_regd(struct ath_regulatory *reg)$/;"	f
+ath_key_config	key.c	/^EXPORT_SYMBOL(ath_key_config);$/;"	v
+ath_key_config	key.c	/^int ath_key_config(struct ath_common *common,$/;"	f
+ath_key_delete	key.c	/^EXPORT_SYMBOL(ath_key_delete);$/;"	v
+ath_key_delete	key.c	/^void ath_key_delete(struct ath_common *common, struct ieee80211_key_conf *key)$/;"	f
+ath_keyval	ath.h	/^struct ath_keyval {$/;"	s
+ath_notice	ath.h	194;"	d
+ath_opmode_to_string	debug.c	/^EXPORT_SYMBOL(ath_opmode_to_string);$/;"	v
+ath_opmode_to_string	debug.c	/^const char *ath_opmode_to_string(enum nl80211_iftype opmode)$/;"	f
+ath_ops	ath.h	/^struct ath_ops {$/;"	s
+ath_printk	main.c	/^EXPORT_SYMBOL(ath_printk);$/;"	v
+ath_printk	main.c	/^void ath_printk(const char *level, const struct ath_common* common,$/;"	f
+ath_reg_apply_active_scan_flags	regd.c	/^ath_reg_apply_active_scan_flags(struct wiphy *wiphy,$/;"	f	file:
+ath_reg_apply_beaconing_flags	regd.c	/^ath_reg_apply_beaconing_flags(struct wiphy *wiphy,$/;"	f	file:
+ath_reg_apply_radar_flags	regd.c	/^static void ath_reg_apply_radar_flags(struct wiphy *wiphy)$/;"	f	file:
+ath_reg_apply_world_flags	regd.c	/^static void ath_reg_apply_world_flags(struct wiphy *wiphy,$/;"	f	file:
+ath_reg_notifier_apply	regd.c	/^EXPORT_SYMBOL(ath_reg_notifier_apply);$/;"	v
+ath_reg_notifier_apply	regd.c	/^void ath_reg_notifier_apply(struct wiphy *wiphy,$/;"	f
+ath_regd_find_country	regd.c	/^ath_regd_find_country(u16 countryCode)$/;"	f	file:
+ath_regd_find_country_by_name	regd.c	/^static u16 ath_regd_find_country_by_name(char *alpha2)$/;"	f	file:
+ath_regd_find_country_by_rd	regd.c	/^ath_regd_find_country_by_rd(int regdmn)$/;"	f	file:
+ath_regd_get_band_ctl	regd.c	/^EXPORT_SYMBOL(ath_regd_get_band_ctl);$/;"	v
+ath_regd_get_band_ctl	regd.c	/^u32 ath_regd_get_band_ctl(struct ath_regulatory *reg,$/;"	f
+ath_regd_get_default_country	regd.c	/^static u16 ath_regd_get_default_country(u16 rd)$/;"	f	file:
+ath_regd_get_eepromRD	regd.c	/^static u16 ath_regd_get_eepromRD(struct ath_regulatory *reg)$/;"	f	file:
+ath_regd_init	regd.c	/^EXPORT_SYMBOL(ath_regd_init);$/;"	v
+ath_regd_init	regd.c	/^ath_regd_init(struct ath_regulatory *reg,$/;"	f
+ath_regd_init_wiphy	regd.c	/^ath_regd_init_wiphy(struct ath_regulatory *reg,$/;"	f	file:
+ath_regd_is_eeprom_valid	regd.c	/^static bool ath_regd_is_eeprom_valid(struct ath_regulatory *reg)$/;"	f	file:
+ath_regd_sanitize	regd.c	/^static void ath_regd_sanitize(struct ath_regulatory *reg)$/;"	f	file:
+ath_regulatory	ath.h	/^struct ath_regulatory {$/;"	s
+ath_reserve_key_cache_slot	key.c	/^static int ath_reserve_key_cache_slot(struct ath_common *common,$/;"	f	file:
+ath_reserve_key_cache_slot_tkip	key.c	/^static int ath_reserve_key_cache_slot_tkip(struct ath_common *common)$/;"	f	file:
+ath_rxbuf_alloc	main.c	/^EXPORT_SYMBOL(ath_rxbuf_alloc);$/;"	v
+ath_rxbuf_alloc	main.c	/^struct sk_buff *ath_rxbuf_alloc(struct ath_common *common,$/;"	f
+ath_setkey_tkip	key.c	/^static int ath_setkey_tkip(struct ath_common *common, u16 keyix, const u8 *key,$/;"	f	file:
+ath_warn	ath.h	192;"	d
+ath_world_regdom_60_61_62	regd.c	/^static const struct ieee80211_regdomain ath_world_regdom_60_61_62 = {$/;"	v	typeref:struct:ieee80211_regdomain	file:
+ath_world_regdom_63_65	regd.c	/^static const struct ieee80211_regdomain ath_world_regdom_63_65 = {$/;"	v	typeref:struct:ieee80211_regdomain	file:
+ath_world_regdom_64	regd.c	/^static const struct ieee80211_regdomain ath_world_regdom_64 = {$/;"	v	typeref:struct:ieee80211_regdomain	file:
+ath_world_regdom_66_69	regd.c	/^static const struct ieee80211_regdomain ath_world_regdom_66_69 = {$/;"	v	typeref:struct:ieee80211_regdomain	file:
+ath_world_regdom_67_68_6A_6C	regd.c	/^static const struct ieee80211_regdomain ath_world_regdom_67_68_6A_6C = {$/;"	v	typeref:struct:ieee80211_regdomain	file:
+ath_world_regdomain	regd.c	/^ieee80211_regdomain *ath_world_regdomain(struct ath_regulatory *reg)$/;"	f	file:
+bssidmask	ath.h	/^	u8 bssidmask[ETH_ALEN];$/;"	m	struct:ath_common
+btcoex_enabled	ath.h	/^	bool btcoex_enabled;$/;"	m	struct:ath_common
+bus_ops	ath.h	/^	const struct ath_bus_ops *bus_ops;$/;"	m	struct:ath_common	typeref:struct:ath_common::ath_bus_ops
+cachelsz	ath.h	/^	u16 cachelsz;$/;"	m	struct:ath_common
+caldone	ath.h	/^	bool caldone;$/;"	m	struct:ath_ani
+cc_ani	ath.h	/^	struct ath_cycle_counters cc_ani;$/;"	m	struct:ath_common	typeref:struct:ath_common::ath_cycle_counters
+cc_lock	ath.h	/^	spinlock_t cc_lock;$/;"	m	struct:ath_common
+cc_survey	ath.h	/^	struct ath_cycle_counters cc_survey;$/;"	m	struct:ath_common	typeref:struct:ath_common::ath_cycle_counters
+checkani_timer	ath.h	/^	unsigned int checkani_timer;$/;"	m	struct:ath_ani
+clockrate	ath.h	/^	unsigned int clockrate;$/;"	m	struct:ath_common
+countryCode	regd.h	/^	u16 countryCode;$/;"	m	struct:country_code_to_enum_rd
+country_code	ath.h	/^	u16 country_code;$/;"	m	struct:ath_regulatory
+country_code_to_enum_rd	regd.h	/^struct country_code_to_enum_rd {$/;"	s
+crypt_caps	ath.h	/^	enum ath_crypt_caps crypt_caps;$/;"	m	struct:ath_common	typeref:enum:ath_common::ath_crypt_caps
+ctl_group	regd.h	/^enum ctl_group {$/;"	g
+curaid	ath.h	/^	u16 curaid;$/;"	m	struct:ath_common
+curbssid	ath.h	/^	u8 curbssid[ETH_ALEN];$/;"	m	struct:ath_common
+current_rd	ath.h	/^	u16 current_rd;$/;"	m	struct:ath_regulatory
+cycles	ath.h	/^	u32 cycles;$/;"	m	struct:ath_cycle_counters
+debug_mask	ath.h	/^	int debug_mask;$/;"	m	struct:ath_common
+disable_ani	ath.h	/^	bool disable_ani;$/;"	m	struct:ath_common
+enable_write_buffer	ath.h	/^	void (*enable_write_buffer)(void *);$/;"	m	struct:ath_ops
+hw	ath.h	/^	struct ieee80211_hw *hw;$/;"	m	struct:ath_common	typeref:struct:ath_common::ieee80211_hw
+is_wwr_sku	regd.c	/^static inline bool is_wwr_sku(u16 regd)$/;"	f	file:
+isoName	regd.h	/^	const char *isoName;$/;"	m	struct:country_code_to_enum_rd
+keymax	ath.h	/^	u32 keymax;$/;"	m	struct:ath_common
+kv_len	ath.h	/^	u16 kv_len;$/;"	m	struct:ath_keyval
+kv_mic	ath.h	/^	u8 kv_mic[8]; \/* Michael MIC key *\/$/;"	m	struct:ath_keyval
+kv_pad	ath.h	/^	u8 kv_pad;$/;"	m	struct:ath_keyval
+kv_txmic	ath.h	/^	u8 kv_txmic[8]; \/* Michael MIC TX key (used only if the hardware$/;"	m	struct:ath_keyval
+kv_type	ath.h	/^	u8 kv_type;$/;"	m	struct:ath_keyval
+kv_val	ath.h	/^	u8 kv_val[16]; \/* TK *\/$/;"	m	struct:ath_keyval
+label	mygpio.h	4;"	d
+longcal_timer	ath.h	/^	unsigned int longcal_timer;$/;"	m	struct:ath_ani
+macaddr	ath.h	/^	u8 macaddr[ETH_ALEN];$/;"	m	struct:ath_common
+max_antenna_gain	ath.h	/^	int16_t max_antenna_gain;$/;"	m	struct:ath_regulatory
+max_power_level	ath.h	/^	u16 max_power_level;$/;"	m	struct:ath_regulatory
+multi_read	ath.h	/^	void (*multi_read)(void *, u32 *addr, u32 *val, u16 count);$/;"	m	struct:ath_ops
+ops	ath.h	/^	const struct ath_ops *ops;$/;"	m	struct:ath_common	typeref:struct:ath_common::ath_ops
+power_limit	ath.h	/^	int16_t power_limit;$/;"	m	struct:ath_regulatory
+pr_fmt	main.c	17;"	d	file:
+pr_fmt	regd.c	17;"	d	file:
+priv	ath.h	/^	void *priv;$/;"	m	struct:ath_common
+read	ath.h	/^	unsigned int (*read)(void *, u32 reg_offset);$/;"	m	struct:ath_ops
+regDmnEnum	ath.h	/^	u16 regDmnEnum;$/;"	m	struct:reg_dmn_pair_mapping
+regDmnEnum	regd.h	/^	u16 regDmnEnum;$/;"	m	struct:country_code_to_enum_rd
+regDomainPairs	regd_common.h	/^static struct reg_dmn_pair_mapping regDomainPairs[] = {$/;"	v	typeref:struct:reg_dmn_pair_mapping
+reg_2ghz_ctl	ath.h	/^	u16 reg_2ghz_ctl;$/;"	m	struct:reg_dmn_pair_mapping
+reg_5ghz_ctl	ath.h	/^	u16 reg_5ghz_ctl;$/;"	m	struct:reg_dmn_pair_mapping
+reg_dmn_pair_mapping	ath.h	/^struct reg_dmn_pair_mapping {$/;"	s
+reg_world_copy	ath.h	/^	struct ath_regulatory reg_world_copy;$/;"	m	struct:ath_common	typeref:struct:ath_common::ath_regulatory
+regpair	ath.h	/^	struct reg_dmn_pair_mapping *regpair;$/;"	m	struct:ath_regulatory	typeref:struct:ath_regulatory::reg_dmn_pair_mapping
+regulatory	ath.h	/^	struct ath_regulatory regulatory;$/;"	m	struct:ath_common	typeref:struct:ath_common::ath_regulatory
+resetcal_timer	ath.h	/^	unsigned int resetcal_timer;$/;"	m	struct:ath_ani
+rmw	ath.h	/^	u32 (*rmw)(void *, u32 reg_offset, u32 set, u32 clr);$/;"	m	struct:ath_ops
+rx_bufsize	ath.h	/^	u32 rx_bufsize;$/;"	m	struct:ath_common
+rx_busy	ath.h	/^	u32 rx_busy;$/;"	m	struct:ath_cycle_counters
+rx_frame	ath.h	/^	u32 rx_frame;$/;"	m	struct:ath_cycle_counters
+shortcal_timer	ath.h	/^	unsigned int shortcal_timer;$/;"	m	struct:ath_ani
+state	ath.h	/^	enum ath_device_state state;$/;"	m	struct:ath_common	typeref:enum:ath_common::ath_device_state
+timer	ath.h	/^	struct timer_list timer;$/;"	m	struct:ath_ani	typeref:struct:ath_ani::timer_list
+tx_frame	ath.h	/^	u32 tx_frame;$/;"	m	struct:ath_cycle_counters
+write	ath.h	/^	void (*write)(void *, u32 val, u32 reg_offset);$/;"	m	struct:ath_ops
+write_flush	ath.h	/^	void (*write_flush) (void *);$/;"	m	struct:ath_ops

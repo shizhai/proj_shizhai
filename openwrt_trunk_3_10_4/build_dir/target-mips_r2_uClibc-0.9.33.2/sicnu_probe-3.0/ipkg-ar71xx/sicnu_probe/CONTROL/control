@@ -1,0 +1,11 @@
+Package: sicnu_probe
+Version: 3.0-1
+Depends: libc, libncurses
+Source: feeds/packages/net/sicnu_probe
+SourceFile: sicnu_probe-3.0.tar.gz
+Section: net
+Maintainer: Shi Yang <ysprogramer@163.com>
+Architecture: ar71xx
+Installed-Size: 30613
+Description:  [sicnu_probe] is a scanning and analysis tool for 802.11 wireless networks
+ and especially IBSS (ad-hoc) mode and mesh networks (OLSR) which is transplanted from horst.

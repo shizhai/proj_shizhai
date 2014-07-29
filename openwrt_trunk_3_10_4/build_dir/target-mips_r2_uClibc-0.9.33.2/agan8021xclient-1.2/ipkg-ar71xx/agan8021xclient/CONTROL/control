@@ -1,0 +1,10 @@
+Package: agan8021xclient
+Version: 1.2-testing
+Depends: libc, libpcap, libnet1
+Source: feeds/njit/agan8021xclient
+SourceFile: agan8021xclient-1.2.tar.gz
+SourceURL: @SF/agan8021xclient
+Section: net
+Architecture: ar71xx
+Installed-Size: 7706
+Description:  AGanNo2's 802.1X client program for H3C V2.20-0247

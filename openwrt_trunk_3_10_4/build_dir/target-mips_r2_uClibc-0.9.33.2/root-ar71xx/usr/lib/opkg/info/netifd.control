@@ -1,0 +1,12 @@
+Package: netifd
+Version: 2013-07-16-2674941b06c1ec67f1aff1bff9212e1372106641
+Depends: libc, libuci, libnl-tiny, libubus, ubus, ubusd, jshn
+Source: package/network/config/netifd
+SourceFile: netifd-2013-07-16-2674941b06c1ec67f1aff1bff9212e1372106641.tar.gz
+SourceURL: git://nbd.name/luci2/netifd.git
+License: GPLv2
+Section: base
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 45138
+Description:  OpenWrt Network Interface Configuration Daemon

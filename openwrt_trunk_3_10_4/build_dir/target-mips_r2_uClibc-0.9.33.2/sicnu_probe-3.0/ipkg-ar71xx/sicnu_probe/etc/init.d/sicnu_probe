@@ -1,0 +1,17 @@
+#!/bin/sh /etc/rc.common
+START=80
+STOP=91
+
+start(){
+        echo "starting sicnu_probe..."
+	sleep 1
+        sicnu_probe &
+        echo "start sicnu_probe ok!"
+}
+
+stop(){
+        echo "close all the sicnu_probe process..."
+	sleep 1
+        killall sicnu_probe
+}
+

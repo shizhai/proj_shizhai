@@ -1,0 +1,10 @@
+Package: attr
+Version: 2.4.46-1
+Depends: libc, libattr
+Source: package/attr
+SourceFile: attr-2.4.46.src.tar.gz
+SourceURL: http://download.savannah.gnu.org/releases/attr/
+Section: utilities
+Architecture: ar71xx
+Installed-Size: 12645
+Description:  Commands for Manipulating Filesystem Extended Attributes

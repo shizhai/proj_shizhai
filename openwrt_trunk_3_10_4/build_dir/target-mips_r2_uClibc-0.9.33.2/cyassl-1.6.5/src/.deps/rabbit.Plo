@@ -1,0 +1,28 @@
+rabbit.lo: ../ctaocrypt/src/rabbit.c ../ctaocrypt/include/rabbit.h \
+ ../ctaocrypt/include/types.h ../ctaocrypt/include/config.h \
+ ../ctaocrypt/src/misc.c ../ctaocrypt/include/misc.h \
+ /home/shizhai/zhongwang/trunk/staging_dir/toolchain-mips_r2_gcc-4.6-linaro_uClibc-0.9.33.2/lib/gcc/mips-openwrt-linux-uclibc/4.6.4/../../../../mips-openwrt-linux-uclibc/sys-include/string.h \
+ /home/shizhai/zhongwang/trunk/staging_dir/toolchain-mips_r2_gcc-4.6-linaro_uClibc-0.9.33.2/lib/gcc/mips-openwrt-linux-uclibc/4.6.4/../../../../mips-openwrt-linux-uclibc/sys-include/features.h \
+ /home/shizhai/zhongwang/trunk/staging_dir/toolchain-mips_r2_gcc-4.6-linaro_uClibc-0.9.33.2/lib/gcc/mips-openwrt-linux-uclibc/4.6.4/../../../../mips-openwrt-linux-uclibc/sys-include/bits/uClibc_config.h \
+ /home/shizhai/zhongwang/trunk/staging_dir/toolchain-mips_r2_gcc-4.6-linaro_uClibc-0.9.33.2/lib/gcc/mips-openwrt-linux-uclibc/4.6.4/../../../../mips-openwrt-linux-uclibc/sys-include/sys/cdefs.h \
+ /home/shizhai/zhongwang/trunk/staging_dir/toolchain-mips_r2_gcc-4.6-linaro_uClibc-0.9.33.2/lib/gcc/mips-openwrt-linux-uclibc/4.6.4/include/stddef.h
+
+../ctaocrypt/include/rabbit.h:
+
+../ctaocrypt/include/types.h:
+
+../ctaocrypt/include/config.h:
+
+../ctaocrypt/src/misc.c:
+
+../ctaocrypt/include/misc.h:
+
+/home/shizhai/zhongwang/trunk/staging_dir/toolchain-mips_r2_gcc-4.6-linaro_uClibc-0.9.33.2/lib/gcc/mips-openwrt-linux-uclibc/4.6.4/../../../../mips-openwrt-linux-uclibc/sys-include/string.h:
+
+/home/shizhai/zhongwang/trunk/staging_dir/toolchain-mips_r2_gcc-4.6-linaro_uClibc-0.9.33.2/lib/gcc/mips-openwrt-linux-uclibc/4.6.4/../../../../mips-openwrt-linux-uclibc/sys-include/features.h:
+
+/home/shizhai/zhongwang/trunk/staging_dir/toolchain-mips_r2_gcc-4.6-linaro_uClibc-0.9.33.2/lib/gcc/mips-openwrt-linux-uclibc/4.6.4/../../../../mips-openwrt-linux-uclibc/sys-include/bits/uClibc_config.h:
+
+/home/shizhai/zhongwang/trunk/staging_dir/toolchain-mips_r2_gcc-4.6-linaro_uClibc-0.9.33.2/lib/gcc/mips-openwrt-linux-uclibc/4.6.4/../../../../mips-openwrt-linux-uclibc/sys-include/sys/cdefs.h:
+
+/home/shizhai/zhongwang/trunk/staging_dir/toolchain-mips_r2_gcc-4.6-linaro_uClibc-0.9.33.2/lib/gcc/mips-openwrt-linux-uclibc/4.6.4/include/stddef.h:

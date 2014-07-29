@@ -1,0 +1,16 @@
+luci-lib-core
+luci-lib-ipkg
+luci-lib-nixio
+luci-lib-sys
+luci-lib-web
+luci-proto-core
+luci-proto-ppp
+luci-mod-admin-core
+luci-mod-admin-full
+luci-app-firewall
+luci-sgi-cgi
+luci-theme-base
+luci-theme-bootstrap
+luci-i18n-english
+luci
+luci-ssl

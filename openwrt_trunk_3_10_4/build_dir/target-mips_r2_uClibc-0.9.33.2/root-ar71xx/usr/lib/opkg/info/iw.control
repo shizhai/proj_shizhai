@@ -1,0 +1,11 @@
+Package: iw
+Version: 3.10-1
+Depends: libc, libnl-tiny
+Source: package/network/utils/iw
+SourceFile: iw-3.10.tar.bz2
+SourceURL: https://www.kernel.org/pub/software/network/iw
+Section: net
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 42622
+Description:  cfg80211 interface configuration utility

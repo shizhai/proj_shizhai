@@ -1,0 +1,28 @@
+Source-Makefile: target/linux/imx23/Makefile
+Target: imx23
+Target-Board: imx23
+Target-Name: Freescale i.MX23 series
+Target-Path: /home/shizhai/zhongwang/trunk
+Target-Arch: arm
+Target-Arch-Packages: imx23
+Target-Features: arm_v5 ext4 gpio rtc usb
+Target-Depends: 
+Target-Optimization: -Os -pipe -march=armv5te -mtune=arm926ej-s
+Linux-Version: 3.10.4
+Linux-Release: 1
+Linux-Kernel-Arch: arm
+Target-Description:
+	Support for Freescale i.MX233-based boards
+@@
+Default-Packages: base-files libc libgcc busybox dropbear mtd uci opkg netifd dnsmasq iptables ip6tables ppp ppp-mod-pppoe kmod-ipt-nathelper firewall 6relayd odhcp6c kmod-wdt-stmp3xxx
+Target-Profile: olinuxino
+Target-Profile-Name: Olimex Olinuxino boards
+Target-Profile-Packages:  imx-bootlets kmod-usb-mxs-phy kmod-usb-net kmod-usb-net-smsc95xx kmod-gpio-mcp23s08 kmod-leds-gpio kmod-ledtrig-heartbeat kmod-rtc-stmp3xxx kmod-sound-core kmod-sound-soc-imx23 kmod-iio-mxs-lradc
+Target-Profile-Config: 
+
+@@
+Target-Profile-Description:
+	Olimex Olinuxino boards
+@@
+
+

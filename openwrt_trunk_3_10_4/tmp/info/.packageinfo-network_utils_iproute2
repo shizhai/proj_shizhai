@@ -1,0 +1,67 @@
+Source-Makefile: package/network/utils/iproute2/Makefile
+Package: ip
+Submenu: Routing and Redirection
+Version: 3.10.0-1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +libnl-tiny
+Menu-Depends: 
+Provides: 
+Section: net
+Category: Network
+Title: Routing control utility
+Maintainer: 
+Source: iproute2-3.10.0.tar.xz
+Type: ipkg
+Description: Routing control utility
+http://linux-net.osdl.org/index.php/Iproute2
+
+@@
+
+Package: tc
+Version: 3.10.0-1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +kmod-sched-core
+Menu-Depends: 
+Provides: 
+Section: net
+Category: Network
+Title: Traffic control utility
+Maintainer: 
+Source: iproute2-3.10.0.tar.xz
+Type: ipkg
+Description: Traffic control utility
+http://linux-net.osdl.org/index.php/Iproute2
+
+@@
+
+Package: genl
+Version: 3.10.0-1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread 
+Menu-Depends: 
+Provides: 
+Section: net
+Category: Network
+Title: General netlink utility frontend
+Maintainer: 
+Source: iproute2-3.10.0.tar.xz
+Type: ipkg
+Description: General netlink utility frontend
+http://linux-net.osdl.org/index.php/Iproute2
+
+@@
+
+Package: ss
+Version: 3.10.0-1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread 
+Menu-Depends: 
+Provides: 
+Section: net
+Category: Network
+Title: Socket statistics utility
+Maintainer: 
+Source: iproute2-3.10.0.tar.xz
+Type: ipkg
+Description: Socket statistics utility
+http://linux-net.osdl.org/index.php/Iproute2
+
+@@
+
+

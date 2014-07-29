@@ -1,0 +1,10 @@
+Package: acl
+Version: 2.2.51-1
+Depends: libc, libacl
+Source: package/acl
+SourceFile: acl-2.2.51.src.tar.gz
+SourceURL: http://download.savannah.gnu.org/releases/acl/
+Section: utilities
+Architecture: ar71xx
+Installed-Size: 21704
+Description:  Commands for Manipulating Filesystem Extended aclibutes

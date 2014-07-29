@@ -1,0 +1,12 @@
+Package: ubox
+Version: 2013-07-31-21737b1ff2e0be28b68293c7ac198a8fe505cbc2
+Depends: libc, libubox, ubusd, ubus, libuci
+Source: package/system/ubox
+SourceFile: ubox-2013-07-31-21737b1ff2e0be28b68293c7ac198a8fe505cbc2.tar.gz
+SourceURL: git://nbd.name/luci2/ubox.git
+License: GPLv2
+Section: base
+Maintainer: John Crispin <blogic@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 10359
+Description:  OpenWrt system helper toolbox

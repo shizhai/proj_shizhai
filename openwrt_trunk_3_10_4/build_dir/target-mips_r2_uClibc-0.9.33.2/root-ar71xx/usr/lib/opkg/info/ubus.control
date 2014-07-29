@@ -1,0 +1,12 @@
+Package: ubus
+Version: 2013-08-08-b20a8a01c7faea5bcc9d34d10dcf7736589021b8
+Depends: libc, libubus, libblobmsg-json, ubusd
+Source: package/system/ubus
+SourceFile: ubus-2013-08-08-b20a8a01c7faea5bcc9d34d10dcf7736589021b8.tar.gz
+SourceURL: git://nbd.name/luci2/ubus.git
+License: LGPLv2.1
+Section: base
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 3343
+Description:  OpenWrt RPC client utility

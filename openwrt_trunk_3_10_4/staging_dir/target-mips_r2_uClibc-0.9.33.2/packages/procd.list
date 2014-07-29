@@ -1,0 +1,8 @@
+./
+./usr
+./usr/sbin
+./usr/sbin/udevtrigger
+./usr/sbin/askfirst
+./usr/sbin/procd
+./usr/sbin/logread
+./host

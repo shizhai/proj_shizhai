@@ -1,0 +1,17 @@
+Source-Makefile: package/system/procd/Makefile
+Package: procd
+Version: 2013-07-23-ba0cb9c1ecc72e6b726deaf91193d24b2a85814a-1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +ubusd +ubus +libjson-script +ubox
+Menu-Depends: 
+Provides: 
+Section: base
+Category: Base system
+Title: OpenWrt system process manager
+Maintainer: John Crispin <blogic@openwrt.org>
+Source: procd-2013-07-23-ba0cb9c1ecc72e6b726deaf91193d24b2a85814a.tar.gz
+Type: ipkg
+Description: OpenWrt system process manager
+John Crispin <blogic@openwrt.org>
+@@
+
+

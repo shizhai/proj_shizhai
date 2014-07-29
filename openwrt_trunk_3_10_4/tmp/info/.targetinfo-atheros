@@ -1,0 +1,18 @@
+Source-Makefile: target/linux/atheros/Makefile
+Target: atheros
+Target-Board: atheros
+Target-Name: Atheros AR231x/AR5312
+Target-Path: /home/shizhai/zhongwang/trunk
+Target-Arch: mips
+Target-Arch-Packages: atheros
+Target-Features: gpio pci squashfs usb
+Target-Depends: 
+Target-Optimization: -Os -pipe -mips32 -mtune=mips32 -mno-branch-likely
+Linux-Version: 3.8.13
+Linux-Release: 1
+Linux-Kernel-Arch: mips
+Target-Description:
+	Build firmware images for Atheros SoC boards
+@@
+Default-Packages: base-files libc libgcc busybox dropbear mtd uci opkg netifd dnsmasq iptables ip6tables ppp ppp-mod-pppoe kmod-ipt-nathelper firewall 6relayd odhcp6c wpad-mini kmod-ath5k swconfig kmod-gpio-button-hotplug
+

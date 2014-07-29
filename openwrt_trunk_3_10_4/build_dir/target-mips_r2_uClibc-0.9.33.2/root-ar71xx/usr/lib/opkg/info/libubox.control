@@ -1,0 +1,12 @@
+Package: libubox
+Version: 2013-08-01-04f194aa8a04926fe7f2e42bbf9ba6c62d49339e
+Depends: libc
+Source: package/libs/libubox
+SourceFile: libubox-2013-08-01-04f194aa8a04926fe7f2e42bbf9ba6c62d49339e.tar.gz
+SourceURL: git://nbd.name/luci2/libubox.git
+License: ISC BSD-3c
+Section: libs
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 12630
+Description:  Basic utility library

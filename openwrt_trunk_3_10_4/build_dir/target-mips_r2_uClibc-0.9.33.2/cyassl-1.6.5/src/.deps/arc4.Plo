@@ -1,0 +1,8 @@
+arc4.lo: ../ctaocrypt/src/arc4.c ../ctaocrypt/include/arc4.h \
+ ../ctaocrypt/include/types.h ../ctaocrypt/include/config.h
+
+../ctaocrypt/include/arc4.h:
+
+../ctaocrypt/include/types.h:
+
+../ctaocrypt/include/config.h:

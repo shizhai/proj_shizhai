@@ -1,0 +1,17 @@
+Source-Makefile: package/network/services/authsae/Makefile
+Package: authsae
+Version: 2013-07-24-f5693a3ee8dcc4e11d25acc4e75f5d154c0b302b
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +libopenssl +libconfig +libnl-tiny +@OPENSSL_WITH_EC
+Menu-Depends: 
+Provides: 
+Section: net
+Category: Network
+Title: 80211s mesh security
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Source: authsae-2013-07-24-f5693a3ee8dcc4e11d25acc4e75f5d154c0b302b.tar.gz
+Type: ipkg
+Description: 80211s mesh security
+Felix Fietkau <nbd@openwrt.org>
+@@
+
+

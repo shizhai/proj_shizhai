@@ -1,0 +1,18 @@
+Source-Makefile: package/kernel/zw_encry/Makefile
+Package: kmod-zw_encry
+Submenu: Other modules
+Version: <LINUX_VERSION>-1
+Depends: 
+Menu-Depends: 
+Provides: 
+Section: kernel
+Category: Kernel modules
+Title: Driver for zw_encry
+Maintainer: 
+Source: 
+Type: ipkg
+Description: Driver for zw_encry
+
+@@
+
+

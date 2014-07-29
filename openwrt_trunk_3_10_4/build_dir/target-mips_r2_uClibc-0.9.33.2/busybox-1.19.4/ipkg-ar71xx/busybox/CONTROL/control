@@ -1,0 +1,15 @@
+Package: busybox
+Version: 1.19.4-7
+Depends: libc
+Source: package/utils/busybox
+SourceFile: busybox-1.19.4.tar.bz2
+SourceURL: http://www.busybox.net/downloads http://distfiles.gentoo.org/distfiles/
+License: GPLv2 BSD-4c
+LicenseFiles: LICENSE archival/libarchive/bz/LICENSE
+Section: base
+Essential: yes
+Maintainer: Nicolas Thill <nico@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 230441
+Description:  The Swiss Army Knife of embedded Linux.
+ It slices, it dices, it makes Julian Fries.

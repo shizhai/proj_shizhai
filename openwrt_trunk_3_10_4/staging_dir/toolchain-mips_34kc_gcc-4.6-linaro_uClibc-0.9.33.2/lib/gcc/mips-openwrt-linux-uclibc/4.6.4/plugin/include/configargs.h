@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/home/shizhai/zhongwang/trunk/build_dir/toolchain-mips_34kc_gcc-4.6-linaro_uClibc-0.9.33.2/gcc-linaro-4.6-2013.05/configure --with-bugurl=https://dev.openwrt.org/ --with-pkgversion='OpenWrt/Linaro GCC 4.6-2013.05 r38502' --prefix=/home/shizhai/zhongwang/trunk/staging_dir/toolchain-mips_34kc_gcc-4.6-linaro_uClibc-0.9.33.2 --build=i686-linux-gnu --host=i686-linux-gnu --target=mips-openwrt-linux-uclibc --with-gnu-ld --enable-target-optspace --disable-libgomp --disable-libmudflap --disable-multilib --disable-nls --with-host-libstdcxx=-lstdc++ --with-float=soft --with-gmp=/home/shizhai/zhongwang/trunk/staging_dir/host --with-mpfr=/home/shizhai/zhongwang/trunk/staging_dir/host --disable-decimal-float --with-mips-plt --with-mpc=/home/shizhai/zhongwang/trunk/staging_dir/host --disable-libssp --disable-__cxa_atexit --with-headers=/home/shizhai/zhongwang/trunk/staging_dir/toolchain-mips_34kc_gcc-4.6-linaro_uClibc-0.9.33.2/include --enable-languages=c,c++ --enable-shared --enable-threads --with-slibdir=/home/shizhai/zhongwang/trunk/staging_dir/toolchain-mips_34kc_gcc-4.6-linaro_uClibc-0.9.33.2/lib --enable-lto --with-libelf=/home/shizhai/zhongwang/trunk/staging_dir/host";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "float", "soft" }, { "llsc", "llsc" }, { "mips-plt", "plt" }, { "synci", "no-synci" } };

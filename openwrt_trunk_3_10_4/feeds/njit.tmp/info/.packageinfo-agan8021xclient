@@ -1,0 +1,19 @@
+Source-Makefile: feeds/njit/agan8021xclient/Makefile
+Package: agan8021xclient
+Version: 1.2-testing
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +libpcap +libnet1
+Menu-Depends: 
+Provides: 
+Build-Depends: +libopenssl
+Section: net
+Category: Network
+Title: AGanNo2's 802.1X client program for H3C V2.20-0247
+Maintainer: 
+Source: agan8021xclient-1.2.tar.gz
+Type: ipkg
+Description:  AGanNo2's 802.1X client program for H3C V2.20-0247
+http://sourceforge.net/projects/agan8021xclient
+
+@@
+
+

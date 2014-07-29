@@ -1,0 +1,17 @@
+Source-Makefile: package/utils/usbmode/Makefile
+Package: usb-modeswitch
+Version: 2013-05-31-b62a33af03c39a8970249ce7afe7baec7ea9b91b
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +libubox +libblobmsg-json +libusb-1.0
+Menu-Depends: 
+Provides: 
+Section: utils
+Category: Utilities
+Title: USB mode switching utility
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Source: usbmode-2013-05-31-b62a33af03c39a8970249ce7afe7baec7ea9b91b.tar.gz
+Type: ipkg
+Description: USB mode switching utility
+Felix Fietkau <nbd@openwrt.org>
+@@
+
+

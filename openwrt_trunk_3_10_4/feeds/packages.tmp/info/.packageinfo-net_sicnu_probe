@@ -1,0 +1,19 @@
+Source-Makefile: feeds/packages/net/sicnu_probe/Makefile
+Package: sicnu_probe
+Submenu: wireless
+Version: 3.0-1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread +libncurses
+Menu-Depends: 
+Provides: 
+Section: net
+Category: Network
+Title: Highly Optimized 802.11 Radio Scanning Tool for analysis
+Maintainer: Shi Yang <ysprogramer@163.com>
+Source: sicnu_probe-3.0.tar.gz
+Type: ipkg
+Description: 	[sicnu_probe] is a scanning and analysis tool for 802.11 wireless networks
+	and especially IBSS (ad-hoc) mode and mesh networks (OLSR) which is transplanted from horst.
+Shi Yang <ysprogramer@163.com>
+@@
+
+

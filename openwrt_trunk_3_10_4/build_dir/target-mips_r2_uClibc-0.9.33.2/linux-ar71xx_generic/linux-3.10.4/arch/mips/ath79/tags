@@ -1,0 +1,1481 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALFA_AP96_GPIO_BUTTON_RESET	mach-alfa-ap96.c	35;"	d	file:
+ALFA_AP96_GPIO_MICROSD_CD	mach-alfa-ap96.c	32;"	d	file:
+ALFA_AP96_GPIO_PCIE_RESET	mach-alfa-ap96.c	30;"	d	file:
+ALFA_AP96_GPIO_PCIE_W_DISABLE	mach-alfa-ap96.c	33;"	d	file:
+ALFA_AP96_GPIO_SIM_DETECT	mach-alfa-ap96.c	31;"	d	file:
+ALFA_AP96_KEYS_DEBOUNCE_INTERVAL	mach-alfa-ap96.c	38;"	d	file:
+ALFA_AP96_KEYS_POLL_INTERVAL	mach-alfa-ap96.c	37;"	d	file:
+ALFA_AP96_LAN_PHYMASK	mach-alfa-ap96.c	120;"	d	file:
+ALFA_AP96_MDIO_PHYMASK	mach-alfa-ap96.c	121;"	d	file:
+ALFA_AP96_WAN_PHYMASK	mach-alfa-ap96.c	119;"	d	file:
+ALFA_NX_CALDATA_OFFSET	mach-alfa-nx.c	36;"	d	file:
+ALFA_NX_GPIO_BTN_RESET	mach-alfa-nx.c	29;"	d	file:
+ALFA_NX_GPIO_LED_2	mach-alfa-nx.c	22;"	d	file:
+ALFA_NX_GPIO_LED_3	mach-alfa-nx.c	23;"	d	file:
+ALFA_NX_GPIO_LED_5	mach-alfa-nx.c	24;"	d	file:
+ALFA_NX_GPIO_LED_6	mach-alfa-nx.c	25;"	d	file:
+ALFA_NX_GPIO_LED_7	mach-alfa-nx.c	26;"	d	file:
+ALFA_NX_GPIO_LED_8	mach-alfa-nx.c	27;"	d	file:
+ALFA_NX_KEYS_DEBOUNCE_INTERVAL	mach-alfa-nx.c	32;"	d	file:
+ALFA_NX_KEYS_POLL_INTERVAL	mach-alfa-nx.c	31;"	d	file:
+ALFA_NX_MAC0_OFFSET	mach-alfa-nx.c	34;"	d	file:
+ALFA_NX_MAC1_OFFSET	mach-alfa-nx.c	35;"	d	file:
+ALL0258N_GPIO_BTN_RESET	mach-all0258n.c	21;"	d	file:
+ALL0258N_GPIO_LED_RSSIHIGH	mach-all0258n.c	22;"	d	file:
+ALL0258N_GPIO_LED_RSSILOW	mach-all0258n.c	24;"	d	file:
+ALL0258N_GPIO_LED_RSSIMEDIUM	mach-all0258n.c	23;"	d	file:
+ALL0258N_KEYS_DEBOUNCE_INTERVAL	mach-all0258n.c	28;"	d	file:
+ALL0258N_KEYS_POLL_INTERVAL	mach-all0258n.c	27;"	d	file:
+ALL0258N_SEC_PHYMASK	mach-all0258n.c	31;"	d	file:
+ALL0315N_GPIO_BTN_RESET	mach-all0315n.c	24;"	d	file:
+ALL0315N_GPIO_LED_RSSIHIGH	mach-all0315n.c	25;"	d	file:
+ALL0315N_GPIO_LED_RSSILOW	mach-all0315n.c	27;"	d	file:
+ALL0315N_GPIO_LED_RSSIMEDIUM	mach-all0315n.c	26;"	d	file:
+ALL0315N_KEYS_DEBOUNCE_INTERVAL	mach-all0315n.c	30;"	d	file:
+ALL0315N_KEYS_POLL_INTERVAL	mach-all0315n.c	29;"	d	file:
+AP113_GPIO_BTN_JUMPSTART	mach-ap113.c	23;"	d	file:
+AP113_GPIO_LED_ST	mach-ap113.c	21;"	d	file:
+AP113_GPIO_LED_STATUS	mach-ap113.c	20;"	d	file:
+AP113_GPIO_LED_USB	mach-ap113.c	19;"	d	file:
+AP113_KEYS_DEBOUNCE_INTERVAL	mach-ap113.c	26;"	d	file:
+AP113_KEYS_POLL_INTERVAL	mach-ap113.c	25;"	d	file:
+AP132_GPIO_BTN_WPS	mach-ap132.c	43;"	d	file:
+AP132_GPIO_LED_STATUS_RED	mach-ap132.c	40;"	d	file:
+AP132_GPIO_LED_USB	mach-ap132.c	37;"	d	file:
+AP132_GPIO_LED_WLAN_2G	mach-ap132.c	39;"	d	file:
+AP132_GPIO_LED_WLAN_5G	mach-ap132.c	38;"	d	file:
+AP132_GPIO_LED_WPS_RED	mach-ap132.c	41;"	d	file:
+AP132_KEYS_DEBOUNCE_INTERVAL	mach-ap132.c	46;"	d	file:
+AP132_KEYS_POLL_INTERVAL	mach-ap132.c	45;"	d	file:
+AP132_MAC0_OFFSET	mach-ap132.c	48;"	d	file:
+AP132_WMAC_CALDATA_OFFSET	mach-ap132.c	49;"	d	file:
+AP83_050_GPIO_VSC7385_CS	mach-ap83.c	37;"	d	file:
+AP83_050_GPIO_VSC7385_MISO	mach-ap83.c	38;"	d	file:
+AP83_050_GPIO_VSC7385_MOSI	mach-ap83.c	39;"	d	file:
+AP83_050_GPIO_VSC7385_SCK	mach-ap83.c	40;"	d	file:
+AP83_GPIO_BTN_JUMPSTART	mach-ap83.c	34;"	d	file:
+AP83_GPIO_BTN_RESET	mach-ap83.c	35;"	d	file:
+AP83_GPIO_LED_JUMPSTART	mach-ap83.c	33;"	d	file:
+AP83_GPIO_LED_POWER	mach-ap83.c	32;"	d	file:
+AP83_GPIO_LED_WLAN	mach-ap83.c	31;"	d	file:
+AP83_KEYS_DEBOUNCE_INTERVAL	mach-ap83.c	43;"	d	file:
+AP83_KEYS_POLL_INTERVAL	mach-ap83.c	42;"	d	file:
+AP96_CALDATA0_OFFSET	mach-ap96.c	43;"	d	file:
+AP96_CALDATA1_OFFSET	mach-ap96.c	44;"	d	file:
+AP96_GPIO_BTN_RESET	mach-ap96.c	34;"	d	file:
+AP96_GPIO_BTN_WPS	mach-ap96.c	36;"	d	file:
+AP96_GPIO_LED_12_GREEN	mach-ap96.c	26;"	d	file:
+AP96_GPIO_LED_2_GREEN	mach-ap96.c	28;"	d	file:
+AP96_GPIO_LED_3_GREEN	mach-ap96.c	27;"	d	file:
+AP96_GPIO_LED_4_ORANGE	mach-ap96.c	31;"	d	file:
+AP96_GPIO_LED_5_GREEN	mach-ap96.c	30;"	d	file:
+AP96_GPIO_LED_WPS_GREEN	mach-ap96.c	29;"	d	file:
+AP96_KEYS_DEBOUNCE_INTERVAL	mach-ap96.c	39;"	d	file:
+AP96_KEYS_POLL_INTERVAL	mach-ap96.c	38;"	d	file:
+AP96_LAN_PHYMASK	mach-ap96.c	101;"	d	file:
+AP96_WAN_PHYMASK	mach-ap96.c	100;"	d	file:
+AP96_WMAC0_MAC_OFFSET	mach-ap96.c	41;"	d	file:
+AP96_WMAC1_MAC_OFFSET	mach-ap96.c	42;"	d	file:
+AR71XX_PLL_VAL_10	dev-eth.c	493;"	d	file:
+AR71XX_PLL_VAL_100	dev-eth.c	492;"	d	file:
+AR71XX_PLL_VAL_1000	dev-eth.c	491;"	d	file:
+AR7242_PLL_VAL_10	dev-eth.c	501;"	d	file:
+AR7242_PLL_VAL_100	dev-eth.c	500;"	d	file:
+AR7242_PLL_VAL_1000	dev-eth.c	499;"	d	file:
+AR724X_PLL_VAL_10	dev-eth.c	497;"	d	file:
+AR724X_PLL_VAL_100	dev-eth.c	496;"	d	file:
+AR724X_PLL_VAL_1000	dev-eth.c	495;"	d	file:
+AR913X_PLL_VAL_10	dev-eth.c	505;"	d	file:
+AR913X_PLL_VAL_100	dev-eth.c	504;"	d	file:
+AR913X_PLL_VAL_1000	dev-eth.c	503;"	d	file:
+AR933X_PLL_VAL_10	dev-eth.c	509;"	d	file:
+AR933X_PLL_VAL_100	dev-eth.c	508;"	d	file:
+AR933X_PLL_VAL_1000	dev-eth.c	507;"	d	file:
+AR934X_PLL_VAL_10	dev-eth.c	513;"	d	file:
+AR934X_PLL_VAL_100	dev-eth.c	512;"	d	file:
+AR934X_PLL_VAL_1000	dev-eth.c	511;"	d	file:
+ARCHER_C7_GPIO_BTN_RESET	mach-archer-c7.c	51;"	d	file:
+ARCHER_C7_GPIO_BTN_RFKILL	mach-archer-c7.c	50;"	d	file:
+ARCHER_C7_GPIO_LED_QSS	mach-archer-c7.c	45;"	d	file:
+ARCHER_C7_GPIO_LED_SYSTEM	mach-archer-c7.c	44;"	d	file:
+ARCHER_C7_GPIO_LED_USB1	mach-archer-c7.c	47;"	d	file:
+ARCHER_C7_GPIO_LED_USB2	mach-archer-c7.c	48;"	d	file:
+ARCHER_C7_GPIO_LED_WLAN2G	mach-archer-c7.c	43;"	d	file:
+ARCHER_C7_GPIO_LED_WLAN5G	mach-archer-c7.c	46;"	d	file:
+ARCHER_C7_GPIO_USB1_POWER	mach-archer-c7.c	53;"	d	file:
+ARCHER_C7_GPIO_USB2_POWER	mach-archer-c7.c	54;"	d	file:
+ARCHER_C7_KEYS_DEBOUNCE_INTERVAL	mach-archer-c7.c	57;"	d	file:
+ARCHER_C7_KEYS_POLL_INTERVAL	mach-archer-c7.c	56;"	d	file:
+ARCHER_C7_WMAC_CALDATA_OFFSET	mach-archer-c7.c	59;"	d	file:
+AW_NR580_GPIO_BTN_RESET	mach-aw-nr580.c	28;"	d	file:
+AW_NR580_GPIO_BTN_WPS	mach-aw-nr580.c	27;"	d	file:
+AW_NR580_GPIO_LED_READY_GREEN	mach-aw-nr580.c	23;"	d	file:
+AW_NR580_GPIO_LED_READY_RED	mach-aw-nr580.c	21;"	d	file:
+AW_NR580_GPIO_LED_WLAN	mach-aw-nr580.c	22;"	d	file:
+AW_NR580_GPIO_LED_WPS_AMBER	mach-aw-nr580.c	25;"	d	file:
+AW_NR580_GPIO_LED_WPS_GREEN	mach-aw-nr580.c	24;"	d	file:
+AW_NR580_KEYS_DEBOUNCE_INTERVAL	mach-aw-nr580.c	31;"	d	file:
+AW_NR580_KEYS_POLL_INTERVAL	mach-aw-nr580.c	30;"	d	file:
+CAP4200AG_GPIO_BTN_RESET	mach-cap4200ag.c	36;"	d	file:
+CAP4200AG_GPIO_LED_LAN_AMBER	mach-cap4200ag.c	32;"	d	file:
+CAP4200AG_GPIO_LED_LAN_GREEN	mach-cap4200ag.c	31;"	d	file:
+CAP4200AG_GPIO_LED_PWR_AMBER	mach-cap4200ag.c	30;"	d	file:
+CAP4200AG_GPIO_LED_PWR_GREEN	mach-cap4200ag.c	29;"	d	file:
+CAP4200AG_GPIO_LED_WLAN_AMBER	mach-cap4200ag.c	34;"	d	file:
+CAP4200AG_GPIO_LED_WLAN_GREEN	mach-cap4200ag.c	33;"	d	file:
+CAP4200AG_KEYS_DEBOUNCE_INTERVAL	mach-cap4200ag.c	39;"	d	file:
+CAP4200AG_KEYS_POLL_INTERVAL	mach-cap4200ag.c	38;"	d	file:
+CAP4200AG_MAC_OFFSET	mach-cap4200ag.c	41;"	d	file:
+CAP4200AG_PCIE_CALDATA_OFFSET	mach-cap4200ag.c	43;"	d	file:
+CAP4200AG_WMAC_CALDATA_OFFSET	mach-cap4200ag.c	42;"	d	file:
+CARAMBOLA2_CALDATA_OFFSET	mach-carambola2.c	35;"	d	file:
+CARAMBOLA2_GPIO_BTN_JUMPSTART	mach-carambola2.c	27;"	d	file:
+CARAMBOLA2_GPIO_BTN_RESET	mach-carambola2.c	28;"	d	file:
+CARAMBOLA2_GPIO_LED_ETH0	mach-carambola2.c	24;"	d	file:
+CARAMBOLA2_GPIO_LED_ETH1	mach-carambola2.c	25;"	d	file:
+CARAMBOLA2_GPIO_LED_WLAN	mach-carambola2.c	23;"	d	file:
+CARAMBOLA2_KEYS_DEBOUNCE_INTERVAL	mach-carambola2.c	31;"	d	file:
+CARAMBOLA2_KEYS_POLL_INTERVAL	mach-carambola2.c	30;"	d	file:
+CARAMBOLA2_MAC0_OFFSET	mach-carambola2.c	33;"	d	file:
+CARAMBOLA2_MAC1_OFFSET	mach-carambola2.c	34;"	d	file:
+CARAMBOLA2_WMAC_MAC_OFFSET	mach-carambola2.c	36;"	d	file:
+CHANGHONG_V1_GPIO_BTN_RESET	mach-changHong-v1.c	36;"	d	file:
+CHANGHONG_V1_GPIO_LED_LAN1	mach-changHong-v1.c	29;"	d	file:
+CHANGHONG_V1_GPIO_LED_LAN2	mach-changHong-v1.c	30;"	d	file:
+CHANGHONG_V1_GPIO_LED_LAN3	mach-changHong-v1.c	31;"	d	file:
+CHANGHONG_V1_GPIO_LED_LAN4	mach-changHong-v1.c	32;"	d	file:
+CHANGHONG_V1_GPIO_LED_QSS	mach-changHong-v1.c	27;"	d	file:
+CHANGHONG_V1_GPIO_LED_SYSTEM	mach-changHong-v1.c	34;"	d	file:
+CHANGHONG_V1_GPIO_LED_WAN	mach-changHong-v1.c	28;"	d	file:
+CHANGHONG_V1_GPIO_LED_WLAN	mach-changHong-v1.c	26;"	d	file:
+CHANGHONG_V1_GPIO_SW_RFKILL	mach-changHong-v1.c	37;"	d	file:
+CHANGHONG_V1_KEYS_DEBOUNCE_INTERVAL	mach-changHong-v1.c	40;"	d	file:
+CHANGHONG_V1_KEYS_POLL_INTERVAL	mach-changHong-v1.c	39;"	d	file:
+DIR825B1_CAL0_OFFSET	mach-dir-825-b1.c	43;"	d	file:
+DIR825B1_CAL1_OFFSET	mach-dir-825-b1.c	44;"	d	file:
+DIR825B1_CAL_LOCATION_0	mach-dir-825-b1.c	48;"	d	file:
+DIR825B1_CAL_LOCATION_1	mach-dir-825-b1.c	49;"	d	file:
+DIR825B1_GPIO_BTN_RESET	mach-dir-825-b1.c	34;"	d	file:
+DIR825B1_GPIO_BTN_WPS	mach-dir-825-b1.c	35;"	d	file:
+DIR825B1_GPIO_LED_BLUE_PLANET	mach-dir-825-b1.c	32;"	d	file:
+DIR825B1_GPIO_LED_BLUE_POWER	mach-dir-825-b1.c	29;"	d	file:
+DIR825B1_GPIO_LED_BLUE_USB	mach-dir-825-b1.c	27;"	d	file:
+DIR825B1_GPIO_LED_BLUE_WPS	mach-dir-825-b1.c	30;"	d	file:
+DIR825B1_GPIO_LED_ORANGE_PLANET	mach-dir-825-b1.c	31;"	d	file:
+DIR825B1_GPIO_LED_ORANGE_POWER	mach-dir-825-b1.c	28;"	d	file:
+DIR825B1_GPIO_RTL8366_SCK	mach-dir-825-b1.c	38;"	d	file:
+DIR825B1_GPIO_RTL8366_SDA	mach-dir-825-b1.c	37;"	d	file:
+DIR825B1_KEYS_DEBOUNCE_INTERVAL	mach-dir-825-b1.c	41;"	d	file:
+DIR825B1_KEYS_POLL_INTERVAL	mach-dir-825-b1.c	40;"	d	file:
+DIR825B1_MAC0_OFFSET	mach-dir-825-b1.c	45;"	d	file:
+DIR825B1_MAC1_OFFSET	mach-dir-825-b1.c	46;"	d	file:
+DIR825C1_GPIO_BTN_RESET	mach-dir-825-c1.c	38;"	d	file:
+DIR825C1_GPIO_BTN_WPS	mach-dir-825-c1.c	39;"	d	file:
+DIR825C1_GPIO_LED_BLUE_PLANET	mach-dir-825-c1.c	36;"	d	file:
+DIR825C1_GPIO_LED_BLUE_POWER	mach-dir-825-c1.c	33;"	d	file:
+DIR825C1_GPIO_LED_BLUE_USB	mach-dir-825-c1.c	31;"	d	file:
+DIR825C1_GPIO_LED_BLUE_WPS	mach-dir-825-c1.c	34;"	d	file:
+DIR825C1_GPIO_LED_ORANGE_PLANET	mach-dir-825-c1.c	35;"	d	file:
+DIR825C1_GPIO_LED_ORANGE_POWER	mach-dir-825-c1.c	32;"	d	file:
+DIR825C1_KEYS_DEBOUNCE_INTERVAL	mach-dir-825-c1.c	42;"	d	file:
+DIR825C1_KEYS_POLL_INTERVAL	mach-dir-825-c1.c	41;"	d	file:
+DIR825C1_MAC0_OFFSET	mach-dir-825-c1.c	44;"	d	file:
+DIR825C1_MAC1_OFFSET	mach-dir-825-c1.c	45;"	d	file:
+DIR825C1_PCIE_CALDATA_OFFSET	mach-dir-825-c1.c	47;"	d	file:
+DIR825C1_WMAC_CALDATA_OFFSET	mach-dir-825-c1.c	46;"	d	file:
+DIR_505A1_ART_ADDRESS	mach-dir-505-a1.c	36;"	d	file:
+DIR_505A1_CALDATA_OFFSET	mach-dir-505-a1.c	37;"	d	file:
+DIR_505A1_GPIO_BTN_RESET	mach-dir-505-a1.c	26;"	d	file:
+DIR_505A1_GPIO_BTN_WPS	mach-dir-505-a1.c	25;"	d	file:
+DIR_505A1_GPIO_LED_GREEN	mach-dir-505-a1.c	29;"	d	file:
+DIR_505A1_GPIO_LED_RED	mach-dir-505-a1.c	28;"	d	file:
+DIR_505A1_GPIO_WAN_LED_ENABLE	mach-dir-505-a1.c	31;"	d	file:
+DIR_505A1_KEYS_DEBOUNCE_INTERVAL	mach-dir-505-a1.c	34;"	d	file:
+DIR_505A1_KEYS_POLL_INTERVAL	mach-dir-505-a1.c	33;"	d	file:
+DIR_505A1_LAN_MAC_ADDRESS	mach-dir-505-a1.c	38;"	d	file:
+DIR_505A1_WAN_MAC_ADDRESS	mach-dir-505-a1.c	39;"	d	file:
+DIR_600_A1_GPIO_BTN_RESET	mach-dir-600-a1.c	34;"	d	file:
+DIR_600_A1_GPIO_BTN_WPS	mach-dir-600-a1.c	35;"	d	file:
+DIR_600_A1_GPIO_LED_LAN1	mach-dir-600-a1.c	27;"	d	file:
+DIR_600_A1_GPIO_LED_LAN2	mach-dir-600-a1.c	28;"	d	file:
+DIR_600_A1_GPIO_LED_LAN3	mach-dir-600-a1.c	29;"	d	file:
+DIR_600_A1_GPIO_LED_LAN4	mach-dir-600-a1.c	30;"	d	file:
+DIR_600_A1_GPIO_LED_POWER_AMBER	mach-dir-600-a1.c	25;"	d	file:
+DIR_600_A1_GPIO_LED_POWER_GREEN	mach-dir-600-a1.c	26;"	d	file:
+DIR_600_A1_GPIO_LED_WAN_AMBER	mach-dir-600-a1.c	31;"	d	file:
+DIR_600_A1_GPIO_LED_WAN_GREEN	mach-dir-600-a1.c	32;"	d	file:
+DIR_600_A1_GPIO_LED_WPS	mach-dir-600-a1.c	24;"	d	file:
+DIR_600_A1_KEYS_DEBOUNCE_INTERVAL	mach-dir-600-a1.c	38;"	d	file:
+DIR_600_A1_KEYS_POLL_INTERVAL	mach-dir-600-a1.c	37;"	d	file:
+DIR_600_A1_NVRAM_ADDR	mach-dir-600-a1.c	40;"	d	file:
+DIR_600_A1_NVRAM_SIZE	mach-dir-600-a1.c	41;"	d	file:
+DIR_615C1_CONFIG_ADDR	mach-dir-615-c1.c	38;"	d	file:
+DIR_615C1_CONFIG_SIZE	mach-dir-615-c1.c	39;"	d	file:
+DIR_615C1_GPIO_BTN_RESET	mach-dir-615-c1.c	33;"	d	file:
+DIR_615C1_GPIO_BTN_WPS	mach-dir-615-c1.c	32;"	d	file:
+DIR_615C1_GPIO_LED_BLUE_WPS	mach-dir-615-c1.c	23;"	d	file:
+DIR_615C1_GPIO_LED_GREEN_STATUS	mach-dir-615-c1.c	27;"	d	file:
+DIR_615C1_GPIO_LED_GREEN_WAN	mach-dir-615-c1.c	24;"	d	file:
+DIR_615C1_GPIO_LED_GREEN_WANCPU	mach-dir-615-c1.c	25;"	d	file:
+DIR_615C1_GPIO_LED_GREEN_WLAN	mach-dir-615-c1.c	26;"	d	file:
+DIR_615C1_GPIO_LED_ORANGE_STATUS	mach-dir-615-c1.c	22;"	d	file:
+DIR_615C1_GPIO_LED_ORANGE_WAN	mach-dir-615-c1.c	28;"	d	file:
+DIR_615C1_KEYS_DEBOUNCE_INTERVAL	mach-dir-615-c1.c	36;"	d	file:
+DIR_615C1_KEYS_POLL_INTERVAL	mach-dir-615-c1.c	35;"	d	file:
+DIR_615C1_LAN_PHYMASK	mach-dir-615-c1.c	90;"	d	file:
+DIR_615C1_MDIO_MASK	mach-dir-615-c1.c	92;"	d	file:
+DIR_615C1_WAN_PHYMASK	mach-dir-615-c1.c	91;"	d	file:
+DORIN_CALDATA_OFFSET	mach-ew-dorin.c	27;"	d	file:
+DORIN_GPIO_BTN_JUMPSTART	mach-ew-dorin.c	33;"	d	file:
+DORIN_GPIO_BTN_RESET	mach-ew-dorin.c	34;"	d	file:
+DORIN_GPIO_LED_21	mach-ew-dorin.c	30;"	d	file:
+DORIN_GPIO_LED_22	mach-ew-dorin.c	31;"	d	file:
+DORIN_KEYS_DEBOUNCE_INTERVAL	mach-ew-dorin.c	25;"	d	file:
+DORIN_KEYS_POLL_INTERVAL	mach-ew-dorin.c	24;"	d	file:
+DORIN_WMAC_MAC_OFFSET	mach-ew-dorin.c	28;"	d	file:
+EAP7660D_BOARDCONFIG	mach-eap7660d.c	36;"	d	file:
+EAP7660D_GBIC_MAC_OFFSET	mach-eap7660d.c	37;"	d	file:
+EAP7660D_GPIO_DS4	mach-eap7660d.c	29;"	d	file:
+EAP7660D_GPIO_DS5	mach-eap7660d.c	30;"	d	file:
+EAP7660D_GPIO_DS7	mach-eap7660d.c	31;"	d	file:
+EAP7660D_GPIO_DS8	mach-eap7660d.c	32;"	d	file:
+EAP7660D_GPIO_SW1	mach-eap7660d.c	33;"	d	file:
+EAP7660D_GPIO_SW3	mach-eap7660d.c	34;"	d	file:
+EAP7660D_KEYS_DEBOUNCE_INTERVAL	mach-eap7660d.c	27;"	d	file:
+EAP7660D_KEYS_POLL_INTERVAL	mach-eap7660d.c	26;"	d	file:
+EAP7660D_PHYMASK	mach-eap7660d.c	35;"	d	file:
+EAP7660D_WMAC0_CALDATA_OFFSET	mach-eap7660d.c	40;"	d	file:
+EAP7660D_WMAC0_MAC_OFFSET	mach-eap7660d.c	38;"	d	file:
+EAP7660D_WMAC1_CALDATA_OFFSET	mach-eap7660d.c	41;"	d	file:
+EAP7660D_WMAC1_MAC_OFFSET	mach-eap7660d.c	39;"	d	file:
+GPIO_IN_ENABLE3_ADDRESS	mach-ap132.c	111;"	d	file:
+GPIO_IN_ENABLE3_MII_GE1_MDI_LSB	mach-ap132.c	113;"	d	file:
+GPIO_IN_ENABLE3_MII_GE1_MDI_MASK	mach-ap132.c	112;"	d	file:
+GPIO_IN_ENABLE3_MII_GE1_MDI_SET	mach-ap132.c	114;"	d	file:
+GPIO_OUT_FUNCTION4_ADDRESS	mach-ap132.c	115;"	d	file:
+GPIO_OUT_FUNCTION4_ENABLE_GPIO_17_LSB	mach-ap132.c	120;"	d	file:
+GPIO_OUT_FUNCTION4_ENABLE_GPIO_17_MASK	mach-ap132.c	119;"	d	file:
+GPIO_OUT_FUNCTION4_ENABLE_GPIO_17_SET	mach-ap132.c	121;"	d	file:
+GPIO_OUT_FUNCTION4_ENABLE_GPIO_19_LSB	mach-ap132.c	117;"	d	file:
+GPIO_OUT_FUNCTION4_ENABLE_GPIO_19_MASK	mach-ap132.c	116;"	d	file:
+GPIO_OUT_FUNCTION4_ENABLE_GPIO_19_SET	mach-ap132.c	118;"	d	file:
+HORNET_UB_CALDATA_OFFSET	mach-hornet-ub.c	41;"	d	file:
+HORNET_UB_GPIO_BTN_RESET	mach-hornet-ub.c	31;"	d	file:
+HORNET_UB_GPIO_BTN_WPS	mach-hornet-ub.c	32;"	d	file:
+HORNET_UB_GPIO_LED_LAN	mach-hornet-ub.c	27;"	d	file:
+HORNET_UB_GPIO_LED_USB	mach-hornet-ub.c	26;"	d	file:
+HORNET_UB_GPIO_LED_WAN	mach-hornet-ub.c	28;"	d	file:
+HORNET_UB_GPIO_LED_WLAN	mach-hornet-ub.c	25;"	d	file:
+HORNET_UB_GPIO_LED_WPS	mach-hornet-ub.c	29;"	d	file:
+HORNET_UB_GPIO_USB_POWER	mach-hornet-ub.c	34;"	d	file:
+HORNET_UB_KEYS_DEBOUNCE_INTERVAL	mach-hornet-ub.c	37;"	d	file:
+HORNET_UB_KEYS_POLL_INTERVAL	mach-hornet-ub.c	36;"	d	file:
+HORNET_UB_MAC0_OFFSET	mach-hornet-ub.c	39;"	d	file:
+HORNET_UB_MAC1_OFFSET	mach-hornet-ub.c	40;"	d	file:
+JA76PF2_GPIO_BTN_RESET	mach-ja76pf.c	119;"	d	file:
+JA76PF2_GPIO_BTN_WPS	mach-ja76pf.c	120;"	d	file:
+JA76PF2_GPIO_LED_D2	mach-ja76pf.c	116;"	d	file:
+JA76PF2_GPIO_LED_D3	mach-ja76pf.c	117;"	d	file:
+JA76PF2_GPIO_LED_D4	mach-ja76pf.c	118;"	d	file:
+JA76PF2_LAN_PHYMASK	mach-ja76pf.c	157;"	d	file:
+JA76PF2_MDIO_PHYMASK	mach-ja76pf.c	159;"	d	file:
+JA76PF2_WAN_PHYMASK	mach-ja76pf.c	158;"	d	file:
+JA76PF_GPIO_BTN_RESET	mach-ja76pf.c	27;"	d	file:
+JA76PF_GPIO_I2C_SCL	mach-ja76pf.c	22;"	d	file:
+JA76PF_GPIO_I2C_SDA	mach-ja76pf.c	23;"	d	file:
+JA76PF_GPIO_LED_1	mach-ja76pf.c	24;"	d	file:
+JA76PF_GPIO_LED_2	mach-ja76pf.c	25;"	d	file:
+JA76PF_GPIO_LED_3	mach-ja76pf.c	26;"	d	file:
+JA76PF_KEYS_DEBOUNCE_INTERVAL	mach-ja76pf.c	20;"	d	file:
+JA76PF_KEYS_POLL_INTERVAL	mach-ja76pf.c	19;"	d	file:
+JA76PF_LAN_PHYMASK	mach-ja76pf.c	79;"	d	file:
+JA76PF_MDIO_PHYMASK	mach-ja76pf.c	80;"	d	file:
+JA76PF_WAN_PHYMASK	mach-ja76pf.c	78;"	d	file:
+JWAP003_GPIO_I2C_SCL	mach-jwap003.c	23;"	d	file:
+JWAP003_GPIO_I2C_SDA	mach-jwap003.c	24;"	d	file:
+JWAP003_GPIO_WPS	mach-jwap003.c	22;"	d	file:
+JWAP003_KEYS_DEBOUNCE_INTERVAL	mach-jwap003.c	20;"	d	file:
+JWAP003_KEYS_POLL_INTERVAL	mach-jwap003.c	19;"	d	file:
+JWAP003_LAN_PHYMASK	mach-jwap003.c	60;"	d	file:
+JWAP003_WAN_PHYMASK	mach-jwap003.c	59;"	d	file:
+MR600V2_GPIO_LED_POWER	mach-mr600.c	43;"	d	file:
+MR600V2_GPIO_LED_WLAN24_GREEN	mach-mr600.c	44;"	d	file:
+MR600V2_GPIO_LED_WLAN24_RED	mach-mr600.c	46;"	d	file:
+MR600V2_GPIO_LED_WLAN24_YELLOW	mach-mr600.c	45;"	d	file:
+MR600V2_GPIO_LED_WLAN58_GREEN	mach-mr600.c	47;"	d	file:
+MR600V2_GPIO_LED_WLAN58_RED	mach-mr600.c	41;"	d	file:
+MR600V2_GPIO_LED_WLAN58_YELLOW	mach-mr600.c	48;"	d	file:
+MR600V2_GPIO_LED_WPS	mach-mr600.c	42;"	d	file:
+MR600_GPIO_BTN_RESET	mach-mr600.c	50;"	d	file:
+MR600_GPIO_LED_POWER	mach-mr600.c	39;"	d	file:
+MR600_GPIO_LED_WLAN58	mach-mr600.c	37;"	d	file:
+MR600_GPIO_LED_WPS	mach-mr600.c	38;"	d	file:
+MR600_KEYS_DEBOUNCE_INTERVAL	mach-mr600.c	53;"	d	file:
+MR600_KEYS_POLL_INTERVAL	mach-mr600.c	52;"	d	file:
+MR600_MAC_OFFSET	mach-mr600.c	55;"	d	file:
+MR600_PCIE_CALDATA_OFFSET	mach-mr600.c	57;"	d	file:
+MR600_WMAC_CALDATA_OFFSET	mach-mr600.c	56;"	d	file:
+MZK_W04NU_GPIO_BTN_APROUTER	mach-mzk-w04nu.c	28;"	d	file:
+MZK_W04NU_GPIO_BTN_RESET	mach-mzk-w04nu.c	30;"	d	file:
+MZK_W04NU_GPIO_BTN_WPS	mach-mzk-w04nu.c	29;"	d	file:
+MZK_W04NU_GPIO_LED_AP	mach-mzk-w04nu.c	25;"	d	file:
+MZK_W04NU_GPIO_LED_ROUTER	mach-mzk-w04nu.c	26;"	d	file:
+MZK_W04NU_GPIO_LED_STATUS	mach-mzk-w04nu.c	22;"	d	file:
+MZK_W04NU_GPIO_LED_USB	mach-mzk-w04nu.c	21;"	d	file:
+MZK_W04NU_GPIO_LED_WLAN	mach-mzk-w04nu.c	24;"	d	file:
+MZK_W04NU_GPIO_LED_WPS	mach-mzk-w04nu.c	23;"	d	file:
+MZK_W04NU_KEYS_DEBOUNCE_INTERVAL	mach-mzk-w04nu.c	33;"	d	file:
+MZK_W04NU_KEYS_POLL_INTERVAL	mach-mzk-w04nu.c	32;"	d	file:
+MZK_W04NU_MDIO_MASK	mach-mzk-w04nu.c	89;"	d	file:
+MZK_W04NU_WAN_PHYMASK	mach-mzk-w04nu.c	88;"	d	file:
+MZK_W300NH_GPIO_BTN_APROUTER	mach-mzk-w300nh.c	27;"	d	file:
+MZK_W300NH_GPIO_BTN_RESET	mach-mzk-w300nh.c	29;"	d	file:
+MZK_W300NH_GPIO_BTN_WPS	mach-mzk-w300nh.c	28;"	d	file:
+MZK_W300NH_GPIO_LED_AP_AMBER	mach-mzk-w300nh.c	25;"	d	file:
+MZK_W300NH_GPIO_LED_AP_GREEN	mach-mzk-w300nh.c	24;"	d	file:
+MZK_W300NH_GPIO_LED_STATUS	mach-mzk-w300nh.c	21;"	d	file:
+MZK_W300NH_GPIO_LED_WLAN	mach-mzk-w300nh.c	23;"	d	file:
+MZK_W300NH_GPIO_LED_WPS	mach-mzk-w300nh.c	22;"	d	file:
+MZK_W300NH_KEYS_DEBOUNCE_INTERVAL	mach-mzk-w300nh.c	32;"	d	file:
+MZK_W300NH_KEYS_POLL_INTERVAL	mach-mzk-w300nh.c	31;"	d	file:
+MZK_W300NH_MDIO_MASK	mach-mzk-w300nh.c	82;"	d	file:
+MZK_W300NH_WAN_PHYMASK	mach-mzk-w300nh.c	81;"	d	file:
+NBG460N_GPIO_BTN_RESET	mach-nbg460n.c	39;"	d	file:
+NBG460N_GPIO_BTN_WPS	mach-nbg460n.c	38;"	d	file:
+NBG460N_GPIO_LED_POWER	mach-nbg460n.c	34;"	d	file:
+NBG460N_GPIO_LED_WAN	mach-nbg460n.c	33;"	d	file:
+NBG460N_GPIO_LED_WLAN	mach-nbg460n.c	35;"	d	file:
+NBG460N_GPIO_LED_WPS	mach-nbg460n.c	32;"	d	file:
+NBG460N_GPIO_PCF8563_SCK	mach-nbg460n.c	46;"	d	file:
+NBG460N_GPIO_PCF8563_SDA	mach-nbg460n.c	45;"	d	file:
+NBG460N_GPIO_RTL8366_SCK	mach-nbg460n.c	50;"	d	file:
+NBG460N_GPIO_RTL8366_SDA	mach-nbg460n.c	49;"	d	file:
+NBG460N_KEYS_DEBOUNCE_INTERVAL	mach-nbg460n.c	42;"	d	file:
+NBG460N_KEYS_POLL_INTERVAL	mach-nbg460n.c	41;"	d	file:
+OM2P_GPIO_BTN_RESET	mach-om2p.c	34;"	d	file:
+OM2P_GPIO_LED_GREEN	mach-om2p.c	29;"	d	file:
+OM2P_GPIO_LED_LAN	mach-om2p.c	32;"	d	file:
+OM2P_GPIO_LED_POWER	mach-om2p.c	28;"	d	file:
+OM2P_GPIO_LED_RED	mach-om2p.c	30;"	d	file:
+OM2P_GPIO_LED_WAN	mach-om2p.c	33;"	d	file:
+OM2P_GPIO_LED_YELLOW	mach-om2p.c	31;"	d	file:
+OM2P_KEYS_DEBOUNCE_INTERVAL	mach-om2p.c	37;"	d	file:
+OM2P_KEYS_POLL_INTERVAL	mach-om2p.c	36;"	d	file:
+OM2P_LC_GPIO_BTN_RESET	mach-om2p.c	47;"	d	file:
+OM2P_LC_GPIO_LED_GREEN	mach-om2p.c	42;"	d	file:
+OM2P_LC_GPIO_LED_LAN	mach-om2p.c	45;"	d	file:
+OM2P_LC_GPIO_LED_POWER	mach-om2p.c	41;"	d	file:
+OM2P_LC_GPIO_LED_RED	mach-om2p.c	43;"	d	file:
+OM2P_LC_GPIO_LED_WAN	mach-om2p.c	46;"	d	file:
+OM2P_LC_GPIO_LED_YELLOW	mach-om2p.c	44;"	d	file:
+OM2P_WAN_PHYMASK	mach-om2p.c	39;"	d	file:
+PB42_GPIO_BTN_SW4	mach-pb42.c	24;"	d	file:
+PB42_GPIO_BTN_SW5	mach-pb42.c	25;"	d	file:
+PB42_KEYS_DEBOUNCE_INTERVAL	mach-pb42.c	22;"	d	file:
+PB42_KEYS_POLL_INTERVAL	mach-pb42.c	21;"	d	file:
+PB42_LAN_PHYMASK	mach-pb42.c	55;"	d	file:
+PB42_MDIO_PHYMASK	mach-pb42.c	56;"	d	file:
+PB42_WAN_PHYMASK	mach-pb42.c	54;"	d	file:
+PB92_GPIO_BTN_SW4	mach-pb92.c	25;"	d	file:
+PB92_GPIO_BTN_SW5	mach-pb92.c	26;"	d	file:
+PB92_KEYS_DEBOUNCE_INTERVAL	mach-pb92.c	23;"	d	file:
+PB92_KEYS_POLL_INTERVAL	mach-pb92.c	22;"	d	file:
+RB2011_GPIO_NAND_NCE	mach-rb2011.c	40;"	d	file:
+RB2011_GPIO_SFP_LOS	mach-rb2011.c	41;"	d	file:
+RB433_LAN_PHYMASK	mach-rb4xx.c	269;"	d	file:
+RB433_MDIO_PHYMASK	mach-rb4xx.c	271;"	d	file:
+RB433_WAN_PHYMASK	mach-rb4xx.c	270;"	d	file:
+RB450_LAN_PHYMASK	mach-rb4xx.c	337;"	d	file:
+RB450_MDIO_PHYMASK	mach-rb4xx.c	339;"	d	file:
+RB450_WAN_PHYMASK	mach-rb4xx.c	338;"	d	file:
+RB493G_GPIO_MDIO_DATA	mach-rb4xx.c	404;"	d	file:
+RB493G_GPIO_MDIO_MDC	mach-rb4xx.c	403;"	d	file:
+RB493G_MDIO_PHYMASK	mach-rb4xx.c	406;"	d	file:
+RB4XX_GPIO_CPLD_BASE	mach-rb4xx.c	37;"	d	file:
+RB4XX_GPIO_CPLD_LED1	mach-rb4xx.c	38;"	d	file:
+RB4XX_GPIO_CPLD_LED2	mach-rb4xx.c	39;"	d	file:
+RB4XX_GPIO_CPLD_LED3	mach-rb4xx.c	40;"	d	file:
+RB4XX_GPIO_CPLD_LED4	mach-rb4xx.c	41;"	d	file:
+RB4XX_GPIO_CPLD_LED5	mach-rb4xx.c	42;"	d	file:
+RB4XX_GPIO_RESET_SWITCH	mach-rb4xx.c	35;"	d	file:
+RB4XX_GPIO_USER_LED	mach-rb4xx.c	34;"	d	file:
+RB4XX_KEYS_DEBOUNCE_INTERVAL	mach-rb4xx.c	45;"	d	file:
+RB4XX_KEYS_POLL_INTERVAL	mach-rb4xx.c	44;"	d	file:
+RB751_HARDCONFIG	mach-rb750.c	283;"	d	file:
+RB751_HARDCONFIG_SIZE	mach-rb750.c	284;"	d	file:
+RB95X_GPIO_NAND_NCE	mach-rb95x.c	41;"	d	file:
+RB_ART_SIZE	mach-rb2011.c	51;"	d	file:
+RB_ART_SIZE	mach-rb95x.c	52;"	d	file:
+RB_BIOS_OFFSET	mach-rb2011.c	46;"	d	file:
+RB_BIOS_OFFSET	mach-rb95x.c	47;"	d	file:
+RB_BIOS_SIZE	mach-rb2011.c	47;"	d	file:
+RB_BIOS_SIZE	mach-rb95x.c	48;"	d	file:
+RB_HARD_CFG_OFFSET	mach-rb95x.c	45;"	d	file:
+RB_HARD_CFG_SIZE	mach-rb2011.c	45;"	d	file:
+RB_HARD_CFG_SIZE	mach-rb95x.c	46;"	d	file:
+RB_ROUTERBOOT_MIN_SIZE	mach-rb2011.c	44;"	d	file:
+RB_ROUTERBOOT_OFFSET	mach-rb2011.c	43;"	d	file:
+RB_ROUTERBOOT_OFFSET	mach-rb95x.c	43;"	d	file:
+RB_ROUTERBOOT_SIZE	mach-rb95x.c	44;"	d	file:
+RB_SOFT_CFG_OFFSET	mach-rb2011.c	48;"	d	file:
+RB_SOFT_CFG_OFFSET	mach-rb95x.c	49;"	d	file:
+RB_SOFT_CFG_SIZE	mach-rb2011.c	49;"	d	file:
+RB_SOFT_CFG_SIZE	mach-rb95x.c	50;"	d	file:
+RW2458N_GPIO_BTN_RESET	mach-rw2458n.c	26;"	d	file:
+RW2458N_GPIO_LED_D3	mach-rw2458n.c	22;"	d	file:
+RW2458N_GPIO_LED_D4	mach-rw2458n.c	23;"	d	file:
+RW2458N_GPIO_LED_D5	mach-rw2458n.c	24;"	d	file:
+RW2458N_GPIO_LED_D6	mach-rw2458n.c	25;"	d	file:
+RW2458N_KEYS_DEBOUNCE_INTERVAL	mach-rw2458n.c	29;"	d	file:
+RW2458N_KEYS_POLL_INTERVAL	mach-rw2458n.c	28;"	d	file:
+RW2458N_WAN_PHYMASK	mach-rw2458n.c	42;"	d	file:
+TEW673GRU_CAL0_OFFSET	mach-tew-673gru.c	43;"	d	file:
+TEW673GRU_CAL1_OFFSET	mach-tew-673gru.c	44;"	d	file:
+TEW673GRU_CAL_LOCATION_0	mach-tew-673gru.c	48;"	d	file:
+TEW673GRU_CAL_LOCATION_1	mach-tew-673gru.c	49;"	d	file:
+TEW673GRU_GPIO_BTN_RESET	mach-tew-673gru.c	34;"	d	file:
+TEW673GRU_GPIO_BTN_WPS	mach-tew-673gru.c	35;"	d	file:
+TEW673GRU_GPIO_LCD_CS	mach-tew-673gru.c	30;"	d	file:
+TEW673GRU_GPIO_LCD_MISO	mach-tew-673gru.c	29;"	d	file:
+TEW673GRU_GPIO_LCD_MOSI	mach-tew-673gru.c	28;"	d	file:
+TEW673GRU_GPIO_LCD_SCK	mach-tew-673gru.c	27;"	d	file:
+TEW673GRU_GPIO_LED_WPS	mach-tew-673gru.c	32;"	d	file:
+TEW673GRU_GPIO_RTL8366_SCK	mach-tew-673gru.c	38;"	d	file:
+TEW673GRU_GPIO_RTL8366_SDA	mach-tew-673gru.c	37;"	d	file:
+TEW673GRU_KEYS_DEBOUNCE_INTERVAL	mach-tew-673gru.c	41;"	d	file:
+TEW673GRU_KEYS_POLL_INTERVAL	mach-tew-673gru.c	40;"	d	file:
+TEW673GRU_MAC0_OFFSET	mach-tew-673gru.c	45;"	d	file:
+TEW673GRU_MAC1_OFFSET	mach-tew-673gru.c	46;"	d	file:
+TEW_632BRP_CONFIG_ADDR	mach-tew-632brp.c	31;"	d	file:
+TEW_632BRP_CONFIG_SIZE	mach-tew-632brp.c	32;"	d	file:
+TEW_632BRP_GPIO_BTN_RESET	mach-tew-632brp.c	26;"	d	file:
+TEW_632BRP_GPIO_BTN_WPS	mach-tew-632brp.c	25;"	d	file:
+TEW_632BRP_GPIO_LED_STATUS	mach-tew-632brp.c	22;"	d	file:
+TEW_632BRP_GPIO_LED_WLAN	mach-tew-632brp.c	24;"	d	file:
+TEW_632BRP_GPIO_LED_WPS	mach-tew-632brp.c	23;"	d	file:
+TEW_632BRP_KEYS_DEBOUNCE_INTERVAL	mach-tew-632brp.c	29;"	d	file:
+TEW_632BRP_KEYS_POLL_INTERVAL	mach-tew-632brp.c	28;"	d	file:
+TEW_632BRP_LAN_PHYMASK	mach-tew-632brp.c	68;"	d	file:
+TEW_632BRP_MDIO_MASK	mach-tew-632brp.c	70;"	d	file:
+TEW_632BRP_WAN_PHYMASK	mach-tew-632brp.c	69;"	d	file:
+TEW_712BR_ART_ADDRESS	mach-tew-712br.c	43;"	d	file:
+TEW_712BR_CALDATA_OFFSET	mach-tew-712br.c	44;"	d	file:
+TEW_712BR_GPIO_BTN_RESET	mach-tew-712br.c	25;"	d	file:
+TEW_712BR_GPIO_BTN_WPS	mach-tew-712br.c	24;"	d	file:
+TEW_712BR_GPIO_LED_LAN1	mach-tew-712br.c	27;"	d	file:
+TEW_712BR_GPIO_LED_LAN2	mach-tew-712br.c	28;"	d	file:
+TEW_712BR_GPIO_LED_LAN3	mach-tew-712br.c	29;"	d	file:
+TEW_712BR_GPIO_LED_LAN4	mach-tew-712br.c	30;"	d	file:
+TEW_712BR_GPIO_LED_POWER_GREEN	mach-tew-712br.c	31;"	d	file:
+TEW_712BR_GPIO_LED_POWER_ORANGE	mach-tew-712br.c	32;"	d	file:
+TEW_712BR_GPIO_LED_WAN_GREEN	mach-tew-712br.c	33;"	d	file:
+TEW_712BR_GPIO_LED_WAN_ORANGE	mach-tew-712br.c	34;"	d	file:
+TEW_712BR_GPIO_LED_WLAN	mach-tew-712br.c	35;"	d	file:
+TEW_712BR_GPIO_LED_WPS	mach-tew-712br.c	36;"	d	file:
+TEW_712BR_GPIO_WAN_LED_ENABLE	mach-tew-712br.c	38;"	d	file:
+TEW_712BR_KEYS_DEBOUNCE_INTERVAL	mach-tew-712br.c	41;"	d	file:
+TEW_712BR_KEYS_POLL_INTERVAL	mach-tew-712br.c	40;"	d	file:
+TEW_712BR_LAN_MAC_ADDRESS	mach-tew-712br.c	45;"	d	file:
+TEW_712BR_WAN_MAC_ADDRESS	mach-tew-712br.c	46;"	d	file:
+TL_MR10U_GPIO_USB_POWER	mach-tl-wr703n.c	29;"	d	file:
+TL_MR11U_GPIO_BTN_RESET	mach-tl-mr11u.c	31;"	d	file:
+TL_MR11U_GPIO_BTN_WPS	mach-tl-mr11u.c	30;"	d	file:
+TL_MR11U_GPIO_LED_3G	mach-tl-mr11u.c	26;"	d	file:
+TL_MR11U_GPIO_LED_LAN	mach-tl-mr11u.c	28;"	d	file:
+TL_MR11U_GPIO_LED_WLAN	mach-tl-mr11u.c	27;"	d	file:
+TL_MR11U_GPIO_USB_POWER	mach-tl-mr11u.c	33;"	d	file:
+TL_MR11U_KEYS_DEBOUNCE_INTERVAL	mach-tl-mr11u.c	37;"	d	file:
+TL_MR11U_KEYS_POLL_INTERVAL	mach-tl-mr11u.c	36;"	d	file:
+TL_MR3020_GPIO_BTN_SW1	mach-tl-mr3020.c	31;"	d	file:
+TL_MR3020_GPIO_BTN_SW2	mach-tl-mr3020.c	32;"	d	file:
+TL_MR3020_GPIO_BTN_WPS	mach-tl-mr3020.c	30;"	d	file:
+TL_MR3020_GPIO_LED_3G	mach-tl-mr3020.c	25;"	d	file:
+TL_MR3020_GPIO_LED_LAN	mach-tl-mr3020.c	27;"	d	file:
+TL_MR3020_GPIO_LED_WLAN	mach-tl-mr3020.c	26;"	d	file:
+TL_MR3020_GPIO_LED_WPS	mach-tl-mr3020.c	28;"	d	file:
+TL_MR3020_GPIO_USB_POWER	mach-tl-mr3020.c	34;"	d	file:
+TL_MR3020_KEYS_DEBOUNCE_INTERVAL	mach-tl-mr3020.c	37;"	d	file:
+TL_MR3020_KEYS_POLL_INTERVAL	mach-tl-mr3020.c	36;"	d	file:
+TL_MR3040_GPIO_USB_POWER	mach-tl-mr11u.c	34;"	d	file:
+TL_MR3220V2_GPIO_BTN_WIFI	mach-tl-wr741nd-v4.c	38;"	d	file:
+TL_MR3220V2_GPIO_BTN_WPS	mach-tl-wr741nd-v4.c	37;"	d	file:
+TL_MR3220V2_GPIO_LED_3G	mach-tl-wr741nd-v4.c	40;"	d	file:
+TL_MR3220V2_GPIO_USB_POWER	mach-tl-wr741nd-v4.c	41;"	d	file:
+TL_MR3420V2_GPIO_LED_3G	mach-tl-wr841n-v8.c	38;"	d	file:
+TL_MR3420V2_GPIO_USB_POWER	mach-tl-wr841n-v8.c	39;"	d	file:
+TL_MR3X20_GPIO_BTN_QSS	mach-tl-mr3x20.c	28;"	d	file:
+TL_MR3X20_GPIO_BTN_RESET	mach-tl-mr3x20.c	27;"	d	file:
+TL_MR3X20_GPIO_LED_3G	mach-tl-mr3x20.c	25;"	d	file:
+TL_MR3X20_GPIO_LED_QSS	mach-tl-mr3x20.c	23;"	d	file:
+TL_MR3X20_GPIO_LED_SYSTEM	mach-tl-mr3x20.c	24;"	d	file:
+TL_MR3X20_GPIO_USB_POWER	mach-tl-mr3x20.c	30;"	d	file:
+TL_MR3X20_KEYS_DEBOUNCE_INTERVAL	mach-tl-mr3x20.c	33;"	d	file:
+TL_MR3X20_KEYS_POLL_INTERVAL	mach-tl-mr3x20.c	32;"	d	file:
+TL_WA901ND_GPIO_BTN_QSS	mach-tl-wa901nd.c	30;"	d	file:
+TL_WA901ND_GPIO_BTN_RESET	mach-tl-wa901nd.c	29;"	d	file:
+TL_WA901ND_GPIO_LED_LAN	mach-tl-wa901nd.c	27;"	d	file:
+TL_WA901ND_GPIO_LED_QSS	mach-tl-wa901nd.c	25;"	d	file:
+TL_WA901ND_GPIO_LED_SYSTEM	mach-tl-wa901nd.c	26;"	d	file:
+TL_WA901ND_KEYS_DEBOUNCE_INTERVAL	mach-tl-wa901nd.c	33;"	d	file:
+TL_WA901ND_KEYS_POLL_INTERVAL	mach-tl-wa901nd.c	32;"	d	file:
+TL_WA901ND_V2_GPIO_BTN_QSS	mach-tl-wa901nd-v2.c	28;"	d	file:
+TL_WA901ND_V2_GPIO_BTN_RESET	mach-tl-wa901nd-v2.c	27;"	d	file:
+TL_WA901ND_V2_GPIO_LED_QSS	mach-tl-wa901nd-v2.c	23;"	d	file:
+TL_WA901ND_V2_GPIO_LED_SYSTEM	mach-tl-wa901nd-v2.c	24;"	d	file:
+TL_WA901ND_V2_GPIO_LED_WLAN	mach-tl-wa901nd-v2.c	25;"	d	file:
+TL_WA901ND_V2_KEYS_DEBOUNCE_INTERVAL	mach-tl-wa901nd-v2.c	31;"	d	file:
+TL_WA901ND_V2_KEYS_POLL_INTERVAL	mach-tl-wa901nd-v2.c	30;"	d	file:
+TL_WR1041NV2_GPIO_BTN_RESET	mach-tl-wr1041n-v2.c	30;"	d	file:
+TL_WR1041NV2_GPIO_LED_SYSTEM	mach-tl-wr1041n-v2.c	34;"	d	file:
+TL_WR1041NV2_GPIO_LED_WLAN	mach-tl-wr1041n-v2.c	32;"	d	file:
+TL_WR1041NV2_GPIO_LED_WPS	mach-tl-wr1041n-v2.c	31;"	d	file:
+TL_WR1041NV2_KEYS_DEBOUNCE_INTERVAL	mach-tl-wr1041n-v2.c	37;"	d	file:
+TL_WR1041NV2_KEYS_POLL_INTERVAL	mach-tl-wr1041n-v2.c	36;"	d	file:
+TL_WR1041NV2_PCIE_CALDATA_OFFSET	mach-tl-wr1041n-v2.c	39;"	d	file:
+TL_WR1043ND_GPIO_BTN_QSS	mach-tl-wr1043nd.c	31;"	d	file:
+TL_WR1043ND_GPIO_BTN_RESET	mach-tl-wr1043nd.c	30;"	d	file:
+TL_WR1043ND_GPIO_LED_QSS	mach-tl-wr1043nd.c	27;"	d	file:
+TL_WR1043ND_GPIO_LED_SYSTEM	mach-tl-wr1043nd.c	26;"	d	file:
+TL_WR1043ND_GPIO_LED_USB	mach-tl-wr1043nd.c	25;"	d	file:
+TL_WR1043ND_GPIO_LED_WLAN	mach-tl-wr1043nd.c	28;"	d	file:
+TL_WR1043ND_GPIO_RTL8366_SCK	mach-tl-wr1043nd.c	34;"	d	file:
+TL_WR1043ND_GPIO_RTL8366_SDA	mach-tl-wr1043nd.c	33;"	d	file:
+TL_WR1043ND_KEYS_DEBOUNCE_INTERVAL	mach-tl-wr1043nd.c	37;"	d	file:
+TL_WR1043ND_KEYS_POLL_INTERVAL	mach-tl-wr1043nd.c	36;"	d	file:
+TL_WR2543N_GPIO_BTN_RESET	mach-tl-wr2543n.c	31;"	d	file:
+TL_WR2543N_GPIO_BTN_WPS	mach-tl-wr2543n.c	32;"	d	file:
+TL_WR2543N_GPIO_LED_USB	mach-tl-wr2543n.c	25;"	d	file:
+TL_WR2543N_GPIO_LED_WPS	mach-tl-wr2543n.c	24;"	d	file:
+TL_WR2543N_GPIO_RTL8367_SCK	mach-tl-wr2543n.c	35;"	d	file:
+TL_WR2543N_GPIO_RTL8367_SDA	mach-tl-wr2543n.c	34;"	d	file:
+TL_WR2543N_GPIO_WMAC_LED_WLAN2G	mach-tl-wr2543n.c	28;"	d	file:
+TL_WR2543N_GPIO_WMAC_LED_WLAN5G	mach-tl-wr2543n.c	29;"	d	file:
+TL_WR2543N_KEYS_DEBOUNCE_INTERVAL	mach-tl-wr2543n.c	38;"	d	file:
+TL_WR2543N_KEYS_POLL_INTERVAL	mach-tl-wr2543n.c	37;"	d	file:
+TL_WR703N_GPIO_BTN_RESET	mach-tl-wr703n.c	25;"	d	file:
+TL_WR703N_GPIO_LED_SYSTEM	mach-tl-wr703n.c	24;"	d	file:
+TL_WR703N_GPIO_USB_POWER	mach-tl-wr703n.c	27;"	d	file:
+TL_WR703N_KEYS_DEBOUNCE_INTERVAL	mach-tl-wr703n.c	32;"	d	file:
+TL_WR703N_KEYS_POLL_INTERVAL	mach-tl-wr703n.c	31;"	d	file:
+TL_WR720N_GPIO_BTN_RESET	mach-tl-wr720n-v3.c	26;"	d	file:
+TL_WR720N_GPIO_BTN_SW1	mach-tl-wr720n-v3.c	27;"	d	file:
+TL_WR720N_GPIO_BTN_SW2	mach-tl-wr720n-v3.c	28;"	d	file:
+TL_WR720N_GPIO_LED_SYSTEM	mach-tl-wr720n-v3.c	25;"	d	file:
+TL_WR720N_GPIO_USB_POWER	mach-tl-wr720n-v3.c	30;"	d	file:
+TL_WR720N_KEYS_DEBOUNCE_INTERVAL	mach-tl-wr720n-v3.c	33;"	d	file:
+TL_WR720N_KEYS_POLL_INTERVAL	mach-tl-wr720n-v3.c	32;"	d	file:
+TL_WR741NDV4_GPIO_BTN_RESET	mach-tl-wr741nd-v4.c	25;"	d	file:
+TL_WR741NDV4_GPIO_BTN_WPS	mach-tl-wr741nd-v4.c	26;"	d	file:
+TL_WR741NDV4_GPIO_LED_LAN1	mach-tl-wr741nd-v4.c	31;"	d	file:
+TL_WR741NDV4_GPIO_LED_LAN2	mach-tl-wr741nd-v4.c	32;"	d	file:
+TL_WR741NDV4_GPIO_LED_LAN3	mach-tl-wr741nd-v4.c	33;"	d	file:
+TL_WR741NDV4_GPIO_LED_LAN4	mach-tl-wr741nd-v4.c	34;"	d	file:
+TL_WR741NDV4_GPIO_LED_QSS	mach-tl-wr741nd-v4.c	29;"	d	file:
+TL_WR741NDV4_GPIO_LED_SYSTEM	mach-tl-wr741nd-v4.c	35;"	d	file:
+TL_WR741NDV4_GPIO_LED_WAN	mach-tl-wr741nd-v4.c	30;"	d	file:
+TL_WR741NDV4_GPIO_LED_WLAN	mach-tl-wr741nd-v4.c	28;"	d	file:
+TL_WR741NDV4_KEYS_DEBOUNCE_INTERVAL	mach-tl-wr741nd-v4.c	44;"	d	file:
+TL_WR741NDV4_KEYS_POLL_INTERVAL	mach-tl-wr741nd-v4.c	43;"	d	file:
+TL_WR741ND_GPIO_BTN_QSS	mach-tl-wr741nd.c	31;"	d	file:
+TL_WR741ND_GPIO_BTN_RESET	mach-tl-wr741nd.c	30;"	d	file:
+TL_WR741ND_GPIO_LED_LAN1	mach-tl-wr741nd.c	24;"	d	file:
+TL_WR741ND_GPIO_LED_LAN2	mach-tl-wr741nd.c	25;"	d	file:
+TL_WR741ND_GPIO_LED_LAN3	mach-tl-wr741nd.c	26;"	d	file:
+TL_WR741ND_GPIO_LED_LAN4	mach-tl-wr741nd.c	27;"	d	file:
+TL_WR741ND_GPIO_LED_QSS	mach-tl-wr741nd.c	22;"	d	file:
+TL_WR741ND_GPIO_LED_SYSTEM	mach-tl-wr741nd.c	23;"	d	file:
+TL_WR741ND_GPIO_LED_WAN	mach-tl-wr741nd.c	28;"	d	file:
+TL_WR741ND_KEYS_DEBOUNCE_INTERVAL	mach-tl-wr741nd.c	34;"	d	file:
+TL_WR741ND_KEYS_POLL_INTERVAL	mach-tl-wr741nd.c	33;"	d	file:
+TL_WR841ND_V1_GPIO_BTN_QSS	mach-tl-wr841n.c	30;"	d	file:
+TL_WR841ND_V1_GPIO_BTN_RESET	mach-tl-wr841n.c	29;"	d	file:
+TL_WR841ND_V1_GPIO_LED_QSS_GREEN	mach-tl-wr841n.c	26;"	d	file:
+TL_WR841ND_V1_GPIO_LED_QSS_RED	mach-tl-wr841n.c	27;"	d	file:
+TL_WR841ND_V1_GPIO_LED_SYSTEM	mach-tl-wr841n.c	25;"	d	file:
+TL_WR841ND_V1_KEYS_DEBOUNCE_INTERVAL	mach-tl-wr841n.c	33;"	d	file:
+TL_WR841ND_V1_KEYS_POLL_INTERVAL	mach-tl-wr841n.c	32;"	d	file:
+TL_WR841NV8_GPIO_BTN_RESET	mach-tl-wr841n-v8.c	35;"	d	file:
+TL_WR841NV8_GPIO_LED_LAN1	mach-tl-wr841n-v8.c	29;"	d	file:
+TL_WR841NV8_GPIO_LED_LAN2	mach-tl-wr841n-v8.c	30;"	d	file:
+TL_WR841NV8_GPIO_LED_LAN3	mach-tl-wr841n-v8.c	31;"	d	file:
+TL_WR841NV8_GPIO_LED_LAN4	mach-tl-wr841n-v8.c	32;"	d	file:
+TL_WR841NV8_GPIO_LED_QSS	mach-tl-wr841n-v8.c	27;"	d	file:
+TL_WR841NV8_GPIO_LED_SYSTEM	mach-tl-wr841n-v8.c	33;"	d	file:
+TL_WR841NV8_GPIO_LED_WAN	mach-tl-wr841n-v8.c	28;"	d	file:
+TL_WR841NV8_GPIO_LED_WLAN	mach-tl-wr841n-v8.c	26;"	d	file:
+TL_WR841NV8_GPIO_SW_RFKILL	mach-tl-wr841n-v8.c	36;"	d	file:
+TL_WR841NV8_KEYS_DEBOUNCE_INTERVAL	mach-tl-wr841n-v8.c	42;"	d	file:
+TL_WR841NV8_KEYS_POLL_INTERVAL	mach-tl-wr841n-v8.c	41;"	d	file:
+TL_WR941ND_GPIO_BTN_QSS	mach-tl-wr941nd.c	29;"	d	file:
+TL_WR941ND_GPIO_BTN_RESET	mach-tl-wr941nd.c	28;"	d	file:
+TL_WR941ND_GPIO_LED_QSS_GREEN	mach-tl-wr941nd.c	25;"	d	file:
+TL_WR941ND_GPIO_LED_QSS_RED	mach-tl-wr941nd.c	24;"	d	file:
+TL_WR941ND_GPIO_LED_SYSTEM	mach-tl-wr941nd.c	23;"	d	file:
+TL_WR941ND_GPIO_LED_WLAN	mach-tl-wr941nd.c	26;"	d	file:
+TL_WR941ND_KEYS_DEBOUNCE_INTERVAL	mach-tl-wr941nd.c	32;"	d	file:
+TL_WR941ND_KEYS_POLL_INTERVAL	mach-tl-wr941nd.c	31;"	d	file:
+UBNT_KEYS_DEBOUNCE_INTERVAL	mach-ubnt.c	35;"	d	file:
+UBNT_KEYS_POLL_INTERVAL	mach-ubnt.c	34;"	d	file:
+UBNT_LSSR71_PHY_MASK	mach-ubnt.c	186;"	d	file:
+UBNT_LS_SR71_GPIO_LED_D22	mach-ubnt.c	30;"	d	file:
+UBNT_LS_SR71_GPIO_LED_D23	mach-ubnt.c	29;"	d	file:
+UBNT_LS_SR71_GPIO_LED_D24	mach-ubnt.c	28;"	d	file:
+UBNT_LS_SR71_GPIO_LED_D25	mach-ubnt.c	26;"	d	file:
+UBNT_LS_SR71_GPIO_LED_D26	mach-ubnt.c	27;"	d	file:
+UBNT_LS_SR71_GPIO_LED_D27	mach-ubnt.c	31;"	d	file:
+UBNT_LS_SR71_GPIO_LED_D28	mach-ubnt.c	32;"	d	file:
+UBNT_RSPRO_LAN_PHYMASK	mach-ubnt.c	143;"	d	file:
+UBNT_RSPRO_WAN_PHYMASK	mach-ubnt.c	142;"	d	file:
+UBNT_RS_GPIO_LED_RF	mach-ubnt.c	23;"	d	file:
+UBNT_RS_GPIO_SW4	mach-ubnt.c	24;"	d	file:
+UBNT_RS_LAN_PHYMASK	mach-ubnt.c	108;"	d	file:
+UBNT_RS_WAN_PHYMASK	mach-ubnt.c	107;"	d	file:
+WDR3500_GPIO_BTN_RFKILL	mach-tl-wdr3500.c	43;"	d	file:
+WDR3500_GPIO_BTN_WPS	mach-tl-wdr3500.c	42;"	d	file:
+WDR3500_GPIO_LED_LAN1	mach-tl-wdr3500.c	37;"	d	file:
+WDR3500_GPIO_LED_LAN2	mach-tl-wdr3500.c	38;"	d	file:
+WDR3500_GPIO_LED_LAN3	mach-tl-wdr3500.c	39;"	d	file:
+WDR3500_GPIO_LED_LAN4	mach-tl-wdr3500.c	40;"	d	file:
+WDR3500_GPIO_LED_QSS	mach-tl-wdr3500.c	35;"	d	file:
+WDR3500_GPIO_LED_SYSTEM	mach-tl-wdr3500.c	34;"	d	file:
+WDR3500_GPIO_LED_USB	mach-tl-wdr3500.c	32;"	d	file:
+WDR3500_GPIO_LED_WAN	mach-tl-wdr3500.c	36;"	d	file:
+WDR3500_GPIO_LED_WLAN2G	mach-tl-wdr3500.c	33;"	d	file:
+WDR3500_GPIO_USB_POWER	mach-tl-wdr3500.c	45;"	d	file:
+WDR3500_KEYS_DEBOUNCE_INTERVAL	mach-tl-wdr3500.c	48;"	d	file:
+WDR3500_KEYS_POLL_INTERVAL	mach-tl-wdr3500.c	47;"	d	file:
+WDR3500_MAC0_OFFSET	mach-tl-wdr3500.c	50;"	d	file:
+WDR3500_MAC1_OFFSET	mach-tl-wdr3500.c	51;"	d	file:
+WDR3500_PCIE_CALDATA_OFFSET	mach-tl-wdr3500.c	53;"	d	file:
+WDR3500_WMAC_CALDATA_OFFSET	mach-tl-wdr3500.c	52;"	d	file:
+WDR4300_GPIO_BTN_RFKILL	mach-tl-wdr4300.c	38;"	d	file:
+WDR4300_GPIO_BTN_WPS	mach-tl-wdr4300.c	37;"	d	file:
+WDR4300_GPIO_LED_QSS	mach-tl-wdr4300.c	35;"	d	file:
+WDR4300_GPIO_LED_SYSTEM	mach-tl-wdr4300.c	34;"	d	file:
+WDR4300_GPIO_LED_USB1	mach-tl-wdr4300.c	31;"	d	file:
+WDR4300_GPIO_LED_USB2	mach-tl-wdr4300.c	32;"	d	file:
+WDR4300_GPIO_LED_WLAN2G	mach-tl-wdr4300.c	33;"	d	file:
+WDR4300_GPIO_USB1_POWER	mach-tl-wdr4300.c	40;"	d	file:
+WDR4300_GPIO_USB2_POWER	mach-tl-wdr4300.c	41;"	d	file:
+WDR4300_KEYS_DEBOUNCE_INTERVAL	mach-tl-wdr4300.c	44;"	d	file:
+WDR4300_KEYS_POLL_INTERVAL	mach-tl-wdr4300.c	43;"	d	file:
+WDR4300_MAC0_OFFSET	mach-tl-wdr4300.c	46;"	d	file:
+WDR4300_MAC1_OFFSET	mach-tl-wdr4300.c	47;"	d	file:
+WDR4300_PCIE_CALDATA_OFFSET	mach-tl-wdr4300.c	49;"	d	file:
+WDR4300_WMAC_CALDATA_OFFSET	mach-tl-wdr4300.c	48;"	d	file:
+WHRHPG300N_GPIO_BTN_AOSS	mach-whr-hp-g300n.c	33;"	d	file:
+WHRHPG300N_GPIO_BTN_RESET	mach-whr-hp-g300n.c	32;"	d	file:
+WHRHPG300N_GPIO_BTN_ROUTER_AUTO	mach-whr-hp-g300n.c	31;"	d	file:
+WHRHPG300N_GPIO_BTN_ROUTER_ON	mach-whr-hp-g300n.c	30;"	d	file:
+WHRHPG300N_GPIO_LED_DIAG	mach-whr-hp-g300n.c	27;"	d	file:
+WHRHPG300N_GPIO_LED_LAN1	mach-whr-hp-g300n.c	34;"	d	file:
+WHRHPG300N_GPIO_LED_LAN2	mach-whr-hp-g300n.c	35;"	d	file:
+WHRHPG300N_GPIO_LED_LAN3	mach-whr-hp-g300n.c	36;"	d	file:
+WHRHPG300N_GPIO_LED_LAN4	mach-whr-hp-g300n.c	37;"	d	file:
+WHRHPG300N_GPIO_LED_ROUTER	mach-whr-hp-g300n.c	28;"	d	file:
+WHRHPG300N_GPIO_LED_SECURITY	mach-whr-hp-g300n.c	26;"	d	file:
+WHRHPG300N_GPIO_LED_WAN	mach-whr-hp-g300n.c	38;"	d	file:
+WHRHPG300N_KEYS_DEBOUNCE_INTERVAL	mach-whr-hp-g300n.c	41;"	d	file:
+WHRHPG300N_KEYS_POLL_INTERVAL	mach-whr-hp-g300n.c	40;"	d	file:
+WHRHPG300N_MAC_OFFSET	mach-whr-hp-g300n.c	43;"	d	file:
+WLAEAG300N_KEYS_DEBOUNCE_INTERVAL	mach-wlae-ag300n.c	21;"	d	file:
+WLAEAG300N_KEYS_POLL_INTERVAL	mach-wlae-ag300n.c	20;"	d	file:
+WLAEAG300N_MAC_OFFSET	mach-wlae-ag300n.c	19;"	d	file:
+WNDAP360_CALDATA0_OFFSET	mach-wndap360.c	41;"	d	file:
+WNDAP360_CALDATA1_OFFSET	mach-wndap360.c	42;"	d	file:
+WNDAP360_GPIO_BTN_RESET	mach-wndap360.c	32;"	d	file:
+WNDAP360_GPIO_BTN_WPS	mach-wndap360.c	34;"	d	file:
+WNDAP360_GPIO_LED_POWER_GREEN	mach-wndap360.c	29;"	d	file:
+WNDAP360_GPIO_LED_POWER_ORANGE	mach-wndap360.c	28;"	d	file:
+WNDAP360_KEYS_DEBOUNCE_INTERVAL	mach-wndap360.c	37;"	d	file:
+WNDAP360_KEYS_POLL_INTERVAL	mach-wndap360.c	36;"	d	file:
+WNDAP360_LAN_PHYMASK	mach-wndap360.c	71;"	d	file:
+WNDAP360_WMAC0_MAC_OFFSET	mach-wndap360.c	39;"	d	file:
+WNDAP360_WMAC1_MAC_OFFSET	mach-wndap360.c	40;"	d	file:
+WNDR3700_CALDATA0_OFFSET	mach-wndr3700.c	49;"	d	file:
+WNDR3700_CALDATA1_OFFSET	mach-wndr3700.c	50;"	d	file:
+WNDR3700_ETH0_MAC_OFFSET	mach-wndr3700.c	44;"	d	file:
+WNDR3700_ETH1_MAC_OFFSET	mach-wndr3700.c	45;"	d	file:
+WNDR3700_GPIO_BTN_RESET	mach-wndr3700.c	35;"	d	file:
+WNDR3700_GPIO_BTN_WIFI	mach-wndr3700.c	36;"	d	file:
+WNDR3700_GPIO_BTN_WPS	mach-wndr3700.c	34;"	d	file:
+WNDR3700_GPIO_LED_POWER_GREEN	mach-wndr3700.c	30;"	d	file:
+WNDR3700_GPIO_LED_POWER_ORANGE	mach-wndr3700.c	29;"	d	file:
+WNDR3700_GPIO_LED_WAN_GREEN	mach-wndr3700.c	32;"	d	file:
+WNDR3700_GPIO_LED_WPS_GREEN	mach-wndr3700.c	31;"	d	file:
+WNDR3700_GPIO_LED_WPS_ORANGE	mach-wndr3700.c	28;"	d	file:
+WNDR3700_GPIO_RTL8366_SCK	mach-wndr3700.c	39;"	d	file:
+WNDR3700_GPIO_RTL8366_SDA	mach-wndr3700.c	38;"	d	file:
+WNDR3700_KEYS_DEBOUNCE_INTERVAL	mach-wndr3700.c	42;"	d	file:
+WNDR3700_KEYS_POLL_INTERVAL	mach-wndr3700.c	41;"	d	file:
+WNDR3700_WMAC0_MAC_OFFSET	mach-wndr3700.c	47;"	d	file:
+WNDR3700_WMAC1_MAC_OFFSET	mach-wndr3700.c	48;"	d	file:
+WNDR4300_GPIO_BTN_RESET	mach-wndr4300.c	39;"	d	file:
+WNDR4300_GPIO_BTN_WIRELESS	mach-wndr4300.c	40;"	d	file:
+WNDR4300_GPIO_BTN_WPS	mach-wndr4300.c	41;"	d	file:
+WNDR4300_GPIO_LED_POWER_GREEN	mach-wndr4300.c	30;"	d	file:
+WNDR4300_GPIO_LED_POWER_ORANGE	mach-wndr4300.c	31;"	d	file:
+WNDR4300_GPIO_LED_USB	mach-wndr4300.c	32;"	d	file:
+WNDR4300_GPIO_LED_WAN_GREEN	mach-wndr4300.c	33;"	d	file:
+WNDR4300_GPIO_LED_WAN_ORANGE	mach-wndr4300.c	34;"	d	file:
+WNDR4300_GPIO_LED_WLAN5G	mach-wndr4300.c	35;"	d	file:
+WNDR4300_GPIO_LED_WPS_GREEN	mach-wndr4300.c	36;"	d	file:
+WNDR4300_GPIO_LED_WPS_ORANGE	mach-wndr4300.c	37;"	d	file:
+WNDR4300_KEYS_DEBOUNCE_INTERVAL	mach-wndr4300.c	44;"	d	file:
+WNDR4300_KEYS_POLL_INTERVAL	mach-wndr4300.c	43;"	d	file:
+WNR2000V3_GPIO_BTN_WPS	mach-wnr2000-v3.c	30;"	d	file:
+WNR2000V3_GPIO_LED_LAN1_AMBER	mach-wnr2000-v3.c	27;"	d	file:
+WNR2000V3_GPIO_LED_LAN4_AMBER	mach-wnr2000-v3.c	28;"	d	file:
+WNR2000V3_GPIO_LED_PWR_GREEN	mach-wnr2000-v3.c	29;"	d	file:
+WNR2000V3_GPIO_LED_WAN_GREEN	mach-wnr2000-v3.c	26;"	d	file:
+WNR2000V3_KEYS_DEBOUNCE_INTERVAL	mach-wnr2000-v3.c	35;"	d	file:
+WNR2000V3_KEYS_POLL_INTERVAL	mach-wnr2000-v3.c	34;"	d	file:
+WNR2000V3_MAC0_OFFSET	mach-wnr2000-v3.c	37;"	d	file:
+WNR2000V3_MAC1_OFFSET	mach-wnr2000-v3.c	38;"	d	file:
+WNR2000V3_PCIE_CALDATA_OFFSET	mach-wnr2000-v3.c	39;"	d	file:
+WNR2000_GPIO_BTN_RESET	mach-wnr2000.c	29;"	d	file:
+WNR2000_GPIO_BTN_WPS	mach-wnr2000.c	30;"	d	file:
+WNR2000_GPIO_LED_PWR_AMBER	mach-wnr2000.c	26;"	d	file:
+WNR2000_GPIO_LED_PWR_GREEN	mach-wnr2000.c	25;"	d	file:
+WNR2000_GPIO_LED_WLAN	mach-wnr2000.c	28;"	d	file:
+WNR2000_GPIO_LED_WPS	mach-wnr2000.c	27;"	d	file:
+WNR2000_KEYS_DEBOUNCE_INTERVAL	mach-wnr2000.c	33;"	d	file:
+WNR2000_KEYS_POLL_INTERVAL	mach-wnr2000.c	32;"	d	file:
+WNR612V2_GPIO_LED_PWR_GREEN	mach-wnr2000-v3.c	32;"	d	file:
+WP543_GPIO_LED_1	mach-wp543.c	24;"	d	file:
+WP543_GPIO_LED_2	mach-wp543.c	25;"	d	file:
+WP543_GPIO_LED_CONN	mach-wp543.c	27;"	d	file:
+WP543_GPIO_LED_DIAG	mach-wp543.c	28;"	d	file:
+WP543_GPIO_LED_WLAN	mach-wp543.c	26;"	d	file:
+WP543_GPIO_SW4	mach-wp543.c	29;"	d	file:
+WP543_GPIO_SW6	mach-wp543.c	23;"	d	file:
+WP543_KEYS_DEBOUNCE_INTERVAL	mach-wp543.c	32;"	d	file:
+WP543_KEYS_POLL_INTERVAL	mach-wp543.c	31;"	d	file:
+WPE72_GPIO_LED_1	mach-wpe72.c	23;"	d	file:
+WPE72_GPIO_LED_2	mach-wpe72.c	24;"	d	file:
+WPE72_GPIO_LED_3	mach-wpe72.c	25;"	d	file:
+WPE72_GPIO_LED_4	mach-wpe72.c	26;"	d	file:
+WPE72_GPIO_LED_DIAG	mach-wpe72.c	22;"	d	file:
+WPE72_GPIO_RESET	mach-wpe72.c	21;"	d	file:
+WPE72_KEYS_DEBOUNCE_INTERVAL	mach-wpe72.c	29;"	d	file:
+WPE72_KEYS_POLL_INTERVAL	mach-wpe72.c	28;"	d	file:
+WRT160NL_GPIO_BTN_RESET	mach-wrt160nl.c	28;"	d	file:
+WRT160NL_GPIO_BTN_WPS	mach-wrt160nl.c	27;"	d	file:
+WRT160NL_GPIO_LED_POWER	mach-wrt160nl.c	22;"	d	file:
+WRT160NL_GPIO_LED_WLAN	mach-wrt160nl.c	25;"	d	file:
+WRT160NL_GPIO_LED_WPS_AMBER	mach-wrt160nl.c	23;"	d	file:
+WRT160NL_GPIO_LED_WPS_BLUE	mach-wrt160nl.c	24;"	d	file:
+WRT160NL_KEYS_DEBOUNCE_INTERVAL	mach-wrt160nl.c	31;"	d	file:
+WRT160NL_KEYS_POLL_INTERVAL	mach-wrt160nl.c	30;"	d	file:
+WRT160NL_NVRAM_ADDR	mach-wrt160nl.c	33;"	d	file:
+WRT160NL_NVRAM_SIZE	mach-wrt160nl.c	34;"	d	file:
+WRT400N_CALDATA0_OFFSET	mach-wrt400n.c	36;"	d	file:
+WRT400N_CALDATA1_OFFSET	mach-wrt400n.c	37;"	d	file:
+WRT400N_GPIO_BTN_RESET	mach-wrt400n.c	29;"	d	file:
+WRT400N_GPIO_BTN_WLSEC	mach-wrt400n.c	30;"	d	file:
+WRT400N_GPIO_LED_POWER	mach-wrt400n.c	24;"	d	file:
+WRT400N_GPIO_LED_WLAN	mach-wrt400n.c	27;"	d	file:
+WRT400N_GPIO_LED_WPS_AMBER	mach-wrt400n.c	26;"	d	file:
+WRT400N_GPIO_LED_WPS_BLUE	mach-wrt400n.c	25;"	d	file:
+WRT400N_KEYS_DEBOUNE_INTERVAL	mach-wrt400n.c	33;"	d	file:
+WRT400N_KEYS_POLL_INTERVAL	mach-wrt400n.c	32;"	d	file:
+WRT400N_MAC_ADDR_OFFSET	mach-wrt400n.c	35;"	d	file:
+WZRHPAG300H_KEYS_DEBOUNCE_INTERVAL	mach-wzr-hp-ag300h.c	27;"	d	file:
+WZRHPAG300H_KEYS_POLL_INTERVAL	mach-wzr-hp-ag300h.c	26;"	d	file:
+WZRHPAG300H_MAC_OFFSET	mach-wzr-hp-ag300h.c	25;"	d	file:
+WZRHPG300NH2_KEYS_DEBOUNCE_INTERVAL	mach-wzr-hp-g300nh2.c	28;"	d	file:
+WZRHPG300NH2_KEYS_POLL_INTERVAL	mach-wzr-hp-g300nh2.c	27;"	d	file:
+WZRHPG300NH2_MAC_OFFSET	mach-wzr-hp-g300nh2.c	26;"	d	file:
+WZRHPG300NH_FLASH_BASE	mach-wzr-hp-g300nh.c	89;"	d	file:
+WZRHPG300NH_FLASH_SIZE	mach-wzr-hp-g300nh.c	90;"	d	file:
+WZRHPG300NH_GPIO_74HC153_1Y	mach-wzr-hp-g300nh.c	38;"	d	file:
+WZRHPG300NH_GPIO_74HC153_2Y	mach-wzr-hp-g300nh.c	39;"	d	file:
+WZRHPG300NH_GPIO_74HC153_S0	mach-wzr-hp-g300nh.c	36;"	d	file:
+WZRHPG300NH_GPIO_74HC153_S1	mach-wzr-hp-g300nh.c	37;"	d	file:
+WZRHPG300NH_GPIO_BTN_AOSS	mach-wzr-hp-g300nh.c	42;"	d	file:
+WZRHPG300NH_GPIO_BTN_QOS_OFF	mach-wzr-hp-g300nh.c	48;"	d	file:
+WZRHPG300NH_GPIO_BTN_QOS_ON	mach-wzr-hp-g300nh.c	45;"	d	file:
+WZRHPG300NH_GPIO_BTN_RESET	mach-wzr-hp-g300nh.c	43;"	d	file:
+WZRHPG300NH_GPIO_BTN_ROUTER_AUTO	mach-wzr-hp-g300nh.c	47;"	d	file:
+WZRHPG300NH_GPIO_BTN_ROUTER_ON	mach-wzr-hp-g300nh.c	44;"	d	file:
+WZRHPG300NH_GPIO_BTN_USB	mach-wzr-hp-g300nh.c	46;"	d	file:
+WZRHPG300NH_GPIO_EXP_BASE	mach-wzr-hp-g300nh.c	41;"	d	file:
+WZRHPG300NH_GPIO_LED_DIAG	mach-wzr-hp-g300nh.c	28;"	d	file:
+WZRHPG300NH_GPIO_LED_ROUTER	mach-wzr-hp-g300nh.c	31;"	d	file:
+WZRHPG300NH_GPIO_LED_SECURITY	mach-wzr-hp-g300nh.c	30;"	d	file:
+WZRHPG300NH_GPIO_LED_USB	mach-wzr-hp-g300nh.c	27;"	d	file:
+WZRHPG300NH_GPIO_LED_WIRELESS	mach-wzr-hp-g300nh.c	29;"	d	file:
+WZRHPG300NH_GPIO_RTL8366_SCK	mach-wzr-hp-g300nh.c	34;"	d	file:
+WZRHPG300NH_GPIO_RTL8366_SDA	mach-wzr-hp-g300nh.c	33;"	d	file:
+WZRHPG300NH_KEYS_DEBOUNCE_INTERVAL	mach-wzr-hp-g300nh.c	51;"	d	file:
+WZRHPG300NH_KEYS_POLL_INTERVAL	mach-wzr-hp-g300nh.c	50;"	d	file:
+WZRHPG300NH_MAC_OFFSET	mach-wzr-hp-g300nh.c	53;"	d	file:
+WZRHPG450H_KEYS_DEBOUNCE_INTERVAL	mach-wzr-hp-g450h.c	28;"	d	file:
+WZRHPG450H_KEYS_POLL_INTERVAL	mach-wzr-hp-g450h.c	27;"	d	file:
+ZCN_1523H_2_GPIO_LED_MEDIUM	mach-zcn-1523h.c	27;"	d	file:
+ZCN_1523H_2_GPIO_LED_STRONG	mach-zcn-1523h.c	28;"	d	file:
+ZCN_1523H_2_GPIO_LED_WEAK	mach-zcn-1523h.c	26;"	d	file:
+ZCN_1523H_5_GPIO_LAN2_POWER	mach-zcn-1523h.c	30;"	d	file:
+ZCN_1523H_5_GPIO_LED_LAN2	mach-zcn-1523h.c	31;"	d	file:
+ZCN_1523H_5_GPIO_LED_MEDIUM	mach-zcn-1523h.c	33;"	d	file:
+ZCN_1523H_5_GPIO_LED_STRONG	mach-zcn-1523h.c	34;"	d	file:
+ZCN_1523H_5_GPIO_LED_WEAK	mach-zcn-1523h.c	32;"	d	file:
+ZCN_1523H_GPIO_BTN_RESET	mach-zcn-1523h.c	22;"	d	file:
+ZCN_1523H_GPIO_LED_INIT	mach-zcn-1523h.c	23;"	d	file:
+ZCN_1523H_GPIO_LED_LAN1	mach-zcn-1523h.c	24;"	d	file:
+ZCN_1523H_KEYS_DEBOUNCE_INTERVAL	mach-zcn-1523h.c	37;"	d	file:
+ZCN_1523H_KEYS_POLL_INTERVAL	mach-zcn-1523h.c	36;"	d	file:
+ZHONGWANG_V1_GPIO_BTN_RFKILL	mach-zhongwang-v1.c	35;"	d	file:
+ZHONGWANG_V1_GPIO_BTN_WPS	mach-zhongwang-v1.c	34;"	d	file:
+ZHONGWANG_V1_GPIO_LED_SYSTEM	mach-zhongwang-v1.c	32;"	d	file:
+ZHONGWANG_V1_GPIO_LED_WLAN	mach-zhongwang-v1.c	31;"	d	file:
+ZHONGWANG_V1_KEYS_DEBOUNCE_INTERVAL	mach-zhongwang-v1.c	39;"	d	file:
+ZHONGWANG_V1_KEYS_POLL_INTERVAL	mach-zhongwang-v1.c	38;"	d	file:
+ZHONGWANG_V1_MAC0_OFFSET	mach-zhongwang-v1.c	41;"	d	file:
+ZHONGWANG_V1_WMAC_CALDATA_OFFSET	mach-zhongwang-v1.c	42;"	d	file:
+_ATH79_DEV_AP9X_PCI_H	dev-ap9x-pci.h	12;"	d
+_ATH79_DEV_DSA_H	dev-dsa.h	13;"	d
+_ATH79_DEV_ETH_H	dev-eth.h	13;"	d
+_ATH79_DEV_M25P80_H	dev-m25p80.h	10;"	d
+_ATH79_DEV_NFC_H	dev-nfc.h	12;"	d
+_ATH79_NVRAM_H	nvram.h	12;"	d
+_ATH79_ROUTERBOOT_H_	routerboot.h	12;"	d
+_PCI_ATH9K_FIXUP	pci-ath9k-fixup.h	2;"	d
+__initdata	dev-eth.c	/^static int ath79_eth_instance __initdata;$/;"	v	file:
+__initdata	dev-eth.c	/^unsigned char ath79_mac_base[ETH_ALEN] __initdata;$/;"	v
+__initdata	mach-alfa-ap96.c	/^static struct gpio_keys_button alfa_ap96_gpio_keys[] __initdata = {$/;"	v	typeref:struct:alfa_ap96_gpio_keys	file:
+__initdata	mach-alfa-nx.c	/^static struct gpio_keys_button alfa_nx_gpio_keys[] __initdata = {$/;"	v	typeref:struct:alfa_nx_gpio_keys	file:
+__initdata	mach-alfa-nx.c	/^static struct gpio_led alfa_nx_leds_gpio[] __initdata = {$/;"	v	typeref:struct:alfa_nx_leds_gpio	file:
+__initdata	mach-all0258n.c	/^static struct gpio_keys_button all0258n_gpio_keys[] __initdata = {$/;"	v	typeref:struct:all0258n_gpio_keys	file:
+__initdata	mach-all0258n.c	/^static struct gpio_led all0258n_leds_gpio[] __initdata = {$/;"	v	typeref:struct:all0258n_leds_gpio	file:
+__initdata	mach-all0315n.c	/^static struct gpio_keys_button all0315n_gpio_keys[] __initdata = {$/;"	v	typeref:struct:all0315n_gpio_keys	file:
+__initdata	mach-all0315n.c	/^static struct gpio_led all0315n_leds_gpio[] __initdata = {$/;"	v	typeref:struct:all0315n_leds_gpio	file:
+__initdata	mach-ap113.c	/^static struct gpio_keys_button ap113_gpio_keys[] __initdata = {$/;"	v	typeref:struct:ap113_gpio_keys	file:
+__initdata	mach-ap113.c	/^static struct gpio_led ap113_leds_gpio[] __initdata = {$/;"	v	typeref:struct:ap113_leds_gpio	file:
+__initdata	mach-ap132.c	/^static struct gpio_keys_button ap132_gpio_keys[] __initdata = {$/;"	v	typeref:struct:ap132_gpio_keys	file:
+__initdata	mach-ap132.c	/^static struct gpio_led ap132_leds_gpio[] __initdata = {$/;"	v	typeref:struct:ap132_leds_gpio	file:
+__initdata	mach-ap83.c	/^static struct gpio_keys_button ap83_gpio_keys[] __initdata = {$/;"	v	typeref:struct:ap83_gpio_keys	file:
+__initdata	mach-ap83.c	/^static struct gpio_led ap83_leds_gpio[] __initdata = {$/;"	v	typeref:struct:ap83_leds_gpio	file:
+__initdata	mach-ap96.c	/^static struct gpio_keys_button ap96_gpio_keys[] __initdata = {$/;"	v	typeref:struct:ap96_gpio_keys	file:
+__initdata	mach-ap96.c	/^static struct gpio_led ap96_leds_gpio[] __initdata = {$/;"	v	typeref:struct:ap96_leds_gpio	file:
+__initdata	mach-archer-c7.c	/^static struct gpio_keys_button archer_c7_gpio_keys[] __initdata = {$/;"	v	typeref:struct:archer_c7_gpio_keys	file:
+__initdata	mach-archer-c7.c	/^static struct gpio_led archer_c7_leds_gpio[] __initdata = {$/;"	v	typeref:struct:archer_c7_leds_gpio	file:
+__initdata	mach-aw-nr580.c	/^static struct gpio_keys_button aw_nr580_gpio_keys[] __initdata = {$/;"	v	typeref:struct:aw_nr580_gpio_keys	file:
+__initdata	mach-aw-nr580.c	/^static struct gpio_led aw_nr580_leds_gpio[] __initdata = {$/;"	v	typeref:struct:aw_nr580_leds_gpio	file:
+__initdata	mach-cap4200ag.c	/^static struct gpio_keys_button cap4200ag_gpio_keys[] __initdata = {$/;"	v	typeref:struct:cap4200ag_gpio_keys	file:
+__initdata	mach-cap4200ag.c	/^static struct gpio_led cap4200ag_leds_gpio[] __initdata = {$/;"	v	typeref:struct:cap4200ag_leds_gpio	file:
+__initdata	mach-carambola2.c	/^static struct gpio_keys_button carambola2_gpio_keys[] __initdata = {$/;"	v	typeref:struct:carambola2_gpio_keys	file:
+__initdata	mach-carambola2.c	/^static struct gpio_led carambola2_leds_gpio[] __initdata = {$/;"	v	typeref:struct:carambola2_leds_gpio	file:
+__initdata	mach-changHong-v1.c	/^static struct gpio_keys_button changHong_v1_gpio_keys[] __initdata = {$/;"	v	typeref:struct:changHong_v1_gpio_keys	file:
+__initdata	mach-changHong-v1.c	/^static struct gpio_led changHong_v1_leds_gpio[] __initdata = {$/;"	v	typeref:struct:changHong_v1_leds_gpio	file:
+__initdata	mach-dir-505-a1.c	/^static struct gpio_keys_button dir_505_a1_gpio_keys[] __initdata = {$/;"	v	typeref:struct:dir_505_a1_gpio_keys	file:
+__initdata	mach-dir-505-a1.c	/^static struct gpio_led dir_505_a1_leds_gpio[] __initdata = {$/;"	v	typeref:struct:dir_505_a1_leds_gpio	file:
+__initdata	mach-dir-600-a1.c	/^static struct gpio_keys_button dir_600_a1_gpio_keys[] __initdata = {$/;"	v	typeref:struct:dir_600_a1_gpio_keys	file:
+__initdata	mach-dir-600-a1.c	/^static struct gpio_led dir_600_a1_leds_gpio[] __initdata = {$/;"	v	typeref:struct:dir_600_a1_leds_gpio	file:
+__initdata	mach-dir-615-c1.c	/^static struct gpio_keys_button dir_615c1_gpio_keys[] __initdata = {$/;"	v	typeref:struct:dir_615c1_gpio_keys	file:
+__initdata	mach-dir-615-c1.c	/^static struct gpio_led dir_615c1_leds_gpio[] __initdata = {$/;"	v	typeref:struct:dir_615c1_leds_gpio	file:
+__initdata	mach-dir-825-b1.c	/^static struct gpio_keys_button dir825b1_gpio_keys[] __initdata = {$/;"	v	typeref:struct:dir825b1_gpio_keys	file:
+__initdata	mach-dir-825-b1.c	/^static struct gpio_led dir825b1_leds_gpio[] __initdata = {$/;"	v	typeref:struct:dir825b1_leds_gpio	file:
+__initdata	mach-dir-825-c1.c	/^static struct gpio_keys_button dir825c1_gpio_keys[] __initdata = {$/;"	v	typeref:struct:dir825c1_gpio_keys	file:
+__initdata	mach-dir-825-c1.c	/^static struct gpio_led dir825c1_leds_gpio[] __initdata = {$/;"	v	typeref:struct:dir825c1_leds_gpio	file:
+__initdata	mach-dir-825-c1.c	/^static struct gpio_led dir835a1_leds_gpio[] __initdata = {$/;"	v	typeref:struct:dir835a1_leds_gpio	file:
+__initdata	mach-eap7660d.c	/^static struct gpio_keys_button eap7660d_gpio_keys[] __initdata = {$/;"	v	typeref:struct:eap7660d_gpio_keys	file:
+__initdata	mach-eap7660d.c	/^static struct gpio_led eap7660d_leds_gpio[] __initdata = {$/;"	v	typeref:struct:eap7660d_leds_gpio	file:
+__initdata	mach-ew-dorin.c	/^static struct gpio_keys_button dorin_gpio_keys[] __initdata = {$/;"	v	typeref:struct:dorin_gpio_keys	file:
+__initdata	mach-ew-dorin.c	/^static struct gpio_led dorin_leds_gpio[] __initdata = {$/;"	v	typeref:struct:dorin_leds_gpio	file:
+__initdata	mach-hornet-ub.c	/^static struct gpio_keys_button hornet_ub_gpio_keys[] __initdata = {$/;"	v	typeref:struct:hornet_ub_gpio_keys	file:
+__initdata	mach-hornet-ub.c	/^static struct gpio_led hornet_ub_leds_gpio[] __initdata = {$/;"	v	typeref:struct:hornet_ub_leds_gpio	file:
+__initdata	mach-ja76pf.c	/^static struct gpio_keys_button ja76pf2_gpio_keys[] __initdata = {$/;"	v	typeref:struct:ja76pf2_gpio_keys	file:
+__initdata	mach-ja76pf.c	/^static struct gpio_keys_button ja76pf_gpio_keys[] __initdata = {$/;"	v	typeref:struct:ja76pf_gpio_keys	file:
+__initdata	mach-ja76pf.c	/^static struct gpio_led ja76pf2_leds_gpio[] __initdata = {$/;"	v	typeref:struct:ja76pf2_leds_gpio	file:
+__initdata	mach-ja76pf.c	/^static struct gpio_led ja76pf_leds_gpio[] __initdata = {$/;"	v	typeref:struct:ja76pf_leds_gpio	file:
+__initdata	mach-jwap003.c	/^static struct gpio_keys_button jwap003_gpio_keys[] __initdata = {$/;"	v	typeref:struct:jwap003_gpio_keys	file:
+__initdata	mach-mr600.c	/^static struct gpio_keys_button mr600_gpio_keys[] __initdata = {$/;"	v	typeref:struct:mr600_gpio_keys	file:
+__initdata	mach-mr600.c	/^static struct gpio_led mr600_leds_gpio[] __initdata = {$/;"	v	typeref:struct:mr600_leds_gpio	file:
+__initdata	mach-mr600.c	/^static struct gpio_led mr600v2_leds_gpio[] __initdata = {$/;"	v	typeref:struct:mr600v2_leds_gpio	file:
+__initdata	mach-mzk-w04nu.c	/^static struct gpio_keys_button mzk_w04nu_gpio_keys[] __initdata = {$/;"	v	typeref:struct:mzk_w04nu_gpio_keys	file:
+__initdata	mach-mzk-w04nu.c	/^static struct gpio_led mzk_w04nu_leds_gpio[] __initdata = {$/;"	v	typeref:struct:mzk_w04nu_leds_gpio	file:
+__initdata	mach-mzk-w300nh.c	/^static struct gpio_keys_button mzk_w300nh_gpio_keys[] __initdata = {$/;"	v	typeref:struct:mzk_w300nh_gpio_keys	file:
+__initdata	mach-mzk-w300nh.c	/^static struct gpio_led mzk_w300nh_leds_gpio[] __initdata = {$/;"	v	typeref:struct:mzk_w300nh_leds_gpio	file:
+__initdata	mach-nbg460n.c	/^static struct gpio_keys_button nbg460n_gpio_keys[] __initdata = {$/;"	v	typeref:struct:nbg460n_gpio_keys	file:
+__initdata	mach-nbg460n.c	/^static struct gpio_led nbg460n_leds_gpio[] __initdata = {$/;"	v	typeref:struct:nbg460n_leds_gpio	file:
+__initdata	mach-nbg460n.c	/^static struct i2c_board_info nbg460n_i2c_devs[] __initdata = {$/;"	v	typeref:struct:nbg460n_i2c_devs	file:
+__initdata	mach-om2p.c	/^static struct gpio_keys_button om2p_gpio_keys[] __initdata = {$/;"	v	typeref:struct:om2p_gpio_keys	file:
+__initdata	mach-om2p.c	/^static struct gpio_led om2p_leds_gpio[] __initdata = {$/;"	v	typeref:struct:om2p_leds_gpio	file:
+__initdata	mach-pb42.c	/^static struct gpio_keys_button pb42_gpio_keys[] __initdata = {$/;"	v	typeref:struct:pb42_gpio_keys	file:
+__initdata	mach-pb92.c	/^static struct gpio_keys_button pb92_gpio_keys[] __initdata = {$/;"	v	typeref:struct:pb92_gpio_keys	file:
+__initdata	mach-rb4xx.c	/^static struct ath79_pci_irq rb4xx_pci_irqs[] __initdata = {$/;"	v	typeref:struct:rb4xx_pci_irqs	file:
+__initdata	mach-rb4xx.c	/^static struct gpio_keys_button rb4xx_gpio_keys[] __initdata = {$/;"	v	typeref:struct:rb4xx_gpio_keys	file:
+__initdata	mach-rb4xx.c	/^static struct gpio_led rb4xx_leds_gpio[] __initdata = {$/;"	v	typeref:struct:rb4xx_leds_gpio	file:
+__initdata	mach-rw2458n.c	/^static struct gpio_keys_button rw2458n_gpio_keys[] __initdata = {$/;"	v	typeref:struct:rw2458n_gpio_keys	file:
+__initdata	mach-rw2458n.c	/^static struct gpio_led rw2458n_leds_gpio[] __initdata = {$/;"	v	typeref:struct:rw2458n_leds_gpio	file:
+__initdata	mach-tew-632brp.c	/^static struct gpio_keys_button tew_632brp_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tew_632brp_gpio_keys	file:
+__initdata	mach-tew-632brp.c	/^static struct gpio_led tew_632brp_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tew_632brp_leds_gpio	file:
+__initdata	mach-tew-673gru.c	/^static struct gpio_keys_button tew673gru_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tew673gru_gpio_keys	file:
+__initdata	mach-tew-673gru.c	/^static struct gpio_led tew673gru_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tew673gru_leds_gpio	file:
+__initdata	mach-tew-712br.c	/^static struct gpio_keys_button tew_712br_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tew_712br_gpio_keys	file:
+__initdata	mach-tew-712br.c	/^static struct gpio_led tew_712br_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tew_712br_leds_gpio	file:
+__initdata	mach-tl-mr11u.c	/^static struct gpio_keys_button tl_mr11u_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_mr11u_gpio_keys	file:
+__initdata	mach-tl-mr11u.c	/^static struct gpio_led tl_mr11u_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_mr11u_leds_gpio	file:
+__initdata	mach-tl-mr3020.c	/^static struct gpio_keys_button tl_mr3020_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_mr3020_gpio_keys	file:
+__initdata	mach-tl-mr3020.c	/^static struct gpio_led tl_mr3020_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_mr3020_leds_gpio	file:
+__initdata	mach-tl-mr3x20.c	/^static struct gpio_keys_button tl_mr3x20_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_mr3x20_gpio_keys	file:
+__initdata	mach-tl-mr3x20.c	/^static struct gpio_led tl_mr3x20_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_mr3x20_leds_gpio	file:
+__initdata	mach-tl-wa901nd-v2.c	/^static struct gpio_keys_button tl_wa901nd_v2_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_wa901nd_v2_gpio_keys	file:
+__initdata	mach-tl-wa901nd-v2.c	/^static struct gpio_led tl_wa901nd_v2_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_wa901nd_v2_leds_gpio	file:
+__initdata	mach-tl-wa901nd.c	/^static struct gpio_keys_button tl_wa901nd_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_wa901nd_gpio_keys	file:
+__initdata	mach-tl-wa901nd.c	/^static struct gpio_led tl_wa901nd_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_wa901nd_leds_gpio	file:
+__initdata	mach-tl-wdr3500.c	/^static struct gpio_keys_button wdr3500_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wdr3500_gpio_keys	file:
+__initdata	mach-tl-wdr3500.c	/^static struct gpio_led wdr3500_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wdr3500_leds_gpio	file:
+__initdata	mach-tl-wdr4300.c	/^static struct gpio_keys_button wdr4300_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wdr4300_gpio_keys	file:
+__initdata	mach-tl-wdr4300.c	/^static struct gpio_led wdr4300_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wdr4300_leds_gpio	file:
+__initdata	mach-tl-wr1041n-v2.c	/^static struct gpio_keys_button tl_wr1041nv2_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_wr1041nv2_gpio_keys	file:
+__initdata	mach-tl-wr1041n-v2.c	/^static struct gpio_led tl_wr1041nv2_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_wr1041nv2_leds_gpio	file:
+__initdata	mach-tl-wr1043nd.c	/^static struct gpio_keys_button tl_wr1043nd_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_wr1043nd_gpio_keys	file:
+__initdata	mach-tl-wr1043nd.c	/^static struct gpio_led tl_wr1043nd_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_wr1043nd_leds_gpio	file:
+__initdata	mach-tl-wr2543n.c	/^static struct gpio_keys_button tl_wr2543n_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_wr2543n_gpio_keys	file:
+__initdata	mach-tl-wr2543n.c	/^static struct gpio_led tl_wr2543n_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_wr2543n_leds_gpio	file:
+__initdata	mach-tl-wr703n.c	/^static struct gpio_keys_button tl_wr703n_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_wr703n_gpio_keys	file:
+__initdata	mach-tl-wr703n.c	/^static struct gpio_led tl_wr703n_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_wr703n_leds_gpio	file:
+__initdata	mach-tl-wr720n-v3.c	/^static struct gpio_keys_button tl_wr720n_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_wr720n_gpio_keys	file:
+__initdata	mach-tl-wr720n-v3.c	/^static struct gpio_led tl_wr720n_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_wr720n_leds_gpio	file:
+__initdata	mach-tl-wr741nd-v4.c	/^static struct gpio_keys_button tl_mr3220v2_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_mr3220v2_gpio_keys	file:
+__initdata	mach-tl-wr741nd-v4.c	/^static struct gpio_keys_button tl_wr741ndv4_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_wr741ndv4_gpio_keys	file:
+__initdata	mach-tl-wr741nd-v4.c	/^static struct gpio_led tl_wr741ndv4_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_wr741ndv4_leds_gpio	file:
+__initdata	mach-tl-wr741nd.c	/^static struct gpio_keys_button tl_wr741nd_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_wr741nd_gpio_keys	file:
+__initdata	mach-tl-wr741nd.c	/^static struct gpio_led tl_wr741nd_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_wr741nd_leds_gpio	file:
+__initdata	mach-tl-wr841n-v8.c	/^static struct gpio_keys_button tl_mr3420v2_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_mr3420v2_gpio_keys	file:
+__initdata	mach-tl-wr841n-v8.c	/^static struct gpio_keys_button tl_wr841n_v8_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_wr841n_v8_gpio_keys	file:
+__initdata	mach-tl-wr841n-v8.c	/^static struct gpio_led tl_wr841n_v8_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_wr841n_v8_leds_gpio	file:
+__initdata	mach-tl-wr841n.c	/^static struct gpio_keys_button tl_wr841n_v1_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_wr841n_v1_gpio_keys	file:
+__initdata	mach-tl-wr841n.c	/^static struct gpio_led tl_wr841n_v1_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_wr841n_v1_leds_gpio	file:
+__initdata	mach-tl-wr941nd.c	/^static struct gpio_keys_button tl_wr941nd_gpio_keys[] __initdata = {$/;"	v	typeref:struct:tl_wr941nd_gpio_keys	file:
+__initdata	mach-tl-wr941nd.c	/^static struct gpio_led tl_wr941nd_leds_gpio[] __initdata = {$/;"	v	typeref:struct:tl_wr941nd_leds_gpio	file:
+__initdata	mach-ubnt.c	/^static struct gpio_keys_button ubnt_gpio_keys[] __initdata = {$/;"	v	typeref:struct:ubnt_gpio_keys	file:
+__initdata	mach-ubnt.c	/^static struct gpio_led ubnt_ls_sr71_leds_gpio[] __initdata = {$/;"	v	typeref:struct:ubnt_ls_sr71_leds_gpio	file:
+__initdata	mach-ubnt.c	/^static struct gpio_led ubnt_rs_leds_gpio[] __initdata = {$/;"	v	typeref:struct:ubnt_rs_leds_gpio	file:
+__initdata	mach-whr-hp-g300n.c	/^static struct gpio_keys_button whrhpg300n_gpio_keys[] __initdata = {$/;"	v	typeref:struct:whrhpg300n_gpio_keys	file:
+__initdata	mach-whr-hp-g300n.c	/^static struct gpio_led whrhpg300n_leds_gpio[] __initdata = {$/;"	v	typeref:struct:whrhpg300n_leds_gpio	file:
+__initdata	mach-wlae-ag300n.c	/^static struct gpio_keys_button wlaeag300n_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wlaeag300n_gpio_keys	file:
+__initdata	mach-wlae-ag300n.c	/^static struct gpio_led wlaeag300n_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wlaeag300n_leds_gpio	file:
+__initdata	mach-wndap360.c	/^static struct gpio_keys_button wndap360_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wndap360_gpio_keys	file:
+__initdata	mach-wndap360.c	/^static struct gpio_led wndap360_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wndap360_leds_gpio	file:
+__initdata	mach-wndr3700.c	/^static struct gpio_keys_button wndr3700_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wndr3700_gpio_keys	file:
+__initdata	mach-wndr3700.c	/^static struct gpio_led wndr3700_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wndr3700_leds_gpio	file:
+__initdata	mach-wndr4300.c	/^static struct gpio_keys_button wndr4300_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wndr4300_gpio_keys	file:
+__initdata	mach-wndr4300.c	/^static struct gpio_led wndr4300_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wndr4300_leds_gpio	file:
+__initdata	mach-wnr2000-v3.c	/^static struct gpio_keys_button wnr2000v3_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wnr2000v3_gpio_keys	file:
+__initdata	mach-wnr2000-v3.c	/^static struct gpio_led wnr2000v3_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wnr2000v3_leds_gpio	file:
+__initdata	mach-wnr2000-v3.c	/^static struct gpio_led wnr612v2_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wnr612v2_leds_gpio	file:
+__initdata	mach-wnr2000.c	/^static struct gpio_keys_button wnr2000_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wnr2000_gpio_keys	file:
+__initdata	mach-wnr2000.c	/^static struct gpio_led wnr2000_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wnr2000_leds_gpio	file:
+__initdata	mach-wp543.c	/^static struct gpio_keys_button wp543_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wp543_gpio_keys	file:
+__initdata	mach-wp543.c	/^static struct gpio_led wp543_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wp543_leds_gpio	file:
+__initdata	mach-wpe72.c	/^static struct gpio_keys_button wpe72_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wpe72_gpio_keys	file:
+__initdata	mach-wpe72.c	/^static struct gpio_led wpe72_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wpe72_leds_gpio	file:
+__initdata	mach-wrt160nl.c	/^static struct gpio_keys_button wrt160nl_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wrt160nl_gpio_keys	file:
+__initdata	mach-wrt160nl.c	/^static struct gpio_led wrt160nl_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wrt160nl_leds_gpio	file:
+__initdata	mach-wrt400n.c	/^static struct gpio_keys_button wrt400n_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wrt400n_gpio_keys	file:
+__initdata	mach-wrt400n.c	/^static struct gpio_led wrt400n_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wrt400n_leds_gpio	file:
+__initdata	mach-wzr-hp-ag300h.c	/^static struct gpio_keys_button wzrhpag300h_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wzrhpag300h_gpio_keys	file:
+__initdata	mach-wzr-hp-ag300h.c	/^static struct gpio_led wzrhpag300h_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wzrhpag300h_leds_gpio	file:
+__initdata	mach-wzr-hp-g300nh.c	/^static struct gpio_keys_button wzrhpg300nh_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wzrhpg300nh_gpio_keys	file:
+__initdata	mach-wzr-hp-g300nh.c	/^static struct gpio_led wzrhpg300nh_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wzrhpg300nh_leds_gpio	file:
+__initdata	mach-wzr-hp-g300nh2.c	/^static struct gpio_keys_button wzrhpg300nh2_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wzrhpg300nh2_gpio_keys	file:
+__initdata	mach-wzr-hp-g300nh2.c	/^static struct gpio_led wzrhpg300nh2_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wzrhpg300nh2_leds_gpio	file:
+__initdata	mach-wzr-hp-g450h.c	/^static struct gpio_keys_button wzrhpg450h_gpio_keys[] __initdata = {$/;"	v	typeref:struct:wzrhpg450h_gpio_keys	file:
+__initdata	mach-wzr-hp-g450h.c	/^static struct gpio_led wzrhpg450h_leds_gpio[] __initdata = {$/;"	v	typeref:struct:wzrhpg450h_leds_gpio	file:
+__initdata	mach-zcn-1523h.c	/^static struct gpio_keys_button zcn_1523h_gpio_keys[] __initdata = {$/;"	v	typeref:struct:zcn_1523h_gpio_keys	file:
+__initdata	mach-zcn-1523h.c	/^static struct gpio_led zcn_1523h_2_leds_gpio[] __initdata = {$/;"	v	typeref:struct:zcn_1523h_2_leds_gpio	file:
+__initdata	mach-zcn-1523h.c	/^static struct gpio_led zcn_1523h_5_leds_gpio[] __initdata = {$/;"	v	typeref:struct:zcn_1523h_5_leds_gpio	file:
+__initdata	mach-zcn-1523h.c	/^static struct gpio_led zcn_1523h_leds_gpio[] __initdata = {$/;"	v	typeref:struct:zcn_1523h_leds_gpio	file:
+__initdata	mach-zhongwang-v1.c	/^static struct gpio_keys_button zhongwang_v1_gpio_keys[] __initdata = {$/;"	v	typeref:struct:zhongwang_v1_gpio_keys	file:
+__initdata	mach-zhongwang-v1.c	/^static struct gpio_led zhongwang_v1_leds_gpio[] __initdata = {$/;"	v	typeref:struct:zhongwang_v1_leds_gpio	file:
+add_mtd_concat_notifier	dev-m25p80.c	/^static void add_mtd_concat_notifier(void)$/;"	f	file:
+alfa_ap96_gpio_setup	mach-alfa-ap96.c	/^static void __init alfa_ap96_gpio_setup(void)$/;"	f	file:
+alfa_ap96_init	mach-alfa-ap96.c	/^static void __init alfa_ap96_init(void)$/;"	f	file:
+alfa_ap96_mmc_data	mach-alfa-ap96.c	/^static struct mmc_spi_platform_data alfa_ap96_mmc_data = {$/;"	v	typeref:struct:mmc_spi_platform_data	file:
+alfa_ap96_mmc_get_cd	mach-alfa-ap96.c	/^static int alfa_ap96_mmc_get_cd(struct device *dev)$/;"	f	file:
+alfa_ap96_spi_data	mach-alfa-ap96.c	/^static struct ath79_spi_platform_data alfa_ap96_spi_data = {$/;"	v	typeref:struct:ath79_spi_platform_data	file:
+alfa_ap96_spi_info	mach-alfa-ap96.c	/^static struct spi_board_info alfa_ap96_spi_info[] = {$/;"	v	typeref:struct:spi_board_info	file:
+alfa_nx_setup	mach-alfa-nx.c	/^static void __init alfa_nx_setup(void)$/;"	f	file:
+all0258n_setup	mach-all0258n.c	/^static void __init all0258n_setup(void)$/;"	f	file:
+all0315n_setup	mach-all0315n.c	/^static void __init all0315n_setup(void)$/;"	f	file:
+ap113_setup	mach-ap113.c	/^static void __init ap113_setup(void)$/;"	f	file:
+ap132_ar8327_data	mach-ap132.c	/^static struct ar8327_platform_data ap132_ar8327_data = {$/;"	v	typeref:struct:ar8327_platform_data	file:
+ap132_ar8327_pad0_cfg	mach-ap132.c	/^static struct ar8327_pad_cfg ap132_ar8327_pad0_cfg;$/;"	v	typeref:struct:ar8327_pad_cfg	file:
+ap132_mdio1_info	mach-ap132.c	/^static struct mdio_board_info ap132_mdio1_info[] = {$/;"	v	typeref:struct:mdio_board_info	file:
+ap132_mdio_setup	mach-ap132.c	/^static void __init ap132_mdio_setup(void)$/;"	f	file:
+ap132_setup	mach-ap132.c	/^static void __init ap132_setup(void)$/;"	f	file:
+ap83_040_flash_lock	mach-ap83.c	/^static void ap83_040_flash_lock(struct platform_device *pdev)$/;"	f	file:
+ap83_040_flash_unlock	mach-ap83.c	/^static void ap83_040_flash_unlock(struct platform_device *pdev)$/;"	f	file:
+ap83_040_setup	mach-ap83.c	/^static void __init ap83_040_setup(void)$/;"	f	file:
+ap83_040_spi_device	mach-ap83.c	/^static struct platform_device ap83_040_spi_device = {$/;"	v	typeref:struct:platform_device	file:
+ap83_040_spi_resources	mach-ap83.c	/^static struct resource ap83_040_spi_resources[] = {$/;"	v	typeref:struct:resource	file:
+ap83_050_setup	mach-ap83.c	/^static void __init ap83_050_setup(void)$/;"	f	file:
+ap83_050_spi_data	mach-ap83.c	/^static struct spi_gpio_platform_data ap83_050_spi_data = {$/;"	v	typeref:struct:spi_gpio_platform_data	file:
+ap83_050_spi_device	mach-ap83.c	/^static struct platform_device ap83_050_spi_device = {$/;"	v	typeref:struct:platform_device	file:
+ap83_flash_data	mach-ap83.c	/^static struct physmap_flash_data ap83_flash_data = {$/;"	v	typeref:struct:physmap_flash_data	file:
+ap83_flash_device	mach-ap83.c	/^static struct platform_device ap83_flash_device = {$/;"	v	typeref:struct:platform_device	file:
+ap83_flash_partitions	mach-ap83.c	/^static struct mtd_partition ap83_flash_partitions[] = {$/;"	v	typeref:struct:mtd_partition	file:
+ap83_flash_resources	mach-ap83.c	/^static struct resource ap83_flash_resources[] = {$/;"	v	typeref:struct:resource	file:
+ap83_generic_setup	mach-ap83.c	/^static void __init ap83_generic_setup(void)$/;"	f	file:
+ap83_setup	mach-ap83.c	/^static void __init ap83_setup(void)$/;"	f	file:
+ap83_spi_info	mach-ap83.c	/^static struct spi_board_info ap83_spi_info[] = {$/;"	v	typeref:struct:spi_board_info	file:
+ap83_vsc7385_data	mach-ap83.c	/^static struct vsc7385_platform_data ap83_vsc7385_data = {$/;"	v	typeref:struct:vsc7385_platform_data	file:
+ap83_vsc7385_reset	mach-ap83.c	/^static void ap83_vsc7385_reset(void)$/;"	f	file:
+ap91_pci_init	dev-ap9x-pci.c	/^__init void ap91_pci_init(u8 *cal_data, u8 *mac_addr)$/;"	f
+ap91_pci_init	dev-ap9x-pci.h	/^static inline void ap91_pci_init(u8 *cal_data, u8 *mac_addr) {}$/;"	f
+ap91_pci_init_simple	dev-ap9x-pci.c	/^__init void ap91_pci_init_simple(void)$/;"	f
+ap91_pci_init_simple	dev-ap9x-pci.h	/^static inline void ap91_pci_init_simple(void) {}$/;"	f
+ap91_pci_plat_dev_init	dev-ap9x-pci.c	/^static int ap91_pci_plat_dev_init(struct pci_dev *dev)$/;"	f	file:
+ap94_pci_init	dev-ap9x-pci.c	/^__init void ap94_pci_init(u8 *cal_data0, u8 *mac_addr0,$/;"	f
+ap94_pci_init	dev-ap9x-pci.h	/^static inline void ap94_pci_init(u8 *cal_data0, u8 *mac_addr0,$/;"	f
+ap94_pci_plat_dev_init	dev-ap9x-pci.c	/^static int ap94_pci_plat_dev_init(struct pci_dev *dev)$/;"	f	file:
+ap96_setup	mach-ap96.c	/^static void __init ap96_setup(void)$/;"	f	file:
+ap96_spi0_cdata	mach-alfa-ap96.c	/^static struct ath79_spi_controller_data ap96_spi0_cdata = {$/;"	v	typeref:struct:ath79_spi_controller_data	file:
+ap96_spi1_cdata	mach-alfa-ap96.c	/^static struct ath79_spi_controller_data ap96_spi1_cdata = {$/;"	v	typeref:struct:ath79_spi_controller_data	file:
+ap96_spi2_cdata	mach-alfa-ap96.c	/^static struct ath79_spi_controller_data ap96_spi2_cdata = {$/;"	v	typeref:struct:ath79_spi_controller_data	file:
+ap9x_pci_get_wmac_data	dev-ap9x-pci.c	/^__init struct ath9k_platform_data *ap9x_pci_get_wmac_data(unsigned wmac)$/;"	f
+ap9x_pci_get_wmac_data	dev-ap9x-pci.h	/^static inline struct ath9k_platform_data *ap9x_pci_get_wmac_data(unsigned wmac)$/;"	f
+ap9x_pci_setup_wmac_gpio	dev-ap9x-pci.c	/^__init void ap9x_pci_setup_wmac_gpio(unsigned wmac, u32 mask, u32 val)$/;"	f
+ap9x_pci_setup_wmac_gpio	dev-ap9x-pci.h	/^static inline void ap9x_pci_setup_wmac_gpio(unsigned wmac,$/;"	f
+ap9x_pci_setup_wmac_led_pin	dev-ap9x-pci.c	/^__init void ap9x_pci_setup_wmac_led_pin(unsigned wmac, int pin)$/;"	f
+ap9x_pci_setup_wmac_led_pin	dev-ap9x-pci.h	/^static inline void ap9x_pci_setup_wmac_led_pin(unsigned wmac, int pin) {}$/;"	f
+ap9x_pci_setup_wmac_leds	dev-ap9x-pci.c	/^__init void ap9x_pci_setup_wmac_leds(unsigned wmac, struct gpio_led *leds,$/;"	f
+ap9x_pci_setup_wmac_leds	dev-ap9x-pci.h	/^static inline void ap9x_pci_setup_wmac_leds(unsigned wmac,$/;"	f
+ap9x_wmac0_data	dev-ap9x-pci.c	/^static struct ath9k_platform_data ap9x_wmac0_data = {$/;"	v	typeref:struct:ath9k_platform_data	file:
+ap9x_wmac0_mac	dev-ap9x-pci.c	/^static char ap9x_wmac0_mac[6];$/;"	v	file:
+ap9x_wmac1_data	dev-ap9x-pci.c	/^static struct ath9k_platform_data ap9x_wmac1_data = {$/;"	v	typeref:struct:ath9k_platform_data	file:
+ap9x_wmac1_mac	dev-ap9x-pci.c	/^static char ap9x_wmac1_mac[6];$/;"	v	file:
+ar71xx_dsa_switch_device	dev-dsa.c	/^static struct platform_device ar71xx_dsa_switch_device = {$/;"	v	typeref:struct:platform_device	file:
+ar7242_set_speed_ge0	dev-eth.c	/^static void ar7242_set_speed_ge0(int speed)$/;"	f	file:
+ar724x_ddr_flush_ge0	dev-eth.c	/^static void ar724x_ddr_flush_ge0(void)$/;"	f	file:
+ar724x_ddr_flush_ge1	dev-eth.c	/^static void ar724x_ddr_flush_ge1(void)$/;"	f	file:
+ar91xx_ddr_flush_ge0	dev-eth.c	/^static void ar91xx_ddr_flush_ge0(void)$/;"	f	file:
+ar91xx_ddr_flush_ge1	dev-eth.c	/^static void ar91xx_ddr_flush_ge1(void)$/;"	f	file:
+ar91xx_set_speed_ge0	dev-eth.c	/^static void ar91xx_set_speed_ge0(int speed)$/;"	f	file:
+ar91xx_set_speed_ge1	dev-eth.c	/^static void ar91xx_set_speed_ge1(int speed)$/;"	f	file:
+ar933x_ddr_flush_ge0	dev-eth.c	/^static void ar933x_ddr_flush_ge0(void)$/;"	f	file:
+ar933x_ddr_flush_ge1	dev-eth.c	/^static void ar933x_ddr_flush_ge1(void)$/;"	f	file:
+ar934x_get_mdio_ref_clock	dev-eth.c	/^static unsigned long ar934x_get_mdio_ref_clock(void)$/;"	f	file:
+ar934x_nfc_dmamask	dev-nfc.c	/^static u64 ar934x_nfc_dmamask = DMA_BIT_MASK(32);$/;"	v	file:
+ar934x_nfc_hw_reset	dev-nfc.c	/^static void ar934x_nfc_hw_reset(bool active)$/;"	f	file:
+ar934x_nfc_setup	dev-nfc.c	/^static void ar934x_nfc_setup(void)$/;"	f	file:
+ar934x_set_speed_ge0	dev-eth.c	/^static void ar934x_set_speed_ge0(int speed)$/;"	f	file:
+archer_c7_ar8327_data	mach-archer-c7.c	/^static struct ar8327_platform_data archer_c7_ar8327_data = {$/;"	v	typeref:struct:ar8327_platform_data	file:
+archer_c7_ar8327_led_cfg	mach-archer-c7.c	/^static struct ar8327_led_cfg archer_c7_ar8327_led_cfg = {$/;"	v	typeref:struct:ar8327_led_cfg	file:
+archer_c7_ar8327_pad0_cfg	mach-archer-c7.c	/^static struct ar8327_pad_cfg archer_c7_ar8327_pad0_cfg = {$/;"	v	typeref:struct:ar8327_pad_cfg	file:
+archer_c7_ar8327_pad6_cfg	mach-archer-c7.c	/^static struct ar8327_pad_cfg archer_c7_ar8327_pad6_cfg = {$/;"	v	typeref:struct:ar8327_pad_cfg	file:
+archer_c7_flash_data	mach-archer-c7.c	/^static struct flash_platform_data archer_c7_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+archer_c7_gmac_setup	mach-archer-c7.c	/^static void __init archer_c7_gmac_setup(void)$/;"	f	file:
+archer_c7_mdio0_info	mach-archer-c7.c	/^static struct mdio_board_info archer_c7_mdio0_info[] = {$/;"	v	typeref:struct:mdio_board_info	file:
+archer_c7_part_probes	mach-archer-c7.c	/^static const char *archer_c7_part_probes[] = {$/;"	v	file:
+archer_c7_setup	mach-archer-c7.c	/^static void __init archer_c7_setup(void)$/;"	f	file:
+ath79_ddr_flush_ge0	dev-eth.c	/^static void ath79_ddr_flush_ge0(void)$/;"	f	file:
+ath79_ddr_flush_ge1	dev-eth.c	/^static void ath79_ddr_flush_ge1(void)$/;"	f	file:
+ath79_ddr_no_flush	dev-eth.c	/^static void ath79_ddr_no_flush(void)$/;"	f	file:
+ath79_eth0_data	dev-eth.c	/^struct ag71xx_platform_data ath79_eth0_data = {$/;"	v	typeref:struct:ag71xx_platform_data
+ath79_eth0_device	dev-eth.c	/^struct platform_device ath79_eth0_device = {$/;"	v	typeref:struct:platform_device
+ath79_eth0_pll_data	dev-eth.c	/^struct ath79_eth_pll_data ath79_eth0_pll_data;$/;"	v	typeref:struct:ath79_eth_pll_data
+ath79_eth0_resources	dev-eth.c	/^static struct resource ath79_eth0_resources[] = {$/;"	v	typeref:struct:resource	file:
+ath79_eth1_data	dev-eth.c	/^struct ag71xx_platform_data ath79_eth1_data = {$/;"	v	typeref:struct:ag71xx_platform_data
+ath79_eth1_device	dev-eth.c	/^struct platform_device ath79_eth1_device = {$/;"	v	typeref:struct:platform_device
+ath79_eth1_pll_data	dev-eth.c	/^struct ath79_eth_pll_data ath79_eth1_pll_data;$/;"	v	typeref:struct:ath79_eth_pll_data
+ath79_eth1_resources	dev-eth.c	/^static struct resource ath79_eth1_resources[] = {$/;"	v	typeref:struct:resource	file:
+ath79_eth_pll_data	dev-eth.h	/^struct ath79_eth_pll_data {$/;"	s
+ath79_ethaddr_setup	dev-eth.c	/^static int __init ath79_ethaddr_setup(char *str)$/;"	f	file:
+ath79_get_eth_pll	dev-eth.c	/^static u32 ath79_get_eth_pll(unsigned int mac, int speed)$/;"	f	file:
+ath79_init_eth_pll_data	dev-eth.c	/^static void __init ath79_init_eth_pll_data(unsigned int id)$/;"	f	file:
+ath79_init_local_mac	dev-eth.c	/^void __init ath79_init_local_mac(unsigned char *dst, const unsigned char *src)$/;"	f
+ath79_init_mac	dev-eth.c	/^void __init ath79_init_mac(unsigned char *dst, const unsigned char *src,$/;"	f
+ath79_kmac_setup	dev-eth.c	/^static int __init ath79_kmac_setup(char *str)$/;"	f	file:
+ath79_mdio0_data	dev-eth.c	/^static struct ag71xx_mdio_platform_data ath79_mdio0_data;$/;"	v	typeref:struct:ag71xx_mdio_platform_data	file:
+ath79_mdio0_device	dev-eth.c	/^struct platform_device ath79_mdio0_device = {$/;"	v	typeref:struct:platform_device
+ath79_mdio0_resources	dev-eth.c	/^static struct resource ath79_mdio0_resources[] = {$/;"	v	typeref:struct:resource	file:
+ath79_mdio1_data	dev-eth.c	/^static struct ag71xx_mdio_platform_data ath79_mdio1_data;$/;"	v	typeref:struct:ag71xx_mdio_platform_data	file:
+ath79_mdio1_device	dev-eth.c	/^struct platform_device ath79_mdio1_device = {$/;"	v	typeref:struct:platform_device
+ath79_mdio1_resources	dev-eth.c	/^static struct resource ath79_mdio1_resources[] = {$/;"	v	typeref:struct:resource	file:
+ath79_mii_ctrl_set_if	dev-eth.c	/^static void __init ath79_mii_ctrl_set_if(unsigned int reg,$/;"	f	file:
+ath79_mii_ctrl_set_speed	dev-eth.c	/^static void ath79_mii_ctrl_set_speed(unsigned int reg, unsigned int speed)$/;"	f	file:
+ath79_nfc_data	dev-nfc.c	/^static struct ar934x_nfc_platform_data ath79_nfc_data;$/;"	v	typeref:struct:ar934x_nfc_platform_data	file:
+ath79_nfc_device	dev-nfc.c	/^static struct platform_device ath79_nfc_device = {$/;"	v	typeref:struct:platform_device	file:
+ath79_nfc_init_resource	dev-nfc.c	/^static void __init ath79_nfc_init_resource(struct resource res[2],$/;"	f	file:
+ath79_nfc_resources	dev-nfc.c	/^static struct resource ath79_nfc_resources[2];$/;"	v	typeref:struct:resource	file:
+ath79_nfc_set_parts	dev-nfc.c	/^void __init ath79_nfc_set_parts(struct mtd_partition *parts, int nr_parts)$/;"	f
+ath79_nfc_set_parts	dev-nfc.h	/^static inline void ath79_nfc_set_parts(struct mtd_partition *parts,$/;"	f
+ath79_nfc_set_scan_fixup	dev-nfc.c	/^void __init ath79_nfc_set_scan_fixup(int (*f)(struct mtd_info *mtd))$/;"	f
+ath79_nfc_set_scan_fixup	dev-nfc.h	/^static inline void ath79_nfc_set_scan_fixup(int (*f)(struct mtd_info *mtd)) {}$/;"	f
+ath79_nfc_set_select_chip	dev-nfc.c	/^void __init ath79_nfc_set_select_chip(void (*f)(int chip_no))$/;"	f
+ath79_nfc_set_select_chip	dev-nfc.h	/^static inline void ath79_nfc_set_select_chip(void (*f)(int chip_no)) {}$/;"	f
+ath79_nfc_set_swap_dma	dev-nfc.c	/^void __init ath79_nfc_set_swap_dma(bool enable)$/;"	f
+ath79_nfc_set_swap_dma	dev-nfc.h	/^static inline void ath79_nfc_set_swap_dma(bool enable) {}$/;"	f
+ath79_nvram_find_var	nvram.c	/^char *ath79_nvram_find_var(const char *name, const char *buf, unsigned buf_len)$/;"	f
+ath79_nvram_parse_mac_addr	nvram.c	/^int ath79_nvram_parse_mac_addr(const char *nvram, unsigned nvram_len,$/;"	f
+ath79_parse_mac_addr	dev-eth.c	/^void __init ath79_parse_mac_addr(char *mac_str)$/;"	f
+ath79_register_dsa	dev-dsa.c	/^void __init ath79_register_dsa(struct device *netdev,$/;"	f
+ath79_register_eth	dev-eth.c	/^void __init ath79_register_eth(unsigned int id)$/;"	f
+ath79_register_m25p80	dev-m25p80.c	/^void __init ath79_register_m25p80(struct flash_platform_data *pdata)$/;"	f
+ath79_register_m25p80_multi	dev-m25p80.c	/^void __init ath79_register_m25p80_multi(struct flash_platform_data *pdata)$/;"	f
+ath79_register_mdio	dev-eth.c	/^void __init ath79_register_mdio(unsigned int id, u32 phy_mask)$/;"	f
+ath79_register_nfc	dev-nfc.c	/^void __init ath79_register_nfc(void)$/;"	f
+ath79_register_nfc	dev-nfc.h	/^static inline void ath79_register_nfc(void) {}$/;"	f
+ath79_set_mac_base	dev-eth.c	/^void __init ath79_set_mac_base(unsigned char *mac)$/;"	f
+ath79_set_pll	dev-eth.c	/^static void ath79_set_pll(u32 cfg_reg, u32 pll_reg, u32 pll_val, u32 shift)$/;"	f	file:
+ath79_set_speed_dummy	dev-eth.c	/^static void ath79_set_speed_dummy(int speed)$/;"	f	file:
+ath79_set_speed_ge0	dev-eth.c	/^static void ath79_set_speed_ge0(int speed)$/;"	f	file:
+ath79_set_speed_ge1	dev-eth.c	/^static void ath79_set_speed_ge1(int speed)$/;"	f	file:
+ath79_setup_ar933x_phy4_switch	dev-eth.c	/^void __init ath79_setup_ar933x_phy4_switch(bool mac, bool mdio)$/;"	f
+ath79_setup_ar934x_eth_cfg	dev-eth.c	/^void __init ath79_setup_ar934x_eth_cfg(u32 mask)$/;"	f
+ath79_setup_phy_if_mode	dev-eth.c	/^static int __init ath79_setup_phy_if_mode(unsigned int id,$/;"	f	file:
+ath79_spi0_cdata	dev-m25p80.c	/^static struct ath79_spi_controller_data ath79_spi0_cdata =$/;"	v	typeref:struct:ath79_spi_controller_data	file:
+ath79_spi1_cdata	dev-m25p80.c	/^static struct ath79_spi_controller_data ath79_spi1_cdata =$/;"	v	typeref:struct:ath79_spi_controller_data	file:
+ath79_spi_data	dev-m25p80.c	/^static struct ath79_spi_platform_data ath79_spi_data;$/;"	v	typeref:struct:ath79_spi_platform_data	file:
+ath79_spi_info	dev-m25p80.c	/^static struct spi_board_info ath79_spi_info[] = {$/;"	v	typeref:struct:spi_board_info	file:
+ath79_switch_data	dev-eth.c	/^struct ag71xx_switch_platform_data ath79_switch_data;$/;"	v	typeref:struct:ag71xx_switch_platform_data
+ath9k_fixup	pci-ath9k-fixup.c	/^struct ath9k_fixup {$/;"	s	file:
+ath9k_fixups	pci-ath9k-fixup.c	/^static struct ath9k_fixup ath9k_fixups[2];$/;"	v	typeref:struct:ath9k_fixup	file:
+ath9k_num_fixups	pci-ath9k-fixup.c	/^static int ath9k_num_fixups;$/;"	v	file:
+ath9k_pci_fixup	pci-ath9k-fixup.c	/^static void ath9k_pci_fixup(struct pci_dev *dev)$/;"	f	file:
+aw_nr580_flash_data	mach-aw-nr580.c	/^static struct flash_platform_data aw_nr580_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+aw_nr580_part_probes	mach-aw-nr580.c	/^static const char *aw_nr580_part_probes[] = {$/;"	v	file:
+aw_nr580_setup	mach-aw-nr580.c	/^static void __init aw_nr580_setup(void)$/;"	f	file:
+cal_data	pci-ath9k-fixup.c	/^	u16		*cal_data;$/;"	m	struct:ath9k_fixup	file:
+cap4200ag_setup	mach-cap4200ag.c	/^static void __init cap4200ag_setup(void)$/;"	f	file:
+carambola2_common_setup	mach-carambola2.c	/^static void __init carambola2_common_setup(void)$/;"	f	file:
+carambola2_setup	mach-carambola2.c	/^static void __init carambola2_setup(void)$/;"	f	file:
+changHong_v1_flash_data	mach-changHong-v1.c	/^static struct flash_platform_data changHong_v1_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+changHong_v1_part_probes	mach-changHong-v1.c	/^static const char *changHong_v1_part_probes[] = {$/;"	v	file:
+changHong_v1_setup	mach-changHong-v1.c	/^static void __init changHong_v1_setup(void)$/;"	f	file:
+common_setup	mach-tl-mr11u.c	/^static void __init common_setup(void)$/;"	f	file:
+common_setup	mach-tl-wa901nd.c	/^static void __init common_setup(void)$/;"	f	file:
+common_setup	mach-tl-wr703n.c	/^static void __init common_setup(unsigned usb_power_gpio, bool sec_ethernet)$/;"	f	file:
+concat_devs	dev-m25p80.c	/^static struct mtd_info *concat_devs[2] = { NULL, NULL };$/;"	v	typeref:struct:mtd_info	file:
+db120_ar8327_data	mach-tl-wr1041n-v2.c	/^static struct ar8327_platform_data db120_ar8327_data = {$/;"	v	typeref:struct:ar8327_platform_data	file:
+db120_ar8327_pad0_cfg	mach-tl-wr1041n-v2.c	/^static struct ar8327_pad_cfg db120_ar8327_pad0_cfg = {$/;"	v	typeref:struct:ar8327_pad_cfg	file:
+db120_mdio0_info	mach-tl-wr1041n-v2.c	/^static struct mdio_board_info db120_mdio0_info[] = {$/;"	v	typeref:struct:mdio_board_info	file:
+dir825b1_is_caldata_valid	mach-dir-825-b1.c	/^static bool __init dir825b1_is_caldata_valid(u8 *p)$/;"	f	file:
+dir825b1_read_ascii_mac	mach-dir-825-b1.c	/^static void dir825b1_read_ascii_mac(u8 *dest, u8 *src)$/;"	f	file:
+dir825b1_rtl8366s_data	mach-dir-825-b1.c	/^static struct rtl8366_platform_data dir825b1_rtl8366s_data = {$/;"	v	typeref:struct:rtl8366_platform_data	file:
+dir825b1_rtl8366s_device	mach-dir-825-b1.c	/^static struct platform_device dir825b1_rtl8366s_device = {$/;"	v	typeref:struct:platform_device	file:
+dir825b1_rtl8366s_initvals	mach-dir-825-b1.c	/^static struct rtl8366_initval dir825b1_rtl8366s_initvals[] = {$/;"	v	typeref:struct:rtl8366_initval	file:
+dir825b1_setup	mach-dir-825-b1.c	/^static void __init dir825b1_setup(void)$/;"	f	file:
+dir825b1_wlan_init	mach-dir-825-b1.c	/^static void __init dir825b1_wlan_init(void)$/;"	f	file:
+dir825c1_ar8327_data	mach-dir-825-c1.c	/^static struct ar8327_platform_data dir825c1_ar8327_data = {$/;"	v	typeref:struct:ar8327_platform_data	file:
+dir825c1_ar8327_led_cfg	mach-dir-825-c1.c	/^static struct ar8327_led_cfg dir825c1_ar8327_led_cfg = {$/;"	v	typeref:struct:ar8327_led_cfg	file:
+dir825c1_ar8327_pad0_cfg	mach-dir-825-c1.c	/^static struct ar8327_pad_cfg dir825c1_ar8327_pad0_cfg = {$/;"	v	typeref:struct:ar8327_pad_cfg	file:
+dir825c1_generic_setup	mach-dir-825-c1.c	/^static void __init dir825c1_generic_setup(void)$/;"	f	file:
+dir825c1_mdio0_info	mach-dir-825-c1.c	/^static struct mdio_board_info dir825c1_mdio0_info[] = {$/;"	v	typeref:struct:mdio_board_info	file:
+dir825c1_read_ascii_mac	mach-dir-825-c1.c	/^static void dir825c1_read_ascii_mac(u8 *dest, u8 *src)$/;"	f	file:
+dir825c1_setup	mach-dir-825-c1.c	/^static void __init dir825c1_setup(void)$/;"	f	file:
+dir835a1_setup	mach-dir-825-c1.c	/^static void __init dir835a1_setup(void)$/;"	f	file:
+dir_505_a1_read_ascii_mac	mach-dir-505-a1.c	/^static void __init dir_505_a1_read_ascii_mac(u8 *dest, unsigned int src_addr)$/;"	f	file:
+dir_505_a1_setup	mach-dir-505-a1.c	/^static void __init dir_505_a1_setup(void)$/;"	f	file:
+dir_600_a1_setup	mach-dir-600-a1.c	/^static void __init dir_600_a1_setup(void)$/;"	f	file:
+dir_615_e4_setup	mach-dir-600-a1.c	/^static void __init dir_615_e4_setup(void)$/;"	f	file:
+dir_615c1_setup	mach-dir-615-c1.c	/^static void __init dir_615c1_setup(void)$/;"	f	file:
+eap7660d_flash_data	mach-eap7660d.c	/^static struct flash_platform_data eap7660d_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+eap7660d_part_probes	mach-eap7660d.c	/^static const char *eap7660d_part_probes[] = {$/;"	v	file:
+eap7660d_pci_init	mach-eap7660d.c	/^static inline void eap7660d_pci_init(u8 *cal_data0, u8 *mac_addr0,$/;"	f	file:
+eap7660d_pci_init	mach-eap7660d.c	/^void __init eap7660d_pci_init(u8 *cal_data0, u8 *mac_addr0,$/;"	f
+eap7660d_pci_plat_dev_init	mach-eap7660d.c	/^static int eap7660d_pci_plat_dev_init(struct pci_dev *dev)$/;"	f	file:
+eap7660d_setup	mach-eap7660d.c	/^static void __init eap7660d_setup(void)$/;"	f	file:
+eap7660d_wmac0_data	mach-eap7660d.c	/^static struct ath5k_platform_data eap7660d_wmac0_data;$/;"	v	typeref:struct:ath5k_platform_data	file:
+eap7660d_wmac0_eeprom	mach-eap7660d.c	/^static u16 eap7660d_wmac0_eeprom[ATH5K_PLAT_EEP_MAX_WORDS];$/;"	v	file:
+eap7660d_wmac0_mac	mach-eap7660d.c	/^static char eap7660d_wmac0_mac[6];$/;"	v	file:
+eap7660d_wmac1_data	mach-eap7660d.c	/^static struct ath5k_platform_data eap7660d_wmac1_data;$/;"	v	typeref:struct:ath5k_platform_data	file:
+eap7660d_wmac1_eeprom	mach-eap7660d.c	/^static u16 eap7660d_wmac1_eeprom[ATH5K_PLAT_EEP_MAX_WORDS];$/;"	v	file:
+eap7660d_wmac1_mac	mach-eap7660d.c	/^static char eap7660d_wmac1_mac[6];$/;"	v	file:
+ew_dorin_router_setup	mach-ew-dorin.c	/^static void __init ew_dorin_router_setup(void)$/;"	f	file:
+ew_dorin_setup	mach-ew-dorin.c	/^static void __init ew_dorin_setup(void)$/;"	f	file:
+get_u16	routerboot.c	/^static u16 get_u16(void *buf)$/;"	f	file:
+get_u32	routerboot.c	/^static u32 get_u32(void *buf)$/;"	f	file:
+hornet_ub_gpio_setup	mach-hornet-ub.c	/^static void __init hornet_ub_gpio_setup(void)$/;"	f	file:
+hornet_ub_setup	mach-hornet-ub.c	/^static void __init hornet_ub_setup(void)$/;"	f	file:
+ja76pf2_init	mach-ja76pf.c	/^static void __init ja76pf2_init(void)$/;"	f	file:
+ja76pf_flash_data	mach-ja76pf.c	/^static struct flash_platform_data ja76pf_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+ja76pf_i2c_gpio_data	mach-ja76pf.c	/^static struct i2c_gpio_platform_data ja76pf_i2c_gpio_data = {$/;"	v	typeref:struct:i2c_gpio_platform_data	file:
+ja76pf_i2c_gpio_device	mach-ja76pf.c	/^static struct platform_device ja76pf_i2c_gpio_device = {$/;"	v	typeref:struct:platform_device	file:
+ja76pf_init	mach-ja76pf.c	/^static void __init ja76pf_init(void)$/;"	f	file:
+ja76pf_part_probes	mach-ja76pf.c	/^static const char *ja76pf_part_probes[] = {$/;"	v	file:
+jwap003_flash_data	mach-jwap003.c	/^static struct flash_platform_data jwap003_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+jwap003_i2c_gpio_data	mach-jwap003.c	/^static struct i2c_gpio_platform_data jwap003_i2c_gpio_data = {$/;"	v	typeref:struct:i2c_gpio_platform_data	file:
+jwap003_i2c_gpio_device	mach-jwap003.c	/^static struct platform_device jwap003_i2c_gpio_device = {$/;"	v	typeref:struct:platform_device	file:
+jwap003_init	mach-jwap003.c	/^static void __init jwap003_init(void)$/;"	f	file:
+jwap003_part_probes	mach-jwap003.c	/^static const char *jwap003_part_probes[] = {$/;"	v	file:
+mr600_base_setup	mach-mr600.c	/^static void __init mr600_base_setup(unsigned num_leds, struct gpio_led *leds)$/;"	f	file:
+mr600_setup	mach-mr600.c	/^static void __init mr600_setup(void)$/;"	f	file:
+mr600v2_setup	mach-mr600.c	/^static void __init mr600v2_setup(void)$/;"	f	file:
+mtd_concat_add	dev-m25p80.c	/^static void mtd_concat_add(struct mtd_info *mtd)$/;"	f	file:
+mtd_concat_add_work	dev-m25p80.c	/^static void mtd_concat_add_work(struct work_struct *work)$/;"	f	file:
+mtd_concat_remove	dev-m25p80.c	/^static void mtd_concat_remove(struct mtd_info *mtd)$/;"	f	file:
+mtd_concat_work	dev-m25p80.c	/^static struct work_struct mtd_concat_work;$/;"	v	typeref:struct:work_struct	file:
+multi_pdata	dev-m25p80.c	/^static struct flash_platform_data *multi_pdata;$/;"	v	typeref:struct:flash_platform_data	file:
+mzk_w04nu_setup	mach-mzk-w04nu.c	/^static void __init mzk_w04nu_setup(void)$/;"	f	file:
+mzk_w300nh_setup	mach-mzk-w300nh.c	/^static void __init mzk_w300nh_setup(void)$/;"	f	file:
+nbg460n_flash_data	mach-nbg460n.c	/^static struct flash_platform_data nbg460n_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+nbg460n_i2c_device	mach-nbg460n.c	/^static struct platform_device nbg460n_i2c_device = {$/;"	v	typeref:struct:platform_device	file:
+nbg460n_i2c_device_platdata	mach-nbg460n.c	/^static struct i2c_gpio_platform_data nbg460n_i2c_device_platdata = {$/;"	v	typeref:struct:i2c_gpio_platform_data	file:
+nbg460n_i2c_init	mach-nbg460n.c	/^static void nbg460n_i2c_init(void)$/;"	f	file:
+nbg460n_partitions	mach-nbg460n.c	/^static struct mtd_partition nbg460n_partitions[] = {$/;"	v	typeref:struct:mtd_partition	file:
+nbg460n_rtl8366s_data	mach-nbg460n.c	/^static struct rtl8366_platform_data nbg460n_rtl8366s_data = {$/;"	v	typeref:struct:rtl8366_platform_data	file:
+nbg460n_rtl8366s_device	mach-nbg460n.c	/^static struct platform_device nbg460n_rtl8366s_device = {$/;"	v	typeref:struct:platform_device	file:
+nbg460n_setup	mach-nbg460n.c	/^static void __init nbg460n_setup(void)$/;"	f	file:
+om2p_flash_data	mach-om2p.c	/^static struct flash_platform_data om2p_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+om2p_hs_setup	mach-om2p.c	/^static void __init om2p_hs_setup(void)$/;"	f	file:
+om2p_lc_flash_data	mach-om2p.c	/^static struct flash_platform_data om2p_lc_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+om2p_lc_setup	mach-om2p.c	/^static void __init om2p_lc_setup(void)$/;"	f	file:
+om2p_setup	mach-om2p.c	/^static void __init om2p_setup(void)$/;"	f	file:
+pb42_flash_data	mach-pb42.c	/^static struct flash_platform_data pb42_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+pb42_init	mach-pb42.c	/^static void __init pb42_init(void)$/;"	f	file:
+pb42_part_probes	mach-pb42.c	/^static const char *pb42_part_probes[] = {$/;"	v	file:
+pb92_init	mach-pb92.c	/^static void __init pb92_init(void)$/;"	f	file:
+pci_enable_ath9k_fixup	pci-ath9k-fixup.c	/^void __init pci_enable_ath9k_fixup(unsigned slot, u16 *cal_data)$/;"	f
+pll_10	dev-eth.h	/^	u32	pll_10;$/;"	m	struct:ath79_eth_pll_data
+pll_100	dev-eth.h	/^	u32	pll_100;$/;"	m	struct:ath79_eth_pll_data
+pll_1000	dev-eth.h	/^	u32	pll_1000;$/;"	m	struct:ath79_eth_pll_data
+pr_fmt	mach-rb2011.c	12;"	d	file:
+pr_fmt	mach-rb95x.c	13;"	d	file:
+qca955x_nfc_hw_reset	dev-nfc.c	/^static void qca955x_nfc_hw_reset(bool active)$/;"	f	file:
+qca955x_nfc_setup	dev-nfc.c	/^static void qca955x_nfc_setup(void)$/;"	f	file:
+qca955x_set_speed_sgmii	dev-eth.c	/^static void qca955x_set_speed_sgmii(int speed)$/;"	f	file:
+qca955x_set_speed_xmii	dev-eth.c	/^static void qca955x_set_speed_xmii(int speed)$/;"	f	file:
+rb2011_ar8327_data	mach-rb2011.c	/^static struct ar8327_platform_data rb2011_ar8327_data = {$/;"	v	typeref:struct:ar8327_platform_data	file:
+rb2011_ar8327_led_cfg	mach-rb2011.c	/^static struct ar8327_led_cfg rb2011_ar8327_led_cfg = {$/;"	v	typeref:struct:ar8327_led_cfg	file:
+rb2011_ar8327_pad0_cfg	mach-rb2011.c	/^static struct ar8327_pad_cfg rb2011_ar8327_pad0_cfg = {$/;"	v	typeref:struct:ar8327_pad_cfg	file:
+rb2011_ar8327_pad6_cfg	mach-rb2011.c	/^static struct ar8327_pad_cfg rb2011_ar8327_pad6_cfg;$/;"	v	typeref:struct:ar8327_pad_cfg	file:
+rb2011_ar8327_sgmii_cfg	mach-rb2011.c	/^static struct ar8327_sgmii_cfg rb2011_ar8327_sgmii_cfg;$/;"	v	typeref:struct:ar8327_sgmii_cfg	file:
+rb2011_get_port_link	mach-rb2011.c	/^static int rb2011_get_port_link(unsigned port)$/;"	f	file:
+rb2011_init_partitions	mach-rb2011.c	/^static void __init rb2011_init_partitions(void)$/;"	f	file:
+rb2011_mdio0_info	mach-rb2011.c	/^static struct mdio_board_info rb2011_mdio0_info[] = {$/;"	v	typeref:struct:mdio_board_info	file:
+rb2011_nand_ecclayout	mach-rb2011.c	/^static struct nand_ecclayout rb2011_nand_ecclayout = {$/;"	v	typeref:struct:nand_ecclayout	file:
+rb2011_nand_init	mach-rb2011.c	/^static void __init rb2011_nand_init(void)$/;"	f	file:
+rb2011_nand_partitions	mach-rb2011.c	/^static struct mtd_partition rb2011_nand_partitions[] = {$/;"	v	typeref:struct:mtd_partition	file:
+rb2011_nand_scan_fixup	mach-rb2011.c	/^static int rb2011_nand_scan_fixup(struct mtd_info *mtd)$/;"	f	file:
+rb2011_nand_select_chip	mach-rb2011.c	/^static void rb2011_nand_select_chip(int chip_no)$/;"	f	file:
+rb2011_setup	mach-rb2011.c	/^static void __init rb2011_setup(void)$/;"	f	file:
+rb2011_sfp_init	mach-rb2011.c	/^static void __init rb2011_sfp_init(void)$/;"	f	file:
+rb2011_spi_flash_data	mach-rb2011.c	/^static struct flash_platform_data rb2011_spi_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+rb2011_spi_partitions	mach-rb2011.c	/^static struct mtd_partition rb2011_spi_partitions[] = {$/;"	v	typeref:struct:mtd_partition	file:
+rb2011_wlan_init	mach-rb2011.c	/^static void __init rb2011_wlan_init(void)$/;"	f	file:
+rb2011g_setup	mach-rb2011.c	/^static void __init rb2011g_setup(void)$/;"	f	file:
+rb2011us_setup	mach-rb2011.c	/^static void __init rb2011us_setup(void)$/;"	f	file:
+rb411_setup	mach-rb4xx.c	/^static void __init rb411_setup(void)$/;"	f	file:
+rb411u_setup	mach-rb4xx.c	/^static void __init rb411u_setup(void)$/;"	f	file:
+rb433_setup	mach-rb4xx.c	/^static void __init rb433_setup(void)$/;"	f	file:
+rb433u_setup	mach-rb4xx.c	/^static void __init rb433u_setup(void)$/;"	f	file:
+rb435g_setup	mach-rb4xx.c	/^static void __init rb435g_setup(void)$/;"	f	file:
+rb450_generic_setup	mach-rb4xx.c	/^static void __init rb450_generic_setup(int gige)$/;"	f	file:
+rb450_setup	mach-rb4xx.c	/^static void __init rb450_setup(void)$/;"	f	file:
+rb450g_setup	mach-rb4xx.c	/^static void __init rb450g_setup(void)$/;"	f	file:
+rb493_setup	mach-rb4xx.c	/^static void __init rb493_setup(void)$/;"	f	file:
+rb493g_mdio_data	mach-rb4xx.c	/^static struct mdio_gpio_platform_data rb493g_mdio_data = {$/;"	v	typeref:struct:mdio_gpio_platform_data	file:
+rb493g_mdio_device	mach-rb4xx.c	/^static struct platform_device rb493g_mdio_device = {$/;"	v	typeref:struct:platform_device	file:
+rb493g_setup	mach-rb4xx.c	/^static void __init rb493g_setup(void)$/;"	f	file:
+rb4xx_cpld_data	mach-rb4xx.c	/^static struct rb4xx_cpld_platform_data rb4xx_cpld_data = {$/;"	v	typeref:struct:rb4xx_cpld_platform_data	file:
+rb4xx_flash_data	mach-rb4xx.c	/^static struct flash_platform_data rb4xx_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+rb4xx_generic_setup	mach-rb4xx.c	/^static void __init rb4xx_generic_setup(void)$/;"	f	file:
+rb4xx_microsd_info	mach-rb4xx.c	/^static struct spi_board_info rb4xx_microsd_info[] = {$/;"	v	typeref:struct:spi_board_info	file:
+rb4xx_mmc_data	mach-rb4xx.c	/^static struct mmc_spi_platform_data rb4xx_mmc_data = {$/;"	v	typeref:struct:mmc_spi_platform_data	file:
+rb4xx_nand_device	mach-rb4xx.c	/^static struct platform_device rb4xx_nand_device = {$/;"	v	typeref:struct:platform_device	file:
+rb4xx_partitions	mach-rb4xx.c	/^static struct mtd_partition rb4xx_partitions[] = {$/;"	v	typeref:struct:mtd_partition	file:
+rb4xx_spi_device	mach-rb4xx.c	/^static struct platform_device rb4xx_spi_device = {$/;"	v	typeref:struct:platform_device	file:
+rb4xx_spi_info	mach-rb4xx.c	/^static struct spi_board_info rb4xx_spi_info[] = {$/;"	v	typeref:struct:spi_board_info	file:
+rb4xx_spi_resources	mach-rb4xx.c	/^static struct resource rb4xx_spi_resources[] = {$/;"	v	typeref:struct:resource	file:
+rb750_latch_change	mach-rb750.c	/^static void rb750_latch_change(u32 mask_clr, u32 mask_set)$/;"	f	file:
+rb750_leds	mach-rb750.c	/^static struct rb750_led_data rb750_leds[] = {$/;"	v	typeref:struct:rb750_led_data	file:
+rb750_leds_data	mach-rb750.c	/^static struct rb750_led_platform_data rb750_leds_data;$/;"	v	typeref:struct:rb750_led_platform_data	file:
+rb750_leds_device	mach-rb750.c	/^static struct platform_device rb750_leds_device = {$/;"	v	typeref:struct:platform_device	file:
+rb750_nand_data	mach-rb750.c	/^static struct rb7xx_nand_platform_data rb750_nand_data;$/;"	v	typeref:struct:rb7xx_nand_platform_data	file:
+rb750_nand_device	mach-rb750.c	/^static struct platform_device rb750_nand_device = {$/;"	v	typeref:struct:platform_device	file:
+rb750_nand_disable_pins	mach-rb750.c	/^static void rb750_nand_disable_pins(void)$/;"	f	file:
+rb750_nand_enable_pins	mach-rb750.c	/^static void rb750_nand_enable_pins(void)$/;"	f	file:
+rb750_setup	mach-rb750.c	/^static void __init rb750_setup(void)$/;"	f	file:
+rb750g3_mdio_info	mach-rb750.c	/^static struct mdio_board_info rb750g3_mdio_info[] = {$/;"	v	typeref:struct:mdio_board_info	file:
+rb750gr3_ar8327_data	mach-rb750.c	/^static struct ar8327_platform_data rb750gr3_ar8327_data = {$/;"	v	typeref:struct:ar8327_platform_data	file:
+rb750gr3_ar8327_pad0_cfg	mach-rb750.c	/^static struct ar8327_pad_cfg rb750gr3_ar8327_pad0_cfg = {$/;"	v	typeref:struct:ar8327_pad_cfg	file:
+rb750gr3_latch_change	mach-rb750.c	/^static void rb750gr3_latch_change(u32 mask_clr, u32 mask_set)$/;"	f	file:
+rb750gr3_leds	mach-rb750.c	/^static struct rb750_led_data rb750gr3_leds[] = {$/;"	v	typeref:struct:rb750_led_data	file:
+rb750gr3_nand_disable_pins	mach-rb750.c	/^static void rb750gr3_nand_disable_pins(void)$/;"	f	file:
+rb750gr3_nand_enable_pins	mach-rb750.c	/^static void rb750gr3_nand_enable_pins(void)$/;"	f	file:
+rb750gr3_setup	mach-rb750.c	/^static void __init rb750gr3_setup(void)$/;"	f	file:
+rb751_setup	mach-rb750.c	/^static void __init rb751_setup(void)$/;"	f	file:
+rb751_wlan_setup	mach-rb750.c	/^static void __init rb751_wlan_setup(void)$/;"	f	file:
+rb751g_setup	mach-rb750.c	/^static void __init rb751g_setup(void)$/;"	f	file:
+rb951g_setup	mach-rb95x.c	/^static void __init rb951g_setup(void)$/;"	f	file:
+rb95x_ar8327_data	mach-rb95x.c	/^static struct ar8327_platform_data rb95x_ar8327_data = {$/;"	v	typeref:struct:ar8327_platform_data	file:
+rb95x_ar8327_pad0_cfg	mach-rb95x.c	/^static struct ar8327_pad_cfg rb95x_ar8327_pad0_cfg = {$/;"	v	typeref:struct:ar8327_pad_cfg	file:
+rb95x_gpio_init	mach-rb95x.c	/^void __init rb95x_gpio_init(void)$/;"	f
+rb95x_mdio0_info	mach-rb95x.c	/^static struct mdio_board_info rb95x_mdio0_info[] = {$/;"	v	typeref:struct:mdio_board_info	file:
+rb95x_nand_ecclayout	mach-rb95x.c	/^static struct nand_ecclayout rb95x_nand_ecclayout = {$/;"	v	typeref:struct:nand_ecclayout	file:
+rb95x_nand_init	mach-rb95x.c	/^void __init rb95x_nand_init(void)$/;"	f
+rb95x_nand_partitions	mach-rb95x.c	/^static struct mtd_partition rb95x_nand_partitions[] = {$/;"	v	typeref:struct:mtd_partition	file:
+rb95x_nand_scan_fixup	mach-rb95x.c	/^static int rb95x_nand_scan_fixup(struct mtd_info *mtd)$/;"	f	file:
+rb95x_nand_select_chip	mach-rb95x.c	/^static void rb95x_nand_select_chip(int chip_no)$/;"	f	file:
+rb95x_setup	mach-rb95x.c	/^static void __init rb95x_setup(void)$/;"	f	file:
+rb95x_wlan_init	mach-rb95x.c	/^void __init rb95x_wlan_init(void)$/;"	f
+routerboot_find_magic	routerboot.c	/^routerboot_find_magic(u8 *buf, unsigned int buflen, u32 *offset, bool hard)$/;"	f
+routerboot_find_magic	routerboot.h	/^routerboot_find_magic(u8 *buf, unsigned int buflen, u32 *offset, bool hard)$/;"	f
+routerboot_find_tag	routerboot.c	/^routerboot_find_tag(u8 *buf, unsigned int buflen, u16 tag_id,$/;"	f
+routerboot_find_tag	routerboot.h	/^routerboot_find_tag(u8 *buf, unsigned int buflen, u16 tag_id,$/;"	f
+rw2458n_setup	mach-rw2458n.c	/^static void __init rw2458n_setup(void)$/;"	f	file:
+slot	pci-ath9k-fixup.c	/^	unsigned	slot;$/;"	m	struct:ath9k_fixup	file:
+tew673gru_is_caldata_valid	mach-tew-673gru.c	/^static bool __init tew673gru_is_caldata_valid(u8 *p)$/;"	f	file:
+tew673gru_read_ascii_mac	mach-tew-673gru.c	/^static void tew673gru_read_ascii_mac(u8 *dest, u8 *src)$/;"	f	file:
+tew673gru_rtl8366s_data	mach-tew-673gru.c	/^static struct rtl8366_platform_data tew673gru_rtl8366s_data = {$/;"	v	typeref:struct:rtl8366_platform_data	file:
+tew673gru_rtl8366s_device	mach-tew-673gru.c	/^static struct platform_device tew673gru_rtl8366s_device = {$/;"	v	typeref:struct:platform_device	file:
+tew673gru_rtl8366s_initvals	mach-tew-673gru.c	/^static struct rtl8366_initval tew673gru_rtl8366s_initvals[] = {$/;"	v	typeref:struct:rtl8366_initval	file:
+tew673gru_setup	mach-tew-673gru.c	/^static void __init tew673gru_setup(void)$/;"	f	file:
+tew673gru_spi_data	mach-tew-673gru.c	/^static struct spi_gpio_platform_data tew673gru_spi_data = {$/;"	v	typeref:struct:spi_gpio_platform_data	file:
+tew673gru_spi_device	mach-tew-673gru.c	/^static struct platform_device tew673gru_spi_device = {$/;"	v	typeref:struct:platform_device	file:
+tew673gru_spi_info	mach-tew-673gru.c	/^static struct spi_board_info tew673gru_spi_info[] = {$/;"	v	typeref:struct:spi_board_info	file:
+tew673gru_wlan_init	mach-tew-673gru.c	/^static void __init tew673gru_wlan_init(void)$/;"	f	file:
+tew_632brp_setup	mach-tew-632brp.c	/^static void __init tew_632brp_setup(void)$/;"	f	file:
+tew_712br_read_ascii_mac	mach-tew-712br.c	/^static void __init tew_712br_read_ascii_mac(u8 *dest, unsigned int src_addr)$/;"	f	file:
+tew_712br_setup	mach-tew-712br.c	/^static void __init tew_712br_setup(void)$/;"	f	file:
+tl_ap121_setup	mach-tl-wr741nd-v4.c	/^static void __init tl_ap121_setup(void)$/;"	f	file:
+tl_ap123_setup	mach-changHong-v1.c	/^static void __init tl_ap123_setup(void)$/;"	f	file:
+tl_ap123_setup	mach-tl-wr841n-v8.c	/^static void __init tl_ap123_setup(void)$/;"	f	file:
+tl_ap99_setup	mach-tl-mr3x20.c	/^static void __init tl_ap99_setup(void)$/;"	f	file:
+tl_mr10u_setup	mach-tl-wr703n.c	/^static void __init tl_mr10u_setup(void)$/;"	f	file:
+tl_mr11u_flash_data	mach-tl-mr11u.c	/^static struct flash_platform_data tl_mr11u_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_mr11u_part_probes	mach-tl-mr11u.c	/^static const char *tl_mr11u_part_probes[] = {$/;"	v	file:
+tl_mr11u_setup	mach-tl-mr11u.c	/^static void __init tl_mr11u_setup(void)$/;"	f	file:
+tl_mr3020_flash_data	mach-tl-mr3020.c	/^static struct flash_platform_data tl_mr3020_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_mr3020_part_probes	mach-tl-mr3020.c	/^static const char *tl_mr3020_part_probes[] = {$/;"	v	file:
+tl_mr3020_setup	mach-tl-mr3020.c	/^static void __init tl_mr3020_setup(void)$/;"	f	file:
+tl_mr3040_setup	mach-tl-mr11u.c	/^static void __init tl_mr3040_setup(void)$/;"	f	file:
+tl_mr3220_setup	mach-tl-mr3x20.c	/^static void __init tl_mr3220_setup(void)$/;"	f	file:
+tl_mr3220v2_setup	mach-tl-wr741nd-v4.c	/^static void __init tl_mr3220v2_setup(void)$/;"	f	file:
+tl_mr3420_setup	mach-tl-mr3x20.c	/^static void __init tl_mr3420_setup(void)$/;"	f	file:
+tl_mr3420v2_setup	mach-tl-wr841n-v8.c	/^static void __init tl_mr3420v2_setup(void)$/;"	f	file:
+tl_mr3x20_flash_data	mach-tl-mr3x20.c	/^static struct flash_platform_data tl_mr3x20_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_mr3x20_part_probes	mach-tl-mr3x20.c	/^static const char *tl_mr3x20_part_probes[] = {$/;"	v	file:
+tl_mr3x20_usb_setup	mach-tl-mr3x20.c	/^static void __init tl_mr3x20_usb_setup(void)$/;"	f	file:
+tl_wa7510n_v1_setup	mach-tl-wa901nd.c	/^static void __init tl_wa7510n_v1_setup(void)$/;"	f	file:
+tl_wa901nd_flash_data	mach-tl-wa901nd.c	/^static struct flash_platform_data tl_wa901nd_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_wa901nd_part_probes	mach-tl-wa901nd.c	/^static const char *tl_wa901nd_part_probes[] = {$/;"	v	file:
+tl_wa901nd_setup	mach-tl-wa901nd.c	/^static void __init tl_wa901nd_setup(void)$/;"	f	file:
+tl_wa901nd_v2_flash_data	mach-tl-wa901nd-v2.c	/^static struct flash_platform_data tl_wa901nd_v2_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_wa901nd_v2_part_probes	mach-tl-wa901nd-v2.c	/^static const char *tl_wa901nd_v2_part_probes[] = {$/;"	v	file:
+tl_wa901nd_v2_setup	mach-tl-wa901nd-v2.c	/^static void __init tl_wa901nd_v2_setup(void)$/;"	f	file:
+tl_wr1041nv2_flash_data	mach-tl-wr1041n-v2.c	/^static struct flash_platform_data tl_wr1041nv2_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_wr1041nv2_part_probes	mach-tl-wr1041n-v2.c	/^static const char *tl_wr1041nv2_part_probes[] = {$/;"	v	file:
+tl_wr1041nv2_setup	mach-tl-wr1041n-v2.c	/^static void __init tl_wr1041nv2_setup(void)$/;"	f	file:
+tl_wr1043nd_flash_data	mach-tl-wr1043nd.c	/^static struct flash_platform_data tl_wr1043nd_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_wr1043nd_part_probes	mach-tl-wr1043nd.c	/^static const char *tl_wr1043nd_part_probes[] = {$/;"	v	file:
+tl_wr1043nd_rtl8366rb_data	mach-tl-wr1043nd.c	/^static struct rtl8366_platform_data tl_wr1043nd_rtl8366rb_data = {$/;"	v	typeref:struct:rtl8366_platform_data	file:
+tl_wr1043nd_rtl8366rb_device	mach-tl-wr1043nd.c	/^static struct platform_device tl_wr1043nd_rtl8366rb_device = {$/;"	v	typeref:struct:platform_device	file:
+tl_wr1043nd_rtl8366rb_hw_reset	mach-tl-wr1043nd.c	/^static void tl_wr1043nd_rtl8366rb_hw_reset(bool active)$/;"	f	file:
+tl_wr1043nd_setup	mach-tl-wr1043nd.c	/^static void __init tl_wr1043nd_setup(void)$/;"	f	file:
+tl_wr2543n_flash_data	mach-tl-wr2543n.c	/^static struct flash_platform_data tl_wr2543n_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_wr2543n_part_probes	mach-tl-wr2543n.c	/^static const char *tl_wr2543n_part_probes[] = {$/;"	v	file:
+tl_wr2543n_rtl8367_data	mach-tl-wr2543n.c	/^static struct rtl8367_platform_data tl_wr2543n_rtl8367_data = {$/;"	v	typeref:struct:rtl8367_platform_data	file:
+tl_wr2543n_rtl8367_device	mach-tl-wr2543n.c	/^static struct platform_device tl_wr2543n_rtl8367_device = {$/;"	v	typeref:struct:platform_device	file:
+tl_wr2543n_rtl8367_extif0_cfg	mach-tl-wr2543n.c	/^static struct rtl8367_extif_config tl_wr2543n_rtl8367_extif0_cfg = {$/;"	v	typeref:struct:rtl8367_extif_config	file:
+tl_wr2543n_setup	mach-tl-wr2543n.c	/^static void __init tl_wr2543n_setup(void)$/;"	f	file:
+tl_wr2543n_wmac_leds_gpio	mach-tl-wr2543n.c	/^static struct gpio_led tl_wr2543n_wmac_leds_gpio[] = {$/;"	v	typeref:struct:gpio_led	file:
+tl_wr703n_flash_data	mach-tl-wr703n.c	/^static struct flash_platform_data tl_wr703n_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_wr703n_part_probes	mach-tl-wr703n.c	/^static const char *tl_wr703n_part_probes[] = {$/;"	v	file:
+tl_wr703n_setup	mach-tl-wr703n.c	/^static void __init tl_wr703n_setup(void)$/;"	f	file:
+tl_wr710n_setup	mach-tl-wr703n.c	/^static void __init tl_wr710n_setup(void)$/;"	f	file:
+tl_wr720n_flash_data	mach-tl-wr720n-v3.c	/^static struct flash_platform_data tl_wr720n_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_wr720n_part_probes	mach-tl-wr720n-v3.c	/^static const char *tl_wr720n_part_probes[] = {$/;"	v	file:
+tl_wr720n_v3_setup	mach-tl-wr720n-v3.c	/^static void __init tl_wr720n_v3_setup(void)$/;"	f	file:
+tl_wr741nd_flash_data	mach-tl-wr741nd.c	/^static struct flash_platform_data tl_wr741nd_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_wr741nd_part_probes	mach-tl-wr741nd.c	/^static const char *tl_wr741nd_part_probes[] = {$/;"	v	file:
+tl_wr741nd_setup	mach-tl-wr741nd.c	/^static void __init tl_wr741nd_setup(void)$/;"	f	file:
+tl_wr741ndv4_flash_data	mach-tl-wr741nd-v4.c	/^static struct flash_platform_data tl_wr741ndv4_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_wr741ndv4_part_probes	mach-tl-wr741nd-v4.c	/^static const char *tl_wr741ndv4_part_probes[] = {$/;"	v	file:
+tl_wr741ndv4_setup	mach-tl-wr741nd-v4.c	/^static void __init tl_wr741ndv4_setup(void)$/;"	f	file:
+tl_wr841n_v1_dsa_chip	mach-tl-wr841n.c	/^static struct dsa_chip_data tl_wr841n_v1_dsa_chip = {$/;"	v	typeref:struct:dsa_chip_data	file:
+tl_wr841n_v1_dsa_data	mach-tl-wr841n.c	/^static struct dsa_platform_data tl_wr841n_v1_dsa_data = {$/;"	v	typeref:struct:dsa_platform_data	file:
+tl_wr841n_v1_flash_data	mach-tl-wr841n.c	/^static struct flash_platform_data tl_wr841n_v1_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_wr841n_v1_partitions	mach-tl-wr841n.c	/^static struct mtd_partition tl_wr841n_v1_partitions[] = {$/;"	v	typeref:struct:mtd_partition	file:
+tl_wr841n_v1_setup	mach-tl-wr841n.c	/^static void __init tl_wr841n_v1_setup(void)$/;"	f	file:
+tl_wr841n_v7_setup	mach-tl-mr3x20.c	/^static void __init tl_wr841n_v7_setup(void)$/;"	f	file:
+tl_wr841n_v8_flash_data	mach-tl-wr841n-v8.c	/^static struct flash_platform_data tl_wr841n_v8_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_wr841n_v8_part_probes	mach-tl-wr841n-v8.c	/^static const char *tl_wr841n_v8_part_probes[] = {$/;"	v	file:
+tl_wr841n_v8_setup	mach-tl-wr841n-v8.c	/^static void __init tl_wr841n_v8_setup(void)$/;"	f	file:
+tl_wr941nd_dsa_chip	mach-tl-wr941nd.c	/^static struct dsa_chip_data tl_wr941nd_dsa_chip = {$/;"	v	typeref:struct:dsa_chip_data	file:
+tl_wr941nd_dsa_data	mach-tl-wr941nd.c	/^static struct dsa_platform_data tl_wr941nd_dsa_data = {$/;"	v	typeref:struct:dsa_platform_data	file:
+tl_wr941nd_flash_data	mach-tl-wr941nd.c	/^static struct flash_platform_data tl_wr941nd_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+tl_wr941nd_part_probes	mach-tl-wr941nd.c	/^static const char *tl_wr941nd_part_probes[] = {$/;"	v	file:
+tl_wr941nd_setup	mach-tl-wr941nd.c	/^static void __init tl_wr941nd_setup(void)$/;"	f	file:
+ubnt_flash_data	mach-ubnt.c	/^static struct flash_platform_data ubnt_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+ubnt_generic_setup	mach-ubnt.c	/^static void __init ubnt_generic_setup(void)$/;"	f	file:
+ubnt_lssr71_setup	mach-ubnt.c	/^static void __init ubnt_lssr71_setup(void)$/;"	f	file:
+ubnt_lsx_setup	mach-ubnt.c	/^static void __init ubnt_lsx_setup(void)$/;"	f	file:
+ubnt_part_probes	mach-ubnt.c	/^static const char *ubnt_part_probes[] = {$/;"	v	file:
+ubnt_rs_setup	mach-ubnt.c	/^static void __init ubnt_rs_setup(void)$/;"	f	file:
+ubnt_rspro_setup	mach-ubnt.c	/^static void __init ubnt_rspro_setup(void)$/;"	f	file:
+wdr3500_flash_data	mach-tl-wdr3500.c	/^static struct flash_platform_data wdr3500_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+wdr3500_part_probes	mach-tl-wdr3500.c	/^static const char *wdr3500_part_probes[] = {$/;"	v	file:
+wdr3500_setup	mach-tl-wdr3500.c	/^static void __init wdr3500_setup(void)$/;"	f	file:
+wdr4300_flash_data	mach-tl-wdr4300.c	/^static struct flash_platform_data wdr4300_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+wdr4300_part_probes	mach-tl-wdr4300.c	/^static const char *wdr4300_part_probes[] = {$/;"	v	file:
+wdr4300_setup	mach-tl-wdr4300.c	/^static void __init wdr4300_setup(void)$/;"	f	file:
+whrhpg300n_setup	mach-whr-hp-g300n.c	/^static void __init whrhpg300n_setup(void)$/;"	f	file:
+wlaeag300n_setup	mach-wlae-ag300n.c	/^static void __init wlaeag300n_setup(void)$/;"	f	file:
+wndap360_setup	mach-wndap360.c	/^static void __init wndap360_setup(void)$/;"	f	file:
+wndr3700_rtl8366s_data	mach-wndr3700.c	/^static struct rtl8366_platform_data wndr3700_rtl8366s_data = {$/;"	v	typeref:struct:rtl8366_platform_data	file:
+wndr3700_rtl8366s_device	mach-wndr3700.c	/^static struct platform_device wndr3700_rtl8366s_device = {$/;"	v	typeref:struct:platform_device	file:
+wndr3700_setup	mach-wndr3700.c	/^static void __init wndr3700_setup(void)$/;"	f	file:
+wndr4300_ar8327_data	mach-wndr4300.c	/^static struct ar8327_platform_data wndr4300_ar8327_data = {$/;"	v	typeref:struct:ar8327_platform_data	file:
+wndr4300_ar8327_led_cfg	mach-wndr4300.c	/^static struct ar8327_led_cfg wndr4300_ar8327_led_cfg = {$/;"	v	typeref:struct:ar8327_led_cfg	file:
+wndr4300_ar8327_pad0_cfg	mach-wndr4300.c	/^static struct ar8327_pad_cfg wndr4300_ar8327_pad0_cfg = {$/;"	v	typeref:struct:ar8327_pad_cfg	file:
+wndr4300_mdio0_info	mach-wndr4300.c	/^static struct mdio_board_info wndr4300_mdio0_info[] = {$/;"	v	typeref:struct:mdio_board_info	file:
+wndr4300_setup	mach-wndr4300.c	/^static void __init wndr4300_setup(void)$/;"	f	file:
+wnr2000_flash_data	mach-wnr2000.c	/^static struct flash_platform_data wnr2000_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+wnr2000_partitions	mach-wnr2000.c	/^static struct mtd_partition wnr2000_partitions[] = {$/;"	v	typeref:struct:mtd_partition	file:
+wnr2000_setup	mach-wnr2000.c	/^static void __init wnr2000_setup(void)$/;"	f	file:
+wnr2000v3_setup	mach-wnr2000-v3.c	/^static void __init wnr2000v3_setup(void)$/;"	f	file:
+wnr612v2_setup	mach-wnr2000-v3.c	/^static void __init wnr612v2_setup(void)$/;"	f	file:
+wnr_common_setup	mach-wnr2000-v3.c	/^static void __init wnr_common_setup(void)$/;"	f	file:
+wp543_flash_data	mach-wp543.c	/^static struct flash_platform_data wp543_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+wp543_part_probes	mach-wp543.c	/^static const char *wp543_part_probes[] = {$/;"	v	file:
+wp543_setup	mach-wp543.c	/^static void __init wp543_setup(void)$/;"	f	file:
+wpe72_flash_data	mach-wpe72.c	/^static struct flash_platform_data wpe72_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+wpe72_part_probes	mach-wpe72.c	/^static const char *wpe72_part_probes[] = {$/;"	v	file:
+wpe72_setup	mach-wpe72.c	/^static void __init wpe72_setup(void)$/;"	f	file:
+wrt160nl_flash_data	mach-wrt160nl.c	/^static struct flash_platform_data wrt160nl_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+wrt160nl_part_probes	mach-wrt160nl.c	/^static const char *wrt160nl_part_probes[] = {$/;"	v	file:
+wrt160nl_setup	mach-wrt160nl.c	/^static void __init wrt160nl_setup(void)$/;"	f	file:
+wrt400n_flash_data	mach-wrt400n.c	/^static struct flash_platform_data wrt400n_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+wrt400n_partitions	mach-wrt400n.c	/^static struct mtd_partition wrt400n_partitions[] = {$/;"	v	typeref:struct:mtd_partition	file:
+wrt400n_setup	mach-wrt400n.c	/^static void __init wrt400n_setup(void)$/;"	f	file:
+wzrhpag300h_flash_data	mach-wzr-hp-ag300h.c	/^static struct flash_platform_data wzrhpag300h_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+wzrhpag300h_flash_partitions	mach-wzr-hp-ag300h.c	/^static struct mtd_partition wzrhpag300h_flash_partitions[] = {$/;"	v	typeref:struct:mtd_partition	file:
+wzrhpag300h_setup	mach-wzr-hp-ag300h.c	/^static void __init wzrhpag300h_setup(void)$/;"	f	file:
+wzrhpag300h_wmac0_leds_gpio	mach-wzr-hp-ag300h.c	/^static struct gpio_led wzrhpag300h_wmac0_leds_gpio[] = {$/;"	v	typeref:struct:gpio_led	file:
+wzrhpag300h_wmac1_leds_gpio	mach-wzr-hp-ag300h.c	/^static struct gpio_led wzrhpag300h_wmac1_leds_gpio[] = {$/;"	v	typeref:struct:gpio_led	file:
+wzrhpg300nh2_flash_data	mach-wzr-hp-g300nh2.c	/^static struct flash_platform_data wzrhpg300nh2_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+wzrhpg300nh2_flash_partitions	mach-wzr-hp-g300nh2.c	/^static struct mtd_partition wzrhpg300nh2_flash_partitions[] = {$/;"	v	typeref:struct:mtd_partition	file:
+wzrhpg300nh2_setup	mach-wzr-hp-g300nh2.c	/^static void __init wzrhpg300nh2_setup(void)$/;"	f	file:
+wzrhpg300nh2_wmac_leds_gpio	mach-wzr-hp-g300nh2.c	/^static struct gpio_led wzrhpg300nh2_wmac_leds_gpio[] = {$/;"	v	typeref:struct:gpio_led	file:
+wzrhpg300nh_74hc153_data	mach-wzr-hp-g300nh.c	/^static struct nxp_74hc153_platform_data wzrhpg300nh_74hc153_data = {$/;"	v	typeref:struct:nxp_74hc153_platform_data	file:
+wzrhpg300nh_74hc153_device	mach-wzr-hp-g300nh.c	/^static struct platform_device wzrhpg300nh_74hc153_device = {$/;"	v	typeref:struct:platform_device	file:
+wzrhpg300nh_flash_data	mach-wzr-hp-g300nh.c	/^static struct physmap_flash_data wzrhpg300nh_flash_data = {$/;"	v	typeref:struct:physmap_flash_data	file:
+wzrhpg300nh_flash_device	mach-wzr-hp-g300nh.c	/^static struct platform_device wzrhpg300nh_flash_device = {$/;"	v	typeref:struct:platform_device	file:
+wzrhpg300nh_flash_partitions	mach-wzr-hp-g300nh.c	/^static struct mtd_partition wzrhpg300nh_flash_partitions[] = {$/;"	v	typeref:struct:mtd_partition	file:
+wzrhpg300nh_flash_resources	mach-wzr-hp-g300nh.c	/^static struct resource wzrhpg300nh_flash_resources[] = {$/;"	v	typeref:struct:resource	file:
+wzrhpg300nh_rtl8366_data	mach-wzr-hp-g300nh.c	/^static struct rtl8366_platform_data wzrhpg300nh_rtl8366_data = {$/;"	v	typeref:struct:rtl8366_platform_data	file:
+wzrhpg300nh_rtl8366rb_device	mach-wzr-hp-g300nh.c	/^static struct platform_device wzrhpg300nh_rtl8366rb_device = {$/;"	v	typeref:struct:platform_device	file:
+wzrhpg300nh_rtl8366s_device	mach-wzr-hp-g300nh.c	/^static struct platform_device wzrhpg300nh_rtl8366s_device = {$/;"	v	typeref:struct:platform_device	file:
+wzrhpg300nh_setup	mach-wzr-hp-g300nh.c	/^static void __init wzrhpg300nh_setup(void)$/;"	f	file:
+wzrhpg450h_flash_data	mach-wzr-hp-g450h.c	/^static struct flash_platform_data wzrhpg450h_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+wzrhpg450h_init	mach-wzr-hp-g450h.c	/^static void __init wzrhpg450h_init(void)$/;"	f	file:
+wzrhpg450h_partitions	mach-wzr-hp-g450h.c	/^static struct mtd_partition wzrhpg450h_partitions[] = {$/;"	v	typeref:struct:mtd_partition	file:
+wzrhpg450h_wmac_leds_gpio	mach-wzr-hp-g450h.c	/^static struct gpio_led wzrhpg450h_wmac_leds_gpio[] = {$/;"	v	typeref:struct:gpio_led	file:
+zcn_1523h_2_setup	mach-zcn-1523h.c	/^static void __init zcn_1523h_2_setup(void)$/;"	f	file:
+zcn_1523h_5_setup	mach-zcn-1523h.c	/^static void __init zcn_1523h_5_setup(void)$/;"	f	file:
+zcn_1523h_generic_setup	mach-zcn-1523h.c	/^static void __init zcn_1523h_generic_setup(void)$/;"	f	file:
+zhongwang_v1_flash_data	mach-zhongwang-v1.c	/^static struct flash_platform_data zhongwang_v1_flash_data = {$/;"	v	typeref:struct:flash_platform_data	file:
+zhongwang_v1_part_probes	mach-zhongwang-v1.c	/^static const char *zhongwang_v1_part_probes[] = {$/;"	v	file:
+zhongwang_v1_setup	mach-zhongwang-v1.c	/^static void __init zhongwang_v1_setup(void)$/;"	f	file:

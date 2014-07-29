@@ -1,0 +1,13 @@
+Package: wifidog
+Version: 20130917-440445db60b0c3aff528ea703a828b0567293387
+Depends: libc, iptables-mod-extra, iptables-mod-ipopt, iptables-mod-nat-extra, libpthread
+Source: feeds/packages/net/wifidog
+SourceFile: wifidog-20130917-440445db60b0c3aff528ea703a828b0567293387.tar.gz
+SourceURL: git://github.com/wifidog/wifidog-gateway.git
+Section: net
+Architecture: ar71xx
+Installed-Size: 44418
+Description:  The Wifidog project is a complete and embeddable captive
+ portal solution for wireless community groups or individuals
+ who wish to open a free Hotspot while still preventing abuse
+ of their Internet connection.

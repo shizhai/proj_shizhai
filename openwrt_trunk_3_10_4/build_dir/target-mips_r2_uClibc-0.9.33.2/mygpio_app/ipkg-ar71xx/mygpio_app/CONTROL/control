@@ -1,0 +1,8 @@
+Package: mygpio_app
+Version: 1
+Depends: libc
+Source: package/mygpio_app
+Section: utils
+Architecture: ar71xx
+Installed-Size: 1309
+Description:  the software of OpenWrt test gpio controled by hand

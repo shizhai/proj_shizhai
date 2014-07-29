@@ -1,0 +1,6 @@
+DISTRIB_ID="OpenWrt"
+DISTRIB_RELEASE="Bleeding Edge"
+DISTRIB_REVISION="r37742"
+DISTRIB_CODENAME="barrier_breaker"
+DISTRIB_TARGET="ar71xx/generic"
+DISTRIB_DESCRIPTION="OpenWrt Barrier Breaker r37742"

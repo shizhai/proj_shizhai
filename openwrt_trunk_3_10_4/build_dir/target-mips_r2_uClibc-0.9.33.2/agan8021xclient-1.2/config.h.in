@@ -1,0 +1,101 @@
+/* config.h.in.  Generated from configure.ac by autoheader.  */
+
+/* Define to 1 if you have the `bpf_image' function. */
+#undef HAVE_BPF_IMAGE
+
+/* Define to 1 if you have the <inttypes.h> header file. */
+#undef HAVE_INTTYPES_H
+
+/* Define to use libpcap library */
+#undef HAVE_LIBPCAP
+
+/* Define to 1 if you have the <memory.h> header file. */
+#undef HAVE_MEMORY_H
+
+/* Define if pcap_breakloop is known */
+#undef HAVE_PCAP_BREAKLOOP
+
+/* Define to 1 if you have the `pcap_create' function. */
+#undef HAVE_PCAP_CREATE
+
+/* Define to 1 if you have the `pcap_datalink_name_to_val' function. */
+#undef HAVE_PCAP_DATALINK_NAME_TO_VAL
+
+/* Define to 1 if you have the `pcap_datalink_val_to_description' function. */
+#undef HAVE_PCAP_DATALINK_VAL_TO_DESCRIPTION
+
+/* Define to 1 if you have the `pcap_datalink_val_to_name' function. */
+#undef HAVE_PCAP_DATALINK_VAL_TO_NAME
+
+/* Define to 1 if you have the `pcap_findalldevs' function and a pcap.h that
+   declares pcap_if_t. */
+#undef HAVE_PCAP_FINDALLDEVS
+
+/* Define to 1 if you have the `pcap_freecode' function. */
+#undef HAVE_PCAP_FREECODE
+
+/* Define to 1 if you have the `pcap_free_datalinks' function. */
+#undef HAVE_PCAP_FREE_DATALINKS
+
+/* Define to 1 if you have the `pcap_get_selectable_fd' function. */
+#undef HAVE_PCAP_GET_SELECTABLE_FD
+
+/* Define to 1 if you have the `pcap_lib_version' function. */
+#undef HAVE_PCAP_LIB_VERSION
+
+/* Define to 1 if you have the `pcap_list_datalinks' function. */
+#undef HAVE_PCAP_LIST_DATALINKS
+
+/* Define to 1 if you have the `pcap_open_dead' function. */
+#undef HAVE_PCAP_OPEN_DEAD
+
+/* Define to 1 if you have the `pcap_set_datalink' function. */
+#undef HAVE_PCAP_SET_DATALINK
+
+/* Define to 1 if you have the <stdint.h> header file. */
+#undef HAVE_STDINT_H
+
+/* Define to 1 if you have the <stdlib.h> header file. */
+#undef HAVE_STDLIB_H
+
+/* Define to 1 if you have the <strings.h> header file. */
+#undef HAVE_STRINGS_H
+
+/* Define to 1 if you have the <string.h> header file. */
+#undef HAVE_STRING_H
+
+/* Define to 1 if you have the <sys/stat.h> header file. */
+#undef HAVE_SYS_STAT_H
+
+/* Define to 1 if you have the <sys/types.h> header file. */
+#undef HAVE_SYS_TYPES_H
+
+/* Define to 1 if you have the <unistd.h> header file. */
+#undef HAVE_UNISTD_H
+
+/* Name of package */
+#undef PACKAGE
+
+/* Define to the address where bug reports for this package should be sent. */
+#undef PACKAGE_BUGREPORT
+
+/* Define to the full name of this package. */
+#undef PACKAGE_NAME
+
+/* Define to the full name and version of this package. */
+#undef PACKAGE_STRING
+
+/* Define to the one symbol short name of this package. */
+#undef PACKAGE_TARNAME
+
+/* Define to the home page for this package. */
+#undef PACKAGE_URL
+
+/* Define to the version of this package. */
+#undef PACKAGE_VERSION
+
+/* Define to 1 if you have the ANSI C header files. */
+#undef STDC_HEADERS
+
+/* Version number of package */
+#undef VERSION

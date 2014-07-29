@@ -1,0 +1,12 @@
+Package: libustream-cyassl
+Version: 2013-07-24-daa954de38f2bf4e2fbc41ac7917f8447d37a2a0
+Depends: libc, libubox, libcyassl
+Source: package/libs/ustream-ssl
+SourceFile: ustream-ssl-2013-07-24-daa954de38f2bf4e2fbc41ac7917f8447d37a2a0.tar.gz
+SourceURL: git://nbd.name/ustream-ssl.git
+License: ISC
+Section: libs
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ar71xx
+Installed-Size: 2912
+Description:  ustream SSL Library (cyassl)

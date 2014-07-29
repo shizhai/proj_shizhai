@@ -1,0 +1,11 @@
+Package: ppp-mod-pppoe
+Version: 2.4.5-10
+Depends: libc, kmod-pppoe
+Source: package/network/services/ppp
+SourceFile: ppp-2.4.5.tar.gz
+SourceURL: ftp://ftp.samba.org/pub/ppp/
+Section: net
+Maintainer: Jo-Philipp Wich <xm@subsignal.org>
+Architecture: ar71xx
+Installed-Size: 8357
+Description:  This package contains a PPPoE (PPP over Ethernet) plugin for ppp.
