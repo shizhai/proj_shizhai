@@ -1,0 +1,43 @@
+Index: linux-3.10.4/arch/mips/ath79/Kconfig
+===================================================================
+--- linux-3.10.4.orig/arch/mips/ath79/Kconfig	2013-08-04 19:08:12.739921385 +0200
++++ linux-3.10.4/arch/mips/ath79/Kconfig	2013-08-04 19:09:15.379922883 +0200
+@@ -768,6 +768,17 @@
+ 	select ATH79_DEV_USB
+ 	select ATH79_DEV_WMAC
+ 
++config ATH79_MACH_ZHONGWANG_V1
++	bool "ZHONG WANG V1 WIFI board support"
++	select SOC_AR934X
++	select ATH79_DEV_AP9X_PCI if PCI
++	select ATH79_DEV_ETH
++	select ATH79_DEV_GPIO_BUTTONS
++	select ATH79_DEV_LEDS_GPIO
++	select ATH79_DEV_M25P80
++	select ATH79_DEV_USB
++	select ATH79_DEV_WMAC
++
+ endmenu
+ 
+ config SOC_AR71XX
+Index: linux-3.10.4/arch/mips/ath79/Makefile
+===================================================================
+--- linux-3.10.4.orig/arch/mips/ath79/Makefile	2013-08-04 19:07:36.299920522 +0200
++++ linux-3.10.4/arch/mips/ath79/Makefile	2013-08-04 19:09:42.363923523 +0200
+@@ -115,3 +115,4 @@
+ obj-$(CONFIG_ATH79_MACH_WZR_HP_G450H)	+= mach-wzr-hp-g450h.o
+ obj-$(CONFIG_ATH79_MACH_ZCN_1523H)	+= mach-zcn-1523h.o
+ obj-$(CONFIG_ATH79_MACH_CARAMBOLA2)	+= mach-carambola2.o
++obj-$(CONFIG_ATH79_MACH_ZHONGWANG_V1)     += mach-zhongwang-v1.o
+Index: linux-3.10.4/arch/mips/ath79/machtypes.h
+===================================================================
+--- linux-3.10.4.orig/arch/mips/ath79/machtypes.h	2013-08-04 19:08:12.739921385 +0200
++++ linux-3.10.4/arch/mips/ath79/machtypes.h	2013-08-04 19:09:29.715923222 +0200
+@@ -139,6 +139,7 @@
+ 	ATH79_MACH_WZR_HP_G450H,	/* Buffalo WZR-HP-G450H */
+ 	ATH79_MACH_ZCN_1523H_2,		/* Zcomax ZCN-1523H-2-xx */
+ 	ATH79_MACH_ZCN_1523H_5,		/* Zcomax ZCN-1523H-5-xx */
++	ATH79_MACH_ZHONGWANG_V1,		/* zhong wang v1*/
+ };
+ 
+ #endif /* _ATH79_MACHTYPE_H */

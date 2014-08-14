@@ -1,0 +1,21 @@
+hostname:
+/home/shizhai/zhongwang/trunk/package/base-files/files/etc
+也可以在系统里面的/etc/config/system option hostname里面修改
+language:
+/home/shizhai/zhongwang/trunk/feeds/luci/po/zh_CN
+修改默认中文：feeds/luci/libs/web/root/etc/config ==> option lang auto --> option lang zh_cn
+版本号:
+/home/shizhai/zhongwang/trunk/build_dir/target-mips_r2_uClibc-0.9.33.2/luci/build/mkversion.sh
+修改版本在相应的原始路径下（非build_dir下）貌似不一样，可能是程序自动生成
+
+无线配置，默认开启
+/home/shizhai/zhongwang/trunk/package/kernel/mac80211/files/lib/wifi
+=====
+
+/home/shizhai/new_zhongwang/trunk/package/base-files/files/lib/functions/uci-default.sh修改网络
+
+如果不想make clean可以直接修改build_dir下面相应位置
+
+
+/home/shizhai/new_zhongwang/trunk/package/base-files/files/etc/openwrt_*
+里面的%D 表示OpenWrt,%N表示Barrier Breaker,%V表示版本r37742,%C表示Bleeding Edge
